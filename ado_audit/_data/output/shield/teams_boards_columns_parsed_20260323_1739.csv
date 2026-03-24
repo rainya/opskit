@@ -1,0 +1,11 @@
+Project ID,Project Name,Team ID,Team Name,Board ID,Board Name,Column ID,Column Name,Column Order,State Mapping,WIP Limit,Split Column
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,,Shield_Team_Backlog,40134d3a-cc56-4abc-9444-e738b786a04d,Backlog items,9d056ff6-db0e-44ff-b2a5-f59f1eb25a43,New,1,New,0,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,,Shield_Team_Backlog,40134d3a-cc56-4abc-9444-e738b786a04d,Backlog items,8fb3d96a-ee0e-4894-be1e-675ab740937e,Approved,2,Approved,5,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,,Shield_Team_Backlog,40134d3a-cc56-4abc-9444-e738b786a04d,Backlog items,b56e800e-e614-4487-ac5b-15fd0f773cca,Committed,3,Committed,5,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,,Shield_Team_Backlog,40134d3a-cc56-4abc-9444-e738b786a04d,Backlog items,a3d45c8c-29f7-4291-b45a-109385767651,Done,4,Done,0,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,2d2af99f-6ade-4047-b564-0028b81abe7f,Epics,8c489928-a46d-48af-9886-c37c227a435b,New,1,New,0,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,2d2af99f-6ade-4047-b564-0028b81abe7f,Epics,b2a8d8a2-24d9-4bb7-ad9c-c5cd13aa3633,In Progress,2,In Progress,5,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,2d2af99f-6ade-4047-b564-0028b81abe7f,Epics,7bcb9de1-8e2c-4bad-8894-86da0fbda975,Done,3,Done,0,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,965e3831-c969-4f86-a5a4-0c824076c393,Features,017c0e18-f946-487a-ae33-b265aea757f4,New,1,New,0,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,965e3831-c969-4f86-a5a4-0c824076c393,Features,07d02758-93de-4dca-ba32-dc9d9a93d98f,In Progress,2,In Progress,5,False
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,965e3831-c969-4f86-a5a4-0c824076c393,Features,7c48ee7a-53d7-47bf-8285-3de051a8ac1a,Done,3,Done,0,False

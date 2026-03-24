@@ -1,0 +1,10 @@
+{
+  "typeId": "27450541-8e31-4150-9947-dc59f998fc01",
+  "name": "CMMI",
+  "referenceName": null,
+  "description": "This template is for more formal projects requiring a framework for process improvement and an auditable record of decisions.",
+  "parentProcessTypeId": "00000000-0000-0000-0000-000000000000",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "system"
+}

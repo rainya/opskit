@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0a66862e-3c64-4c9f-9912-e27e14130223",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.AccessRequest/states/0a66862e-3c64-4c9f-9912-e27e14130223",
+    "customizationType": "custom"
+  },
+  {
+    "id": "7b0dbac5-b829-4f12-8b73-8c88845994c2",
+    "name": "Active",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.AccessRequest/states/7b0dbac5-b829-4f12-8b73-8c88845994c2",
+    "customizationType": "custom"
+  },
+  {
+    "id": "8d3cb3bd-783a-45a3-b9c8-ff015907e20f",
+    "name": "Closed",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.AccessRequest/states/8d3cb3bd-783a-45a3-b9c8-ff015907e20f",
+    "customizationType": "custom"
+  }
+]

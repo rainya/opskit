@@ -1,0 +1,44 @@
+{
+  "backlogIteration": {
+    "id": "ab2c4167-e49e-4935-845c-a289c6f64715",
+    "name": "Authentication Services",
+    "path": "",
+    "url": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.EpicCategory": false,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": null,
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/7e48b4b5-e287-41c3-8dbb-9a4566d6e8ee/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/7e48b4b5-e287-41c3-8dbb-9a4566d6e8ee/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1ef767e-b1fa-4401-8fdc-f90c024b2493"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1ef767e-b1fa-4401-8fdc-f90c024b2493/teams/7e48b4b5-e287-41c3-8dbb-9a4566d6e8ee"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/7e48b4b5-e287-41c3-8dbb-9a4566d6e8ee/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/7e48b4b5-e287-41c3-8dbb-9a4566d6e8ee/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": {
+      "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/_apis/wit/classificationNodes/Iterations"
+    }
+  }
+}

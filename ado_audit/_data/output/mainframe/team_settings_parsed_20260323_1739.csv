@@ -1,0 +1,4 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+d7b91afd-e7d2-4ae0-8d0c-96ef0399403d,Mainframe,78b2ba9c-ea7d-4505-98e2-ff531e98d711,LDAPX_Developers,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+d7b91afd-e7d2-4ae0-8d0c-96ef0399403d,Mainframe,8748f565-fe7c-43f5-a973-53c577ec0790,Mainframe Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 26-07,@currentIteration,False,True,True,True
+d7b91afd-e7d2-4ae0-8d0c-96ef0399403d,Mainframe,dd30d6ad-2a19-4f23-8711-bd8b992ded21,QC_1IM_Connectors,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True

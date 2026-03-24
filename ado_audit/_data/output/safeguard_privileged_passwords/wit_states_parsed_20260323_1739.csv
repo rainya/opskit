@@ -1,0 +1,52 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Task,To Do,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Task,In Progress,InProgress,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Task,Done,Completed,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Task,Removed,Removed,4
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Bug,New,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Bug,Approved,Proposed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Bug,Committed,InProgress,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Bug,Done,Completed,4
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Bug,Closed,Removed,5
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Bug,Removed,Removed,6
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Code Review Request,Requested,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Code Review Request,Closed,Completed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Code Review Response,Requested,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Code Review Response,Accepted,InProgress,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Code Review Response,Closed,Completed,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Epic,New,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Epic,In Progress,InProgress,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Epic,Done,Completed,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Epic,Removed,Removed,4
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,New,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,Grooming,InProgress,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,Architecture Review,InProgress,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,Prioritized,InProgress,4
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,Committed,InProgress,5
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,Complete,InProgress,6
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,Done,Completed,7
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feature,Removed,Removed,8
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feedback Request,Active,InProgress,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feedback Request,Closed,Completed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feedback Request,Removed,Removed,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feedback Response,Active,InProgress,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Feedback Response,Closed,Completed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Impediment,Open,InProgress,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Impediment,Closed,Completed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Product Backlog Item,New,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Product Backlog Item,Approved,Proposed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Product Backlog Item,Committed,InProgress,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Product Backlog Item,Done,Completed,4
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Product Backlog Item,Removed,Removed,5
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Shared Steps,Active,InProgress,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Shared Steps,Closed,Completed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Shared Parameter,Active,InProgress,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Shared Parameter,Inactive,Completed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Case,Design,Proposed,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Case,Ready,InProgress,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Case,Closed,Completed,3
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Plan,Active,InProgress,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Plan,Inactive,Completed,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Suite,In Planning,InProgress,1
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Suite,In Progress,InProgress,2
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Test Suite,Completed,Completed,3

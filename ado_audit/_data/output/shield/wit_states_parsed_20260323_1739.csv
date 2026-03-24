@@ -1,0 +1,47 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Task,To Do,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Task,In Progress,InProgress,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Task,Done,Completed,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Task,Removed,Removed,4
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Bug,New,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Bug,Approved,Proposed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Bug,Committed,InProgress,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Bug,Done,Completed,4
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Bug,Removed,Removed,5
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Code Review Request,Requested,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Code Review Request,Closed,Completed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Code Review Response,Requested,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Code Review Response,Accepted,InProgress,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Code Review Response,Closed,Completed,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Epic,New,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Epic,In Progress,InProgress,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Epic,Done,Completed,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Epic,Removed,Removed,4
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feature,New,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feature,In Progress,InProgress,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feature,Done,Completed,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feature,Removed,Removed,4
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feedback Request,Active,InProgress,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feedback Request,Closed,Completed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feedback Request,Removed,Removed,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feedback Response,Active,InProgress,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Feedback Response,Closed,Completed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Impediment,Open,InProgress,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Impediment,Closed,Completed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Product Backlog Item,New,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Product Backlog Item,Approved,Proposed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Product Backlog Item,Committed,InProgress,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Product Backlog Item,Done,Completed,4
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Product Backlog Item,Removed,Removed,5
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Shared Steps,Active,InProgress,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Shared Steps,Closed,Completed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Shared Parameter,Active,InProgress,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Shared Parameter,Inactive,Completed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Case,Design,Proposed,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Case,Ready,InProgress,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Case,Closed,Completed,3
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Plan,Active,InProgress,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Plan,Inactive,Completed,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Suite,In Planning,InProgress,1
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Suite,In Progress,InProgress,2
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,Test Suite,Completed,Completed,3

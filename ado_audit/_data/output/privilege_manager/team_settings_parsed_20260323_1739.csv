@@ -1,0 +1,4 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,a1cb29d7-7336-4335-8a6d-74a9d04eadd7,Admins,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,,False,True,True
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,4ef91d7b-7439-4185-9887-753f68eec5e8,Privilege Manager Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\2022,,,True,True,True
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,216ca0c7-64cb-43c2-8e50-01e65a4ec9d2,Technical Writers,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,,,False,True,True

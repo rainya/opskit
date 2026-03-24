@@ -1,0 +1,29 @@
+[
+  {
+    "id": "831ef4fa-19c1-404e-8fa7-85e57dbd4354",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/e7e99f8f-7f00-4d0f-a37b-8f953e7132c1/workItemTypes/ScrumwithInitiatives.Initiative/states/831ef4fa-19c1-404e-8fa7-85e57dbd4354",
+    "customizationType": "custom"
+  },
+  {
+    "id": "dbe18fa5-f3da-4389-a5ae-c714b4792409",
+    "name": "Committed",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/e7e99f8f-7f00-4d0f-a37b-8f953e7132c1/workItemTypes/ScrumwithInitiatives.Initiative/states/dbe18fa5-f3da-4389-a5ae-c714b4792409",
+    "customizationType": "custom"
+  },
+  {
+    "id": "7fdad186-8700-4987-afb1-08c7f0d2c84c",
+    "name": "Done",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/e7e99f8f-7f00-4d0f-a37b-8f953e7132c1/workItemTypes/ScrumwithInitiatives.Initiative/states/7fdad186-8700-4987-afb1-08c7f0d2c84c",
+    "customizationType": "custom"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0e767808-5f6e-4193-8f3b-1c8e28f5c30d",
+    "name": "Management Plane",
+    "url": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192/teams/0e767808-5f6e-4193-8f3b-1c8e28f5c30d",
+    "description": "Management Plane Board",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/0e767808-5f6e-4193-8f3b-1c8e28f5c30d",
+    "projectName": "SBox-OID-Migration",
+    "projectId": "91c39616-97bf-48ef-8cbb-72148c0a6192"
+  },
+  {
+    "id": "556afd04-ead5-46dd-aed3-5714b98f4c37",
+    "name": "UX",
+    "url": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192/teams/556afd04-ead5-46dd-aed3-5714b98f4c37",
+    "description": "",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/556afd04-ead5-46dd-aed3-5714b98f4c37",
+    "projectName": "SBox-OID-Migration",
+    "projectId": "91c39616-97bf-48ef-8cbb-72148c0a6192"
+  },
+  {
+    "id": "344b1185-d515-41ba-a7c4-cbb91504debf",
+    "name": "SG-SGOD",
+    "url": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192/teams/344b1185-d515-41ba-a7c4-cbb91504debf",
+    "description": "Safeguard On Demand (SBox-OID-Migration)",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/344b1185-d515-41ba-a7c4-cbb91504debf",
+    "projectName": "SBox-OID-Migration",
+    "projectId": "91c39616-97bf-48ef-8cbb-72148c0a6192"
+  },
+  {
+    "id": "4b579a5c-fa09-4d24-b43d-97953373ff00",
+    "name": "SG-SPP",
+    "url": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192/teams/4b579a5c-fa09-4d24-b43d-97953373ff00",
+    "description": "Safeguard Privileged Passwords (SBox-OID-Migration)",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/4b579a5c-fa09-4d24-b43d-97953373ff00",
+    "projectName": "SBox-OID-Migration",
+    "projectId": "91c39616-97bf-48ef-8cbb-72148c0a6192"
+  },
+  {
+    "id": "070816b1-4fea-4679-a7e5-9ce481c1f4eb",
+    "name": "Default Project Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192/teams/070816b1-4fea-4679-a7e5-9ce481c1f4eb",
+    "description": "The default project team for SBox-OID-Migration",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/070816b1-4fea-4679-a7e5-9ce481c1f4eb",
+    "projectName": "SBox-OID-Migration",
+    "projectId": "91c39616-97bf-48ef-8cbb-72148c0a6192"
+  }
+]

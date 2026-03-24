@@ -1,0 +1,69 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Task,To Do,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Task,In Progress,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Task,Done,Completed,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Task,Removed,Removed,4
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,New,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Approved,Proposed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Committed,InProgress,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Implementing,InProgress,4
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Ready for Test,InProgress,5
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Testing on DevTest,InProgress,6
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Tested on DevTest,InProgress,7
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Tested on Stage,InProgress,8
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Done,Completed,9
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Bug,Removed,Removed,10
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Code Review Request,Requested,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Code Review Request,Closed,Completed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Code Review Response,Requested,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Code Review Response,Accepted,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Code Review Response,Closed,Completed,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Epic,New,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Epic,In Progress,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Epic,Done,Completed,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Epic,Removed,Removed,4
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,New,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,In Progress,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Prioritized,InProgress,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Grooming,InProgress,4
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Awaiting Architecture Review,InProgress,5
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Reviewed,InProgress,6
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Implementing,InProgress,7
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Completed,InProgress,8
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Done,Completed,9
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feature,Removed,Removed,10
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feedback Request,Active,InProgress,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feedback Request,Closed,Completed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feedback Request,Removed,Removed,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feedback Response,Active,InProgress,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Feedback Response,Closed,Completed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Impediment,Open,InProgress,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Impediment,Closed,Completed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,New,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Approved,Proposed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Committed,InProgress,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Implementing,InProgress,4
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Ready for Test,InProgress,5
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Testing on DevTest,InProgress,6
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Tested on DevTest,InProgress,7
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Tested on Stage,InProgress,8
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Done,Completed,9
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Product Backlog Item,Removed,Removed,10
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Shared Steps,Active,InProgress,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Shared Steps,Closed,Completed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Shared Parameter,Active,InProgress,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Shared Parameter,Inactive,Completed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Case,Design,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Case,Ready,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Case,Closed,Completed,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Plan,Active,InProgress,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Plan,Inactive,Completed,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Suite,In Planning,InProgress,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Suite,In Progress,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Test Suite,Completed,Completed,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,User Story,New,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,User Story,Committed,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,User Story,Done,Completed,3
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Initiative,New,Proposed,1
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Initiative,Committed,InProgress,2
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Initiative,Done,Completed,3

@@ -1,0 +1,19 @@
+{
+  "portfolioBacklogs": [
+    {
+      "name": "Epics",
+      "workItemTypes": [{"name": "Epic", "plural": "Epics"}],
+      "workItemCountLimit": 1000
+    }
+  ],
+  "requirementBacklog": {
+    "name": "Stories",
+    "workItemTypes": [{"name": "User Story", "plural": "User Stories"}],
+    "workItemCountLimit": 500
+  },
+  "taskBacklog": {
+    "name": "Tasks",
+    "workItemTypes": [{"name": "Task", "plural": "Tasks"}],
+    "workItemCountLimit": 500
+  }
+}

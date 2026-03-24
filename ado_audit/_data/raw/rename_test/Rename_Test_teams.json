@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a4827850-b501-4547-9c90-c167ac51543f",
+    "name": "Rename Test Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/05a23854-c1cb-4d00-b640-03b432e5e9ac/teams/a4827850-b501-4547-9c90-c167ac51543f",
+    "description": "The default project team.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/a4827850-b501-4547-9c90-c167ac51543f",
+    "projectName": "Rename Test",
+    "projectId": "05a23854-c1cb-4d00-b640-03b432e5e9ac"
+  },
+  {
+    "id": "be506261-e8eb-455c-888f-08bbbc2688ca",
+    "name": "SRE",
+    "url": "https://dev.azure.com/1id/_apis/projects/05a23854-c1cb-4d00-b640-03b432e5e9ac/teams/be506261-e8eb-455c-888f-08bbbc2688ca",
+    "description": "",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/be506261-e8eb-455c-888f-08bbbc2688ca",
+    "projectName": "Rename Test",
+    "projectId": "05a23854-c1cb-4d00-b640-03b432e5e9ac"
+  }
+]

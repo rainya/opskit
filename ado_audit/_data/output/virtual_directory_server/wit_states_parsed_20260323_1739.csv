@@ -1,0 +1,48 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Bug,New,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Bug,Active,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Bug,Resolved,Resolved,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Bug,Closed,Completed,4
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Code Review Request,Requested,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Code Review Request,Closed,Completed,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Code Review Response,Requested,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Code Review Response,Accepted,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Code Review Response,Closed,Completed,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Epic,New,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Epic,Active,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Epic,Resolved,InProgress,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Epic,Closed,Completed,4
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Epic,Removed,Removed,5
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feature,New,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feature,Active,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feature,Resolved,InProgress,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feature,Closed,Completed,4
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feature,Removed,Removed,5
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feedback Request,Active,InProgress,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feedback Request,Closed,Completed,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feedback Request,Removed,Removed,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feedback Response,Active,InProgress,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Feedback Response,Closed,Completed,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Shared Steps,Active,InProgress,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Shared Steps,Closed,Completed,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Task,New,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Task,Active,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Task,Closed,Completed,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Task,Removed,Removed,4
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Case,Design,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Case,Ready,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Case,Closed,Completed,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Plan,Active,InProgress,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Plan,Inactive,Completed,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Suite,In Planning,InProgress,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Suite,In Progress,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Test Suite,Completed,Completed,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,User Story,New,Proposed,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,User Story,Active,InProgress,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,User Story,Resolved,InProgress,3
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,User Story,Closed,Completed,4
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,User Story,Removed,Removed,5
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Issue,Active,InProgress,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Issue,Closed,Completed,2
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Shared Parameter,Active,InProgress,1
+50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,Shared Parameter,Inactive,Completed,2

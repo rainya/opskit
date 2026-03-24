@@ -1,0 +1,40 @@
+{
+  "count": 7,
+  "value": [
+    {
+      "name": "New",
+      "color": "b2b2b2",
+      "category": "Proposed"
+    },
+    {
+      "name": "Pending Approval",
+      "color": "D5D5D5",
+      "category": "Proposed"
+    },
+    {
+      "name": "Awaiting Implementation",
+      "color": "D5D5D5",
+      "category": "Proposed"
+    },
+    {
+      "name": "Implementing",
+      "color": "5688E0",
+      "category": "InProgress"
+    },
+    {
+      "name": "Awaiting Verification",
+      "color": "5688E0",
+      "category": "InProgress"
+    },
+    {
+      "name": "Closed",
+      "color": "339933",
+      "category": "Completed"
+    },
+    {
+      "name": "Removed",
+      "color": "e87025",
+      "category": "Removed"
+    }
+  ]
+}

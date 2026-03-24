@@ -1,0 +1,14 @@
+{
+  "id": 296,
+  "identifier": "c1adf439-90fd-43f1-8df8-b8ac66e0aa78",
+  "name": "Blackbird",
+  "structureType": "area",
+  "hasChildren": false,
+  "path": "\\Blackbird\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/3fd33410-c239-48f0-b75c-5e4d9ae493ac/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/3fd33410-c239-48f0-b75c-5e4d9ae493ac/_apis/wit/classificationNodes/Areas"
+}

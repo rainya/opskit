@@ -1,0 +1,70 @@
+{
+  "id": 10464,
+  "identifier": "841e4040-61bb-4c78-871a-831180db7fcb",
+  "name": "PgM Sandbox",
+  "structureType": "iteration",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 10466,
+      "identifier": "f19fe15f-3753-48ab-b441-bab74b02510f",
+      "name": "Sprint 1",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\PgM Sandbox\\Iteration\\Sprint 1",
+      "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations/Sprint%201"
+    },
+    {
+      "id": 10467,
+      "identifier": "8c0dc84a-32a6-42cf-af2c-c110c28f9440",
+      "name": "Sprint 2",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\PgM Sandbox\\Iteration\\Sprint 2",
+      "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations/Sprint%202"
+    },
+    {
+      "id": 10468,
+      "identifier": "72810283-6a1c-4a90-a018-44a03bb2e4be",
+      "name": "Sprint 3",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\PgM Sandbox\\Iteration\\Sprint 3",
+      "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations/Sprint%203"
+    },
+    {
+      "id": 10469,
+      "identifier": "3fd8e75c-2384-4b48-a6d0-be29c78f38b5",
+      "name": "Sprint 4",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\PgM Sandbox\\Iteration\\Sprint 4",
+      "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations/Sprint%204"
+    },
+    {
+      "id": 10470,
+      "identifier": "15f2136e-6bfd-45ae-aa12-564f6d9b3489",
+      "name": "Sprint 5",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\PgM Sandbox\\Iteration\\Sprint 5",
+      "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations/Sprint%205"
+    },
+    {
+      "id": 10471,
+      "identifier": "ee3ef620-fe11-4fb6-9de4-8b781277e785",
+      "name": "Sprint 6",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\PgM Sandbox\\Iteration\\Sprint 6",
+      "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations/Sprint%206"
+    }
+  ],
+  "path": "\\PgM Sandbox\\Iteration",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations"
+    }
+  },
+  "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Iterations"
+}

@@ -1,0 +1,5 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,61eeb2c0-0715-4f5b-b399-509ecfb3b66b,Development,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Incoming,,False,True,True,True
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46b0e99d-f6de-47d1-9ea5-3692e4974782,Escalations,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Archive\Sprint 177,@currentIteration,False,False,True,True
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,ea538581-8a4d-498a-8bf8-cfdf98cd7841,Management,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Archive\Sprint 180,@currentIteration,False,True,True,True
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46df2829-fa12-4cad-94ba-62c0ea59b0b9,Technical Writers,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",\Documentation,\Documentation,,False,False,True,True

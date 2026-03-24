@@ -1,0 +1,47 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Task,To Do,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Task,In Progress,InProgress,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Task,Done,Completed,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Task,Removed,Removed,4
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Bug,New,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Bug,Approved,Proposed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Bug,Committed,InProgress,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Bug,Done,Completed,4
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Bug,Removed,Removed,5
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Code Review Request,Requested,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Code Review Request,Closed,Completed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Code Review Response,Requested,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Code Review Response,Accepted,InProgress,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Code Review Response,Closed,Completed,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Epic,New,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Epic,In Progress,InProgress,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Epic,Done,Completed,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Epic,Removed,Removed,4
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feature,New,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feature,In Progress,InProgress,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feature,Done,Completed,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feature,Removed,Removed,4
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feedback Request,Active,InProgress,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feedback Request,Closed,Completed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feedback Request,Removed,Removed,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feedback Response,Active,InProgress,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Feedback Response,Closed,Completed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Impediment,Open,InProgress,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Impediment,Closed,Completed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Product Backlog Item,New,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Product Backlog Item,Approved,Proposed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Product Backlog Item,Committed,InProgress,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Product Backlog Item,Done,Completed,4
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Product Backlog Item,Removed,Removed,5
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Shared Steps,Active,InProgress,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Shared Steps,Closed,Completed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Shared Parameter,Active,InProgress,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Shared Parameter,Inactive,Completed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Case,Design,Proposed,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Case,Ready,InProgress,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Case,Closed,Completed,3
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Plan,Active,InProgress,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Plan,Inactive,Completed,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Suite,In Planning,InProgress,1
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Suite,In Progress,InProgress,2
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,Test Suite,Completed,Completed,3

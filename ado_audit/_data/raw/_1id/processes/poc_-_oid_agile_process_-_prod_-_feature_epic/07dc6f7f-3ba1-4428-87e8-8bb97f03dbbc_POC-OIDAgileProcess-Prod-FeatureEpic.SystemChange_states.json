@@ -1,0 +1,65 @@
+[
+  {
+    "id": "34a73b84-2cde-4a3b-810c-3e4b9e7885d2",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange/states/34a73b84-2cde-4a3b-810c-3e4b9e7885d2",
+    "customizationType": "custom"
+  },
+  {
+    "id": "9ff1ca54-174f-40aa-a7f3-e77f82a978b0",
+    "name": "Pending Approval",
+    "color": "D5D5D5",
+    "stateCategory": "Proposed",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange/states/9ff1ca54-174f-40aa-a7f3-e77f82a978b0",
+    "customizationType": "custom"
+  },
+  {
+    "id": "65227877-d4dc-47d1-8022-504b8c5c41ea",
+    "name": "Awaiting Implementation",
+    "color": "D5D5D5",
+    "stateCategory": "Proposed",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange/states/65227877-d4dc-47d1-8022-504b8c5c41ea",
+    "customizationType": "custom"
+  },
+  {
+    "id": "363a265e-8de9-4d30-b28a-cad5cd55d9aa",
+    "name": "Implementing",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange/states/363a265e-8de9-4d30-b28a-cad5cd55d9aa",
+    "customizationType": "custom"
+  },
+  {
+    "id": "1dc6f619-1020-4987-bb78-db3d12083d20",
+    "name": "Awaiting Verification",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 5,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange/states/1dc6f619-1020-4987-bb78-db3d12083d20",
+    "customizationType": "custom"
+  },
+  {
+    "id": "9d3cfd57-f925-4e1d-acea-9821050d10ee",
+    "name": "Closed",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 6,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange/states/9d3cfd57-f925-4e1d-acea-9821050d10ee",
+    "customizationType": "custom"
+  },
+  {
+    "id": "17466084-7cb2-432d-91ac-de731177c462",
+    "name": "Removed",
+    "color": "e87025",
+    "stateCategory": "Removed",
+    "order": 7,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange/states/17466084-7cb2-432d-91ac-de731177c462",
+    "customizationType": "custom"
+  }
+]

@@ -1,0 +1,11 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,a83b7196-0a9f-472a-89d7-4a0b69e97ec4,Identity Manager (M),Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,a83b7196-0a9f-472a-89d7-4a0b69e97ec4,Identity Manager (M),Microsoft.EpicCategory,Epics,4,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,a83b7196-0a9f-472a-89d7-4a0b69e97ec4,Identity Manager (M),Microsoft.FeatureCategory,Features,3,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,a83b7196-0a9f-472a-89d7-4a0b69e97ec4,Identity Manager (M),Microsoft.RequirementCategory,Backlog items,2,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,a83b7196-0a9f-472a-89d7-4a0b69e97ec4,Identity Manager (M),Microsoft.TaskCategory,Tasks,1,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,4b0defa5-d3f3-41c8-8d8b-bde8d196e24a,PgM Sandbox Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,4b0defa5-d3f3-41c8-8d8b-bde8d196e24a,PgM Sandbox Team,Microsoft.EpicCategory,Epics,4,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,4b0defa5-d3f3-41c8-8d8b-bde8d196e24a,PgM Sandbox Team,Microsoft.FeatureCategory,Features,3,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,4b0defa5-d3f3-41c8-8d8b-bde8d196e24a,PgM Sandbox Team,Microsoft.RequirementCategory,Backlog items,2,1000
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,4b0defa5-d3f3-41c8-8d8b-bde8d196e24a,PgM Sandbox Team,Microsoft.TaskCategory,Tasks,1,1000

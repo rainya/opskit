@@ -1,0 +1,10 @@
+{
+  "typeId": "286dbbbc-2cdb-4bb0-9bd5-0977bea409cf",
+  "name": "OID Agile Process - Sandbox",
+  "referenceName": "Inherited.286dbbbc2cdb4bb09bd50977bea409cf",
+  "description": "A sanbox for the OID Agile Process - Prod definition. This Agile process defines One Identity’s standard Azure DevOps framework for the single-project model, supporting consistent delivery, clear reporting, and team autonomy while allowing targeted, lightweight adjustments to meet evolving needs. It is inherited from ADO's default Agile template. This is the prod version of the process.",
+  "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

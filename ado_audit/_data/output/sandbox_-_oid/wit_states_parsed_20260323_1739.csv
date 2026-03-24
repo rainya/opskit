@@ -1,0 +1,69 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Task,To Do,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Task,In Progress,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Task,Done,Completed,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Task,Removed,Removed,4
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,New,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Approved,Proposed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Committed,InProgress,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Implementing,InProgress,4
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Ready for Test,InProgress,5
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Testing on DevTest,InProgress,6
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Tested on DevTest,InProgress,7
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Tested on Stage,InProgress,8
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Done,Completed,9
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Bug,Removed,Removed,10
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Code Review Request,Requested,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Code Review Request,Closed,Completed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Code Review Response,Requested,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Code Review Response,Accepted,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Code Review Response,Closed,Completed,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Epic,New,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Epic,In Progress,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Epic,Done,Completed,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Epic,Removed,Removed,4
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,New,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,In Progress,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Prioritized,InProgress,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Grooming,InProgress,4
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Awaiting Architecture Review,InProgress,5
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Reviewed,InProgress,6
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Implementing,InProgress,7
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Completed,InProgress,8
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Done,Completed,9
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feature,Removed,Removed,10
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feedback Request,Active,InProgress,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feedback Request,Closed,Completed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feedback Request,Removed,Removed,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feedback Response,Active,InProgress,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Feedback Response,Closed,Completed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Impediment,Open,InProgress,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Impediment,Closed,Completed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,New,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Approved,Proposed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Committed,InProgress,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Implementing,InProgress,4
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Ready for Test,InProgress,5
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Testing on DevTest,InProgress,6
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Tested on DevTest,InProgress,7
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Tested on Stage,InProgress,8
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Done,Completed,9
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Product Backlog Item,Removed,Removed,10
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Shared Steps,Active,InProgress,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Shared Steps,Closed,Completed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Shared Parameter,Active,InProgress,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Shared Parameter,Inactive,Completed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Case,Design,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Case,Ready,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Case,Closed,Completed,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Plan,Active,InProgress,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Plan,Inactive,Completed,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Suite,In Planning,InProgress,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Suite,In Progress,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Test Suite,Completed,Completed,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,User Story,New,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,User Story,Committed,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,User Story,Done,Completed,3
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Initiative,New,Proposed,1
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Initiative,Committed,InProgress,2
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Initiative,Done,Completed,3

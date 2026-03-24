@@ -1,0 +1,40 @@
+{
+  "count": 7,
+  "value": [
+    {
+      "name": "New",
+      "color": "b2b2b2",
+      "category": "Proposed"
+    },
+    {
+      "name": "Approved",
+      "color": "b2b2b2",
+      "category": "Proposed"
+    },
+    {
+      "name": "Committed",
+      "color": "007acc",
+      "category": "InProgress"
+    },
+    {
+      "name": "Code Review",
+      "color": "e87025",
+      "category": "InProgress"
+    },
+    {
+      "name": "Testing",
+      "color": "fcfd7d",
+      "category": "Resolved"
+    },
+    {
+      "name": "Done",
+      "color": "339933",
+      "category": "Completed"
+    },
+    {
+      "name": "Removed",
+      "color": "ffffff",
+      "category": "Removed"
+    }
+  ]
+}

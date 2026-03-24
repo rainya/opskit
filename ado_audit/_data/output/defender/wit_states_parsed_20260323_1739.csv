@@ -1,0 +1,69 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Task,To Do,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Task,In Progress,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Task,Done,Completed,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Task,Removed,Removed,4
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,New,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Approved,Proposed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Committed,InProgress,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Implementing,InProgress,4
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Ready for Test,InProgress,5
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Testing on DevTest,InProgress,6
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Tested on DevTest,InProgress,7
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Tested on Stage,InProgress,8
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Done,Completed,9
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Bug,Removed,Removed,10
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Code Review Request,Requested,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Code Review Request,Closed,Completed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Code Review Response,Requested,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Code Review Response,Accepted,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Code Review Response,Closed,Completed,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Epic,New,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Epic,In Progress,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Epic,Done,Completed,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Epic,Removed,Removed,4
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,New,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,In Progress,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Prioritized,InProgress,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Grooming,InProgress,4
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Awaiting Architecture Review,InProgress,5
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Reviewed,InProgress,6
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Implementing,InProgress,7
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Completed,InProgress,8
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Done,Completed,9
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feature,Removed,Removed,10
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feedback Request,Active,InProgress,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feedback Request,Closed,Completed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feedback Request,Removed,Removed,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feedback Response,Active,InProgress,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Feedback Response,Closed,Completed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Impediment,Open,InProgress,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Impediment,Closed,Completed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,New,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Approved,Proposed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Committed,InProgress,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Implementing,InProgress,4
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Ready for Test,InProgress,5
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Testing on DevTest,InProgress,6
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Tested on DevTest,InProgress,7
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Tested on Stage,InProgress,8
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Done,Completed,9
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Product Backlog Item,Removed,Removed,10
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Shared Steps,Active,InProgress,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Shared Steps,Closed,Completed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Shared Parameter,Active,InProgress,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Shared Parameter,Inactive,Completed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Case,Design,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Case,Ready,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Case,Closed,Completed,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Plan,Active,InProgress,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Plan,Inactive,Completed,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Suite,In Planning,InProgress,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Suite,In Progress,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Test Suite,Completed,Completed,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,User Story,New,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,User Story,Committed,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,User Story,Done,Completed,3
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Initiative,New,Proposed,1
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Initiative,Committed,InProgress,2
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Initiative,Done,Completed,3

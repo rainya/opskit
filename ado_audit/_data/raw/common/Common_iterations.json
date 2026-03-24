@@ -1,0 +1,354 @@
+{
+  "id": 394,
+  "identifier": "1f0cfc31-a2d5-4e1f-a916-e77b939b2910",
+  "name": "Common",
+  "structureType": "iteration",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 5755,
+      "identifier": "b0faeaaa-2226-44a2-acf7-b54e6419e8ef",
+      "name": "S105",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2019-12-30T00:00:00Z",
+        "finishDate": "2020-01-12T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S105",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S105"
+    },
+    {
+      "id": 5756,
+      "identifier": "9d3a3bf3-799e-4b37-af22-92b046c99687",
+      "name": "S106",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-01-13T00:00:00Z",
+        "finishDate": "2020-01-26T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S106",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S106"
+    },
+    {
+      "id": 5757,
+      "identifier": "d6673a22-0aac-453b-bbf4-1b205791f267",
+      "name": "S107",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-01-27T00:00:00Z",
+        "finishDate": "2020-02-09T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S107",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S107"
+    },
+    {
+      "id": 5758,
+      "identifier": "dd295b7f-4b53-464b-8595-71b0d2d2c795",
+      "name": "S108",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-02-10T00:00:00Z",
+        "finishDate": "2020-02-23T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S108",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S108"
+    },
+    {
+      "id": 5759,
+      "identifier": "fae41d7b-eb73-4861-9a2f-9c46bb443ce4",
+      "name": "S109",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-02-24T00:00:00Z",
+        "finishDate": "2020-03-08T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S109",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S109"
+    },
+    {
+      "id": 5760,
+      "identifier": "0c311739-49eb-47b2-a13c-5262303780f9",
+      "name": "S110",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-03-09T00:00:00Z",
+        "finishDate": "2020-03-22T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S110",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S110"
+    },
+    {
+      "id": 5761,
+      "identifier": "54a06f1f-be3d-4bb4-9a99-555a95ddb14e",
+      "name": "S111",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-03-23T00:00:00Z",
+        "finishDate": "2020-04-05T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S111",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S111"
+    },
+    {
+      "id": 5762,
+      "identifier": "d7278791-ba69-4880-8e6e-a8c9a4354b70",
+      "name": "S112",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-04-06T00:00:00Z",
+        "finishDate": "2020-04-19T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S112",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S112"
+    },
+    {
+      "id": 5763,
+      "identifier": "1d89e9da-7d1c-49d7-afa8-62de842163a8",
+      "name": "S113",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-04-20T00:00:00Z",
+        "finishDate": "2020-05-03T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S113",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S113"
+    },
+    {
+      "id": 5764,
+      "identifier": "ea28dbfd-ad1d-46b3-aaa1-a5893446460f",
+      "name": "S114",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-05-04T00:00:00Z",
+        "finishDate": "2020-05-17T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S114",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S114"
+    },
+    {
+      "id": 5765,
+      "identifier": "c05ea7c6-10e2-4b12-b912-298a61c67f36",
+      "name": "S115",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-05-18T00:00:00Z",
+        "finishDate": "2020-05-31T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S115",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S115"
+    },
+    {
+      "id": 5766,
+      "identifier": "5a7ab363-e24d-40ce-9485-170250c43fdf",
+      "name": "S116",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-06-01T00:00:00Z",
+        "finishDate": "2020-06-14T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S116",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S116"
+    },
+    {
+      "id": 5767,
+      "identifier": "fe38dc18-dca8-4120-aefb-4724435da024",
+      "name": "S117",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-06-15T00:00:00Z",
+        "finishDate": "2020-06-28T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S117",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S117"
+    },
+    {
+      "id": 5768,
+      "identifier": "9d043c67-289f-41f7-8ea4-a033c8d09c98",
+      "name": "S118",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-06-29T00:00:00Z",
+        "finishDate": "2020-07-12T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S118",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S118"
+    },
+    {
+      "id": 5769,
+      "identifier": "af0f1f15-3b48-4bd8-8a5b-d08514e692b7",
+      "name": "S119",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-07-13T00:00:00Z",
+        "finishDate": "2020-07-26T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S119",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S119"
+    },
+    {
+      "id": 5770,
+      "identifier": "09491504-c774-48d6-9270-96fe3c0e7fa6",
+      "name": "S120",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-07-27T00:00:00Z",
+        "finishDate": "2020-08-09T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S120",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S120"
+    },
+    {
+      "id": 5771,
+      "identifier": "af8bfcb3-dbe4-4a5d-83d8-e7e4f7dc740f",
+      "name": "S121",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-08-10T00:00:00Z",
+        "finishDate": "2020-08-23T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S121",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S121"
+    },
+    {
+      "id": 5772,
+      "identifier": "df23e592-b89f-4a96-a1dd-df37407f6427",
+      "name": "S122",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-08-24T00:00:00Z",
+        "finishDate": "2020-09-06T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S122",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S122"
+    },
+    {
+      "id": 5773,
+      "identifier": "b6411677-dbbc-4fa2-a826-d24b4fd25e1f",
+      "name": "S123",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-09-07T00:00:00Z",
+        "finishDate": "2020-09-20T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S123",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S123"
+    },
+    {
+      "id": 5774,
+      "identifier": "e201a44d-a8fe-4e04-9aaf-b024d7d63721",
+      "name": "S124",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-09-21T00:00:00Z",
+        "finishDate": "2020-10-04T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S124",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S124"
+    },
+    {
+      "id": 5775,
+      "identifier": "d342952a-a5be-4327-bfda-3478cd22486f",
+      "name": "S125",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-10-05T00:00:00Z",
+        "finishDate": "2020-10-18T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S125",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S125"
+    },
+    {
+      "id": 5776,
+      "identifier": "49f7694e-d1b6-4e90-aaa2-17ad9350cd1e",
+      "name": "S126",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-10-19T00:00:00Z",
+        "finishDate": "2020-11-01T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S126",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S126"
+    },
+    {
+      "id": 5777,
+      "identifier": "643740c6-b45f-4b2f-acf0-cf338ffa7058",
+      "name": "S127",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-11-02T00:00:00Z",
+        "finishDate": "2020-11-15T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S127",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S127"
+    },
+    {
+      "id": 5778,
+      "identifier": "81aab6f2-027e-4673-80d6-4af9969e975a",
+      "name": "S128",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-11-16T00:00:00Z",
+        "finishDate": "2020-11-29T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S128",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S128"
+    },
+    {
+      "id": 5779,
+      "identifier": "86fe26d5-85de-44e5-a9fb-c192f323d77f",
+      "name": "S129",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-11-30T00:00:00Z",
+        "finishDate": "2020-12-13T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S129",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S129"
+    },
+    {
+      "id": 5780,
+      "identifier": "07bdac64-a7d5-48d7-913b-0f223db58402",
+      "name": "S130",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2020-12-14T00:00:00Z",
+        "finishDate": "2020-12-27T00:00:00Z"
+      },
+      "path": "\\Common\\Iteration\\S130",
+      "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations/S130"
+    }
+  ],
+  "path": "\\Common\\Iteration",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations"
+    }
+  },
+  "url": "https://dev.azure.com/1id/bd267a71-a93f-425c-bf32-2d7688de90d3/_apis/wit/classificationNodes/Iterations"
+}

@@ -1,0 +1,5 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,f9b61bae-8d0e-4d4e-af44-85b7ed85778c,Defender AD FS Adapter Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 85,@currentIteration,False,True,True,True
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,9625bf21-31b9-4648-b894-d94894a361ef,Defender Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 267,@currentIteration,True,True,True,True
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,16b91818-4d55-47a7-a44c-5fa319703e00,TechComm,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 267,@currentIteration,False,False,True,True
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,a7b99a0a-f3d6-44f5-ba9b-4b766848efe7,TechWriters,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True

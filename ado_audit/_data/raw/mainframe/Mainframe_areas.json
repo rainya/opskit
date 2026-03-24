@@ -1,0 +1,34 @@
+{
+  "id": 6619,
+  "identifier": "aa02b3c1-6420-40d8-bd96-d45e2d9a27a4",
+  "name": "Mainframe",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 6684,
+      "identifier": "7ae7469d-83b6-499c-afd7-1229aa294bba",
+      "name": "QC_1IM_Connectors",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Mainframe\\Area\\QC_1IM_Connectors",
+      "url": "https://dev.azure.com/1id/d7b91afd-e7d2-4ae0-8d0c-96ef0399403d/_apis/wit/classificationNodes/Areas/QC_1IM_Connectors"
+    },
+    {
+      "id": 9288,
+      "identifier": "96ec97aa-6b8c-4d49-bedc-ae7f87fad378",
+      "name": "LDAPX_Developers",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Mainframe\\Area\\LDAPX_Developers",
+      "url": "https://dev.azure.com/1id/d7b91afd-e7d2-4ae0-8d0c-96ef0399403d/_apis/wit/classificationNodes/Areas/LDAPX_Developers"
+    }
+  ],
+  "path": "\\Mainframe\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/d7b91afd-e7d2-4ae0-8d0c-96ef0399403d/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/d7b91afd-e7d2-4ae0-8d0c-96ef0399403d/_apis/wit/classificationNodes/Areas"
+}

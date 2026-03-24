@@ -1,0 +1,1091 @@
+{
+  "id": 144,
+  "identifier": "2a5cc885-e416-4a4a-a2c9-24912b5f0328",
+  "name": "Identity Manager",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 329,
+      "identifier": "db32a1f2-6df4-4ec0-a090-8101a7c415a8",
+      "name": "Identity Manager Modules",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 5901,
+          "identifier": "b96b59b9-10a8-4d2d-bcaa-de9c43224ee2",
+          "name": "EPIC Module",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Modules\\EPIC Module",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Modules/EPIC%20Module"
+        },
+        {
+          "id": 5902,
+          "identifier": "cf4e4465-f502-4616-94dc-cffae0cff51e",
+          "name": "PAIRING",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Modules\\PAIRING",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Modules/PAIRING"
+        },
+        {
+          "id": 6515,
+          "identifier": "12f4d0d2-511e-4248-8b5c-18650ed28390",
+          "name": "SNOW2.0",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Modules\\SNOW2.0",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Modules/SNOW2.0"
+        },
+        {
+          "id": 6704,
+          "identifier": "477320d7-3f75-476d-902e-3a247a9382d2",
+          "name": "DGE",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Modules\\DGE",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Modules/DGE"
+        },
+        {
+          "id": 12616,
+          "identifier": "4a259c70-8202-4058-b0a8-317edf46d08b",
+          "name": "Documenation",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Modules\\Documenation",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Modules/Documenation"
+        }
+      ],
+      "path": "\\Identity Manager\\Area\\Identity Manager Modules",
+      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Modules"
+    },
+    {
+      "id": 2856,
+      "identifier": "fbec2b52-72ab-4bdc-93c0-ca58da3c677a",
+      "name": "Identity Manager Core",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 7278,
+          "identifier": "6d0acadb-e6d9-4697-bef7-6405550cb378",
+          "name": "QBM",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\QBM",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/QBM"
+        },
+        {
+          "id": 7279,
+          "identifier": "55c5ee71-00a5-4419-8128-13ab1a7f2d21",
+          "name": "QER",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\QER",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/QER"
+        },
+        {
+          "id": 7280,
+          "identifier": "05cf1a15-4fde-4b3d-86c4-956b0d38b7f8",
+          "name": "AAD",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\AAD",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/AAD"
+        },
+        {
+          "id": 7287,
+          "identifier": "c730117c-4296-49a2-8418-3a03af3696d1",
+          "name": "ADS",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\ADS",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/ADS"
+        },
+        {
+          "id": 7288,
+          "identifier": "0820f4b9-ee34-4405-8b5b-0f194f26234e",
+          "name": "CAP",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\CAP",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/CAP"
+        },
+        {
+          "id": 7289,
+          "identifier": "95fe7e26-de05-4c89-831b-0ef65d4085ef",
+          "name": "ATT",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\ATT",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/ATT"
+        },
+        {
+          "id": 7290,
+          "identifier": "fb0e7604-fafb-4117-ac1d-1add0d6d94a9",
+          "name": "TSB",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\TSB",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/TSB"
+        },
+        {
+          "id": 7291,
+          "identifier": "253c35c9-9814-4857-b864-35b0e885bc3b",
+          "name": "CPL",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\CPL",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/CPL"
+        },
+        {
+          "id": 7292,
+          "identifier": "3bb4d73c-2d04-405a-88be-9c6dccd2e8fd",
+          "name": "DPR",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\DPR",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/DPR"
+        },
+        {
+          "id": 7293,
+          "identifier": "a3364b36-4fc9-4c46-a41b-9810290c30c0",
+          "name": "SIM",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\SIM",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/SIM"
+        },
+        {
+          "id": 7294,
+          "identifier": "a84e3ddb-be3b-43f4-9355-74341aefa56b",
+          "name": "UNX",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\UNX",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/UNX"
+        },
+        {
+          "id": 7295,
+          "identifier": "4db7fbf3-9102-4713-823d-3286395e9d75",
+          "name": "SAP",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\SAP",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/SAP"
+        },
+        {
+          "id": 7296,
+          "identifier": "faa24eb3-1fb6-4c06-a4c6-99dd2ff44d3d",
+          "name": "SBW",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\SBW",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/SBW"
+        },
+        {
+          "id": 7297,
+          "identifier": "44e6ecbd-b5d8-41d6-b945-7a117248b91c",
+          "name": "SAC",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\SAC",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/SAC"
+        },
+        {
+          "id": 7298,
+          "identifier": "9f7a5c82-2f7a-49fd-98b8-d275487c0e37",
+          "name": "RMB",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\RMB",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/RMB"
+        },
+        {
+          "id": 7299,
+          "identifier": "b2f259de-3234-4717-8997-aa65d3f837e7",
+          "name": "RMS",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\RMS",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/RMS"
+        },
+        {
+          "id": 7300,
+          "identifier": "aca633fb-125d-4469-8fe6-b422bdf2e3ff",
+          "name": "O3E",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\O3E",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/O3E"
+        },
+        {
+          "id": 7301,
+          "identifier": "35e2c087-0574-48b9-bfd3-8082ed6ffa68",
+          "name": "O3T",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\O3T",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/O3T"
+        },
+        {
+          "id": 7302,
+          "identifier": "49ac285f-b8e9-4eb7-a6c7-78578d3462e9",
+          "name": "AOB",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\AOB",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/AOB"
+        },
+        {
+          "id": 7303,
+          "identifier": "8964631b-0290-4512-a316-f505b19f332b",
+          "name": "EX0",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\EX0",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/EX0"
+        },
+        {
+          "id": 7304,
+          "identifier": "2bb04ca9-f6f2-4a95-953b-695588a44105",
+          "name": "LDP",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\LDP",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/LDP"
+        },
+        {
+          "id": 7534,
+          "identifier": "ff2417e8-b1fc-4477-ba68-ef11b83fc1ca",
+          "name": "OLG",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\OLG",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/OLG"
+        },
+        {
+          "id": 7711,
+          "identifier": "63dc6722-d4b4-49f7-98ce-1c08fe9d06e1",
+          "name": "RPS",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\RPS",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/RPS"
+        },
+        {
+          "id": 7713,
+          "identifier": "d91c4e7f-204d-4099-a83c-0d9bef1ac4e5",
+          "name": "NDO",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\NDO",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/NDO"
+        },
+        {
+          "id": 8116,
+          "identifier": "3411da78-f085-4eaf-8fb7-f6304b848885",
+          "name": "O3S",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\O3S",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/O3S"
+        },
+        {
+          "id": 8125,
+          "identifier": "77af9b4e-7c3c-4587-8cd3-c66f7b622245",
+          "name": "PAG",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\PAG",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/PAG"
+        },
+        {
+          "id": 8279,
+          "identifier": "41c42d43-f265-4b65-98b2-f56042346318",
+          "name": "MFR",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\MFR",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/MFR"
+        },
+        {
+          "id": 8280,
+          "identifier": "23b981de-d7fb-49a5-8657-eb2200357160",
+          "name": "ARS",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\ARS",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/ARS"
+        },
+        {
+          "id": 8281,
+          "identifier": "c5056982-d419-471a-ac27-69dafbf2e47a",
+          "name": "EBS",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\EBS",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/EBS"
+        },
+        {
+          "id": 9063,
+          "identifier": "99278178-8ac4-4fc2-8a1a-5580e8f50c35",
+          "name": "CSM",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\CSM",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/CSM"
+        },
+        {
+          "id": 9064,
+          "identifier": "8dadae3c-c22b-44d4-9f60-c16674372fe9",
+          "name": "UCI",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\UCI",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/UCI"
+        },
+        {
+          "id": 9263,
+          "identifier": "c3b796d8-39cc-47e6-8183-5a98f7e3c578",
+          "name": "Documentation",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\Documentation",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/Documentation"
+        },
+        {
+          "id": 9271,
+          "identifier": "d73765f7-f206-408f-be9e-014445ac4cfa",
+          "name": "SP0",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\SP0",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/SP0"
+        },
+        {
+          "id": 9301,
+          "identifier": "73295c17-4954-4d1e-94c7-aa9489103d11",
+          "name": "Build",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\Build",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/Build"
+        },
+        {
+          "id": 9316,
+          "identifier": "05009248-9311-45b0-844a-dc0a153377a7",
+          "name": "GAP",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\GAP",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/GAP"
+        },
+        {
+          "id": 9340,
+          "identifier": "0aeab67e-00fb-4a4e-a1d5-b7bb7a009d48",
+          "name": "TST",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\TST",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/TST"
+        },
+        {
+          "id": 9341,
+          "identifier": "02408023-3632-4d02-9617-71564085020d",
+          "name": "MDK",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\MDK",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/MDK"
+        },
+        {
+          "id": 9342,
+          "identifier": "457b5208-4227-4148-88e0-02cb8ea50c56",
+          "name": "PEV",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\PEV",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/PEV"
+        },
+        {
+          "id": 9343,
+          "identifier": "0e555653-8a5a-4502-83cc-d0d0fab9b92b",
+          "name": "VPR",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\VPR",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/VPR"
+        },
+        {
+          "id": 9373,
+          "identifier": "eb4bd2c1-23e5-4681-aa9c-c64fe4ae38d1",
+          "name": "OIC",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\OIC",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/OIC"
+        },
+        {
+          "id": 9374,
+          "identifier": "d89e182b-fa24-4235-9f6f-ee67d68a07f7",
+          "name": "HDB",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\HDB",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/HDB"
+        },
+        {
+          "id": 9378,
+          "identifier": "389f397a-bd91-473c-a445-105acfae651b",
+          "name": "POL",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\POL",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/POL"
+        },
+        {
+          "id": 9379,
+          "identifier": "5f81ec89-9a9f-41d9-bc73-1a5cfa4184e6",
+          "name": "HDS",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\HDS",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/HDS"
+        },
+        {
+          "id": 9380,
+          "identifier": "7fac6271-5d26-45bd-88b9-96563a4944fd",
+          "name": "EXH",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\EXH",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/EXH"
+        },
+        {
+          "id": 9382,
+          "identifier": "a73ae6b9-d550-4f27-a6c1-f9eebe068e83",
+          "name": "SHR",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\SHR",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/SHR"
+        },
+        {
+          "id": 9383,
+          "identifier": "693d3985-eb39-4c0d-9b5c-acdc838d2489",
+          "name": "ISM",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\ISM",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/ISM"
+        },
+        {
+          "id": 9471,
+          "identifier": "300fc705-2aa9-4ed2-aab4-514465c6f0e1",
+          "name": "Web",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\Web",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/Web"
+        },
+        {
+          "id": 9668,
+          "identifier": "4aa10db8-642a-467d-828c-55233b30857f",
+          "name": "QAM",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\QAM",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/QAM"
+        },
+        {
+          "id": 10310,
+          "identifier": "f26c76f4-07a9-4b9d-92a5-05ec87a9701f",
+          "name": "IM Core Security BL",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\IM Core Security BL",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/IM%20Core%20Security%20BL"
+        },
+        {
+          "id": 10445,
+          "identifier": "0c59e3b8-0bc5-4fcf-9647-5bef4f838a86",
+          "name": "IQC",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Core\\IQC",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core/IQC"
+        }
+      ],
+      "path": "\\Identity Manager\\Area\\Identity Manager Core",
+      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Core"
+    },
+    {
+      "id": 2863,
+      "identifier": "7d7682e4-7e62-4cb8-a8a5-4990efd347f1",
+      "name": "Identity Manager Web",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 6768,
+          "identifier": "3d389134-fd2d-4925-8bd4-a544dd740d3f",
+          "name": "IMX",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 6769,
+              "identifier": "66fd9632-25dd-43fe-b68d-bafa32ba2a83",
+              "name": "Angular libraries",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Angular libraries",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Angular%20libraries"
+            },
+            {
+              "id": 6778,
+              "identifier": "296aad07-dc9b-4df5-885a-e7eacf8ba207",
+              "name": "Apps",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 6779,
+                  "identifier": "74c7b8fa-5aa6-40d5-915c-257c603e79be",
+                  "name": "Portal",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Apps\\Portal",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Apps/Portal"
+                },
+                {
+                  "id": 6780,
+                  "identifier": "4b0e8908-48df-4076-b4d0-53dda4d4f70a",
+                  "name": "Password Reset Portal",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Apps\\Password Reset Portal",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Apps/Password%20Reset%20Portal"
+                },
+                {
+                  "id": 6781,
+                  "identifier": "7cd4cd86-6290-48fc-adef-492a5ee28a50",
+                  "name": "Operations Support Portal",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Apps\\Operations Support Portal",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Apps/Operations%20Support%20Portal"
+                },
+                {
+                  "id": 9066,
+                  "identifier": "673cb57b-6b46-43fd-bb21-98a8bdb4fcf1",
+                  "name": "Server Administration",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Apps\\Server Administration",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Apps/Server%20Administration"
+                },
+                {
+                  "id": 9957,
+                  "identifier": "5f9a3c55-1846-4c0c-980d-e9445278806d",
+                  "name": "Manager",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Apps\\Manager",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Apps/Manager"
+                }
+              ],
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Apps",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Apps"
+            },
+            {
+              "id": 6783,
+              "identifier": "8d48d9d1-5c5a-4399-a335-ba0559f9768c",
+              "name": "API libraries",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\API libraries",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/API%20libraries"
+            },
+            {
+              "id": 6784,
+              "identifier": "c57f6093-0188-4aa5-b6c3-a47825532bd9",
+              "name": "API Server",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\API Server",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/API%20Server"
+            },
+            {
+              "id": 6798,
+              "identifier": "b6c73db2-8b08-43d9-b614-c6fa9c10db13",
+              "name": "API Compiler",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\API Compiler",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/API%20Compiler"
+            },
+            {
+              "id": 9741,
+              "identifier": "82b10933-c05a-46b6-ad0f-af535605af73",
+              "name": "Test Automation",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 12617,
+                  "identifier": "333e5149-6f5b-4e45-9d82-471f88c7feca",
+                  "name": "User Stories",
+                  "structureType": "area",
+                  "hasChildren": true,
+                  "children": [
+                    {
+                      "id": 12618,
+                      "identifier": "a6e4e938-311a-4a86-85fa-9374ff8229f5",
+                      "name": "Helpdesk",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Helpdesk",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Helpdesk"
+                    },
+                    {
+                      "id": 12619,
+                      "identifier": "fb5578fb-9e2b-4895-a57f-56573416e460",
+                      "name": "Authentication",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Authentication",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Authentication"
+                    },
+                    {
+                      "id": 12620,
+                      "identifier": "83143e36-1cbf-404e-908a-750ed99091dd",
+                      "name": "IT Shop Configuration",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\IT Shop Configuration",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/IT%20Shop%20Configuration"
+                    },
+                    {
+                      "id": 12621,
+                      "identifier": "12e91515-418a-4354-91d5-b9729522f96e",
+                      "name": "Entitlements",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Entitlements",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Entitlements"
+                    },
+                    {
+                      "id": 12622,
+                      "identifier": "284569cb-265d-4d4d-9e3e-d328ad3f40e7",
+                      "name": "Role Management",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Role Management",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Role%20Management"
+                    },
+                    {
+                      "id": 12623,
+                      "identifier": "bf5b67ec-427b-48c9-a37c-ecfeed18aacc",
+                      "name": "Application Governance",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Application Governance",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Application%20Governance"
+                    },
+                    {
+                      "id": 12624,
+                      "identifier": "810cbad6-eebc-4834-9045-3b6eca2e6573",
+                      "name": "Reporting",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Reporting",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Reporting"
+                    },
+                    {
+                      "id": 12625,
+                      "identifier": "c5bf5f39-75c5-4f94-beef-1492edf403ab",
+                      "name": "Identity Data",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Identity Data",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Identity%20Data"
+                    },
+                    {
+                      "id": 12626,
+                      "identifier": "84154576-bb6c-4917-ace1-410ca076562b",
+                      "name": "IT Shop",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\IT Shop",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/IT%20Shop"
+                    },
+                    {
+                      "id": 12627,
+                      "identifier": "0bbf2e68-da84-4a9a-83e5-4fc5af8ba7ae",
+                      "name": "Attestation",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Attestation",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Attestation"
+                    },
+                    {
+                      "id": 12628,
+                      "identifier": "450d0e4f-eefa-49b1-8555-db1c3fbbc7fe",
+                      "name": "Compliance",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Compliance",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Compliance"
+                    },
+                    {
+                      "id": 12629,
+                      "identifier": "71dce758-c630-4c4f-80af-ae922c32feb6",
+                      "name": "Configuration",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Configuration",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Configuration"
+                    },
+                    {
+                      "id": 12630,
+                      "identifier": "5fa852c4-2d69-454e-83d4-fe8995c80b3d",
+                      "name": "Company Policies",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Company Policies",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Company%20Policies"
+                    },
+                    {
+                      "id": 12631,
+                      "identifier": "361abd66-c5b8-4dae-83c8-513c370e01f9",
+                      "name": "Operations",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Operations",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Operations"
+                    },
+                    {
+                      "id": 12632,
+                      "identifier": "cbd6f052-fb3a-462b-a879-ca69f1d68bdb",
+                      "name": "Device Management",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Device Management",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Device%20Management"
+                    },
+                    {
+                      "id": 12633,
+                      "identifier": "81799ce3-3e29-4a1b-a65c-f3520a217c62",
+                      "name": "Target System Teams",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Target System Teams",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Target%20System%20Teams"
+                    },
+                    {
+                      "id": 12634,
+                      "identifier": "41e0b466-4b34-46ee-b742-917dee5f0314",
+                      "name": "Target System Azure AD",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories\\Target System Azure AD",
+                      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories/Target%20System%20Azure%20AD"
+                    }
+                  ],
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation\\User Stories",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation/User%20Stories"
+                }
+              ],
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX\\Test Automation",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX/Test%20Automation"
+            }
+          ],
+          "path": "\\Identity Manager\\Area\\Identity Manager Web\\IMX",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IMX"
+        },
+        {
+          "id": 6797,
+          "identifier": "c1b550ea-549f-4022-a018-a85a757674c8",
+          "name": "Composition API",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Web\\Composition API",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Composition%20API"
+        },
+        {
+          "id": 6799,
+          "identifier": "15c5d604-d325-4e80-b462-270be04a33da",
+          "name": "Tools",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 6646,
+              "identifier": "1ad15f49-950a-4ee3-bada-361fa484336f",
+              "name": "Web Installer",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Tools\\Web Installer",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Tools/Web%20Installer"
+            },
+            {
+              "id": 6801,
+              "identifier": "39f05af2-0e66-434a-9e58-d24a047961ba",
+              "name": "ImxClient",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Tools\\ImxClient",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Tools/ImxClient"
+            },
+            {
+              "id": 6802,
+              "identifier": "6821ca6a-4b83-425d-96f2-5601d2b9a984",
+              "name": "StsSetup",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Tools\\StsSetup",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Tools/StsSetup"
+            },
+            {
+              "id": 6803,
+              "identifier": "68080cf4-8d8b-4427-8eeb-9729a4a8c3f5",
+              "name": "VSCode Extension",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Tools\\VSCode Extension",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Tools/VSCode%20Extension"
+            }
+          ],
+          "path": "\\Identity Manager\\Area\\Identity Manager Web\\Tools",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Tools"
+        },
+        {
+          "id": 6804,
+          "identifier": "7daa50ba-8c70-47a2-81f1-4f346505d944",
+          "name": "Legacy Web Technology",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 6762,
+              "identifier": "01627975-1bb6-4a7d-8a39-36cb6c6ca5c2",
+              "name": "Runtime",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Runtime",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Runtime"
+            },
+            {
+              "id": 6763,
+              "identifier": "2eb9fa41-55c0-404b-b2b8-57a16b0ce781",
+              "name": "Apps",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 6764,
+                  "identifier": "0971ce78-b190-4cd2-84d7-0b6967221015",
+                  "name": "Password Reset Portal",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Apps\\Password Reset Portal",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Apps/Password%20Reset%20Portal"
+                },
+                {
+                  "id": 6765,
+                  "identifier": "5b693bf7-c774-4ed0-ac15-b5a149a7672c",
+                  "name": "UCI Provisioning Portal",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Apps\\UCI Provisioning Portal",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Apps/UCI%20Provisioning%20Portal"
+                },
+                {
+                  "id": 6766,
+                  "identifier": "aeeaf012-5f9f-4a5b-b0ea-d3f428cf1253",
+                  "name": "Portal",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Apps\\Portal",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Apps/Portal"
+                },
+                {
+                  "id": 6767,
+                  "identifier": "5ed1a033-1b1b-4c3a-ae86-938d6aeeb57e",
+                  "name": "User Registration",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Apps\\User Registration",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Apps/User%20Registration"
+                },
+                {
+                  "id": 6792,
+                  "identifier": "856996df-c6ee-4cd0-ba61-75d209fc027b",
+                  "name": "CertAccess",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Apps\\CertAccess",
+                  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Apps/CertAccess"
+                }
+              ],
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Apps",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Apps"
+            },
+            {
+              "id": 6800,
+              "identifier": "97b3690b-8ef1-4360-b718-5fa2ea071b84",
+              "name": "API Designer",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\API Designer",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/API%20Designer"
+            },
+            {
+              "id": 6805,
+              "identifier": "44719660-eaa2-44cc-8eee-7f73c00c9ccf",
+              "name": "Web Designer",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology\\Web Designer",
+              "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology/Web%20Designer"
+            }
+          ],
+          "path": "\\Identity Manager\\Area\\Identity Manager Web\\Legacy Web Technology",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Legacy%20Web%20Technology"
+        },
+        {
+          "id": 6813,
+          "identifier": "d98fdf1c-9896-41f2-8f48-227baa0e52af",
+          "name": "Documentation",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Web\\Documentation",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Documentation"
+        },
+        {
+          "id": 6814,
+          "identifier": "1ded3ddc-da3a-46f1-ac3c-0d7fd0ed05ce",
+          "name": "Index",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Web\\Index",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/Index"
+        },
+        {
+          "id": 10311,
+          "identifier": "cd7b19bd-05b8-46e7-9753-d910f5d7cb2f",
+          "name": "IM Web Security BL",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Identity Manager Web\\IM Web Security BL",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web/IM%20Web%20Security%20BL"
+        }
+      ],
+      "path": "\\Identity Manager\\Area\\Identity Manager Web",
+      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Web"
+    },
+    {
+      "id": 6820,
+      "identifier": "574a364f-5ef8-4fef-9b02-bb89d2b82426",
+      "name": "Identity Manager (M)",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Identity Manager\\Area\\Identity Manager (M)",
+      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20(M)"
+    },
+    {
+      "id": 10887,
+      "identifier": "c85e9cd8-bf0d-4cca-8b3e-c3d71e76018e",
+      "name": "Identity Manager Modules (M)",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Identity Manager\\Area\\Identity Manager Modules (M)",
+      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Modules%20(M)"
+    },
+    {
+      "id": 10908,
+      "identifier": "c5d6a55e-38b4-440f-b80a-5acdf73ee2d6",
+      "name": "Internal",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 6754,
+          "identifier": "8d794645-3fef-43a1-b38b-6f96bf185cf6",
+          "name": "OneIM Germany",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Internal\\OneIM Germany",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Internal/OneIM%20Germany"
+        },
+        {
+          "id": 7569,
+          "identifier": "71405fbb-b059-43f4-bc44-c1a66e8b999b",
+          "name": "OneIM OSP",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Internal\\OneIM OSP",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Internal/OneIM%20OSP"
+        },
+        {
+          "id": 9176,
+          "identifier": "6841c12f-4ec2-4973-a3f5-54da7cc6d060",
+          "name": "PasswordCaptureAgent",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Internal\\PasswordCaptureAgent",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Internal/PasswordCaptureAgent"
+        },
+        {
+          "id": 9375,
+          "identifier": "33290231-6e23-4036-8f07-e54855a33905",
+          "name": "OneIM Feed Contributors",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Internal\\OneIM Feed Contributors",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Internal/OneIM%20Feed%20Contributors"
+        },
+        {
+          "id": 9454,
+          "identifier": "0dd9d8e8-dedc-4408-b7c6-94b5098c1e38",
+          "name": "IMX Test Automation",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Internal\\IMX Test Automation",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Internal/IMX%20Test%20Automation"
+        },
+        {
+          "id": 9470,
+          "identifier": "61bb58be-5a93-4be9-878f-8325e4ef188f",
+          "name": "OneIM Hungary",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Identity Manager\\Area\\Internal\\OneIM Hungary",
+          "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Internal/OneIM%20Hungary"
+        }
+      ],
+      "path": "\\Identity Manager\\Area\\Internal",
+      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Internal"
+    },
+    {
+      "id": 11201,
+      "identifier": "80ec1260-9621-49ff-b908-c23e34b7f04b",
+      "name": "Identity Manager Collaboration Requests",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Identity Manager\\Area\\Identity Manager Collaboration Requests",
+      "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas/Identity%20Manager%20Collaboration%20Requests"
+    }
+  ],
+  "path": "\\Identity Manager\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Areas"
+}

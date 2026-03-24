@@ -1,0 +1,37 @@
+{
+  "id": "91c39616-97bf-48ef-8cbb-72148c0a6192",
+  "name": "SBox-OID-Migration",
+  "description": "Sandbox for ADO to ADO project migration, based on the main \"OID\" single-project standard for OID Engineering.",
+  "url": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "OID Agile Process - Prod",
+      "templateTypeId": "c7b87898-c633-4f85-83de-d1326a62adda"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Git",
+      "gitEnabled": "True",
+      "tfvcEnabled": "False"
+    }
+  },
+  "revision": 16125,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/SBox-OID-Migration"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "070816b1-4fea-4679-a7e5-9ce481c1f4eb",
+    "name": "Default Project Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192/teams/070816b1-4fea-4679-a7e5-9ce481c1f4eb"
+  },
+  "lastUpdateTime": "2026-02-05T18:59:36.953Z"
+}

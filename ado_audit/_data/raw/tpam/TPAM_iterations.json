@@ -1,0 +1,42 @@
+{
+  "id": 6525,
+  "identifier": "a4c6b595-4640-471b-b0a2-4908088632ea",
+  "name": "TPAM",
+  "structureType": "iteration",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 6527,
+      "identifier": "6fa8de5a-fa84-4083-b3d8-779676344e77",
+      "name": "TPAM Support",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2021-02-08T00:00:00Z",
+        "finishDate": "2021-12-31T00:00:00Z"
+      },
+      "path": "\\TPAM\\Iteration\\TPAM Support",
+      "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations/TPAM%20Support"
+    },
+    {
+      "id": 6812,
+      "identifier": "ab590bfa-48df-44aa-a99e-74ca29e9b429",
+      "name": "950",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2021-03-22T00:00:00Z",
+        "finishDate": "2022-04-04T00:00:00Z"
+      },
+      "path": "\\TPAM\\Iteration\\950",
+      "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations/950"
+    }
+  ],
+  "path": "\\TPAM\\Iteration",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations"
+    }
+  },
+  "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations"
+}

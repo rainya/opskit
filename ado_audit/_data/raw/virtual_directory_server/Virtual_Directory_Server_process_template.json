@@ -1,0 +1,36 @@
+{
+  "id": "50f8d0c0-98e7-4b4a-858b-57740ed84a97",
+  "name": "Virtual Directory Server",
+  "url": "https://dev.azure.com/1id/_apis/projects/50f8d0c0-98e7-4b4a-858b-57740ed84a97",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "Agile for VDS",
+      "templateTypeId": "dc44c7fb-56a0-4f5e-b5dc-a2e1503e79ad"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Git",
+      "gitEnabled": "True",
+      "tfvcEnabled": "False"
+    }
+  },
+  "revision": 814,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/50f8d0c0-98e7-4b4a-858b-57740ed84a97"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/Virtual Directory Server"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "7ea543e8-958f-45da-b6aa-520064682048",
+    "name": "Virtual Directory Server Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/50f8d0c0-98e7-4b4a-858b-57740ed84a97/teams/7ea543e8-958f-45da-b6aa-520064682048"
+  },
+  "lastUpdateTime": "2019-11-20T10:56:46.04Z"
+}

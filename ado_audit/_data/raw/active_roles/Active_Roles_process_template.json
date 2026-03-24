@@ -1,0 +1,37 @@
+{
+  "id": "e988dcfc-e57b-4c11-8116-ca1eef9be0d2",
+  "name": "Active Roles",
+  "description": "One Identity Active Roles product development",
+  "url": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "Scrum for ARS",
+      "templateTypeId": "3ef63350-0eb1-4174-b9be-f048c5556977"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Git",
+      "gitEnabled": "True",
+      "tfvcEnabled": "False"
+    }
+  },
+  "revision": 20183,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/Active Roles"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "85427298-0b79-4fe7-8900-fe0b688f1fe2",
+    "name": "Active Roles Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/teams/85427298-0b79-4fe7-8900-fe0b688f1fe2"
+  },
+  "lastUpdateTime": "2026-03-12T10:38:10.597Z"
+}

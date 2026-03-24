@@ -1,0 +1,10 @@
+{
+  "typeId": "d1e339bb-f11f-4e8a-a7be-4176929dd150",
+  "name": "Scrum for Technical Communications",
+  "referenceName": "Inherited.d1e339bbf11f4e8aa7be4176929dd150",
+  "description": "Process template for TechComm Guild",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

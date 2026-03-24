@@ -1,0 +1,10 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,9833386d-6b02-4e2c-b78b-966e63694b0e,Build Tools,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,07964a1b-31d4-4015-90e4-cf8fa3f57b9c,Common Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,56b26a90-6e20-4dc3-af33-d6e29a627155,Containers Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,47ba1913-ad31-49ad-b656-6b8f339330f1,Hercules,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\S130,@currentIteration,False,False,True,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,d5d0400e-9b67-4b73-8efe-4dddeba3f8a2,rSTS,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,a913beb1-b6e7-479e-b639-becce1d94d52,SecureGateway,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,cea55d1e-8235-42be-9f92-92f397f93d27,UI,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,ea6989e7-e780-4202-b89d-df81d7ee27d7,UX Illustrations,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,False,True
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,727f6255-7a14-479a-bfdc-1221b4b5384e,UX,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,True,True,True

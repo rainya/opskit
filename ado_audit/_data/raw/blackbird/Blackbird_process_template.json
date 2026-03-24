@@ -1,0 +1,36 @@
+{
+  "id": "3fd33410-c239-48f0-b75c-5e4d9ae493ac",
+  "name": "Blackbird",
+  "url": "https://dev.azure.com/1id/_apis/projects/3fd33410-c239-48f0-b75c-5e4d9ae493ac",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "Scrum with Initiatives",
+      "templateTypeId": "e7e99f8f-7f00-4d0f-a37b-8f953e7132c1"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Tfvc",
+      "gitEnabled": "False",
+      "tfvcEnabled": "True"
+    }
+  },
+  "revision": 1278,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/3fd33410-c239-48f0-b75c-5e4d9ae493ac"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/Blackbird"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "871b651e-9377-471a-96af-02abc3b265df",
+    "name": "Blackbird Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/3fd33410-c239-48f0-b75c-5e4d9ae493ac/teams/871b651e-9377-471a-96af-02abc3b265df"
+  },
+  "lastUpdateTime": "2024-06-03T11:58:53.423Z"
+}

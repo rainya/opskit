@@ -1,0 +1,15 @@
+{
+  "count": 2,
+  "value": [
+    {
+      "name": "Requested",
+      "color": "b2b2b2",
+      "category": "Proposed"
+    },
+    {
+      "name": "Closed",
+      "color": "339933",
+      "category": "Completed"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,c0213924-aa44-464c-9fee-611149f9cb3b,Admins,Microsoft.FeatureCategory,Features,3,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,c0213924-aa44-464c-9fee-611149f9cb3b,Admins,Microsoft.EpicCategory,Epics,4,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,c0213924-aa44-464c-9fee-611149f9cb3b,Admins,Microsoft.RequirementCategory,Backlog items,2,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,c0213924-aa44-464c-9fee-611149f9cb3b,Admins,Microsoft.TaskCategory,Tasks,1,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,202f47aa-2095-4c3e-b642-578d4f82d07a,Authentication Services Team,Microsoft.FeatureCategory,Features,3,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,202f47aa-2095-4c3e-b642-578d4f82d07a,Authentication Services Team,Microsoft.EpicCategory,Epics,4,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,202f47aa-2095-4c3e-b642-578d4f82d07a,Authentication Services Team,Microsoft.RequirementCategory,Backlog items,2,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,202f47aa-2095-4c3e-b642-578d4f82d07a,Authentication Services Team,Microsoft.TaskCategory,Tasks,1,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,f93456b4-36f4-48b7-8731-acd04d12f5b5,QPM,Microsoft.FeatureCategory,Features,3,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,f93456b4-36f4-48b7-8731-acd04d12f5b5,QPM,Microsoft.EpicCategory,Epics,4,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,f93456b4-36f4-48b7-8731-acd04d12f5b5,QPM,Microsoft.RequirementCategory,Backlog items,2,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,f93456b4-36f4-48b7-8731-acd04d12f5b5,QPM,Microsoft.TaskCategory,Tasks,1,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,add17d8f-2b91-4bbf-a40d-d13857c03bf8,SAS Optional Review,Microsoft.FeatureCategory,Features,3,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,add17d8f-2b91-4bbf-a40d-d13857c03bf8,SAS Optional Review,Microsoft.EpicCategory,Epics,4,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,add17d8f-2b91-4bbf-a40d-d13857c03bf8,SAS Optional Review,Microsoft.RequirementCategory,Backlog items,2,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,add17d8f-2b91-4bbf-a40d-d13857c03bf8,SAS Optional Review,Microsoft.TaskCategory,Tasks,1,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,12877cd6-2a93-4104-82bf-f187d04e166b,SAS Required Review,Microsoft.FeatureCategory,Features,3,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,12877cd6-2a93-4104-82bf-f187d04e166b,SAS Required Review,Microsoft.EpicCategory,Epics,4,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,12877cd6-2a93-4104-82bf-f187d04e166b,SAS Required Review,Microsoft.RequirementCategory,Backlog items,2,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,12877cd6-2a93-4104-82bf-f187d04e166b,SAS Required Review,Microsoft.TaskCategory,Tasks,1,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,428f618c-fb7d-4855-b0c6-ae866f1c29fe,Technical Writers,Microsoft.FeatureCategory,Features,3,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,428f618c-fb7d-4855-b0c6-ae866f1c29fe,Technical Writers,Microsoft.EpicCategory,Epics,4,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,428f618c-fb7d-4855-b0c6-ae866f1c29fe,Technical Writers,Microsoft.RequirementCategory,Backlog items,2,1000
+a1ef767e-b1fa-4401-8fdc-f90c024b2493,Authentication Services,428f618c-fb7d-4855-b0c6-ae866f1c29fe,Technical Writers,Microsoft.TaskCategory,Tasks,1,1000

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.UserStory/states/7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "customizationType": "system"
+  },
+  {
+    "id": "05f12a85-6988-4240-95d0-8e566be4e547",
+    "name": "Waiting",
+    "color": "c9e7e7",
+    "stateCategory": "Proposed",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.UserStory/states/05f12a85-6988-4240-95d0-8e566be4e547",
+    "customizationType": "custom"
+  },
+  {
+    "id": "bfd3360a-f249-434e-bd91-4b25860c3e9b",
+    "name": "Ready",
+    "color": "7caf9a",
+    "stateCategory": "Proposed",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.UserStory/states/bfd3360a-f249-434e-bd91-4b25860c3e9b",
+    "customizationType": "custom"
+  },
+  {
+    "id": "277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "name": "Active",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.UserStory/states/277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "customizationType": "system"
+  },
+  {
+    "id": "f36cfea7-889a-448e-b5d1-fbc9b134ec82",
+    "name": "Resolved",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 5,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.UserStory/states/f36cfea7-889a-448e-b5d1-fbc9b134ec82",
+    "customizationType": "system"
+  },
+  {
+    "id": "9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "name": "Closed",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 6,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.UserStory/states/9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "customizationType": "system"
+  },
+  {
+    "id": "0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "name": "Removed",
+    "color": "ffffff",
+    "stateCategory": "Removed",
+    "order": 7,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/32435972-f5ce-40fd-a242-052139548f39/workItemTypes/1id.UserStory/states/0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "customizationType": "system"
+  }
+]

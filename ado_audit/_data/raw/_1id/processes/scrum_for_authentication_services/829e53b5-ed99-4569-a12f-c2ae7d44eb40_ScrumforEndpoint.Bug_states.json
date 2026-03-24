@@ -1,0 +1,84 @@
+[
+  {
+    "id": "7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "customizationType": "system"
+  },
+  {
+    "id": "02cca570-0896-4a30-aff1-87ccffc68ce0",
+    "name": "Approved",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/02cca570-0896-4a30-aff1-87ccffc68ce0",
+    "customizationType": "system"
+  },
+  {
+    "id": "9766a6e3-d5a6-405e-ab46-8d7dbefa5fcc",
+    "name": "Development",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/9766a6e3-d5a6-405e-ab46-8d7dbefa5fcc",
+    "customizationType": "custom"
+  },
+  {
+    "id": "6fdfb706-1d18-4c4c-a750-4e9a1dd3f823",
+    "name": "Ready to test",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 5,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/6fdfb706-1d18-4c4c-a750-4e9a1dd3f823",
+    "customizationType": "custom"
+  },
+  {
+    "id": "4760225b-56a6-4a0b-911c-1a58667b0e46",
+    "name": "Document",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 6,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/4760225b-56a6-4a0b-911c-1a58667b0e46",
+    "customizationType": "custom"
+  },
+  {
+    "id": "915afe1c-562b-44bf-aee1-a3d13cd42c66",
+    "name": "Blocked",
+    "color": "e60017",
+    "stateCategory": "InProgress",
+    "order": 7,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/915afe1c-562b-44bf-aee1-a3d13cd42c66",
+    "customizationType": "custom"
+  },
+  {
+    "id": "0c926c15-68f7-467f-96c9-a26a19e9d718",
+    "name": "Done",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 8,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/0c926c15-68f7-467f-96c9-a26a19e9d718",
+    "customizationType": "system"
+  },
+  {
+    "id": "0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "name": "Removed",
+    "color": "ffffff",
+    "stateCategory": "Removed",
+    "order": 9,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "customizationType": "system"
+  },
+  {
+    "id": "abb54c86-d03a-44fe-8216-309d3c712296",
+    "name": "Committed",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 10,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/829e53b5-ed99-4569-a12f-c2ae7d44eb40/workItemTypes/ScrumforEndpoint.Bug/states/abb54c86-d03a-44fe-8216-309d3c712296",
+    "hidden": true,
+    "customizationType": "inherited"
+  }
+]

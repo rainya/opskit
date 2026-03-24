@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "570c4129-4c74-49d3-ada2-8be2f8786330",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/570c4129-4c74-49d3-ada2-8be2f8786330",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "c53b958e-44ca-40a3-98c3-21662a29355a",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/c53b958e-44ca-40a3-98c3-21662a29355a",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Removed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Removed from the backlog"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "8a3a5352-ae1b-4793-a55f-d1cbe187a2a0",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/8a3a5352-ae1b-4793-a55f-d1cbe187a2a0",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Removed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "48f2fc15-ec29-4437-8950-27e023ef54bc",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/48f2fc15-ec29-4437-8950-27e023ef54bc",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Acceptance tests pass"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "59f6382b-fe76-4a7c-b75b-02f26f86466f",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/59f6382b-fe76-4a7c-b75b-02f26f86466f",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "ca0b7c43-4621-4b0c-82e8-0df025054735",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/ca0b7c43-4621-4b0c-82e8-0df025054735",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Acceptance tests fail"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "ca8e5921-ff8c-4be6-b0a7-786410101245",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/ca8e5921-ff8c-4be6-b0a7-786410101245",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "68b8c9fd-97db-4027-acbf-8f7cebcb0a16",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/68b8c9fd-97db-4027-acbf-8f7cebcb0a16",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Moved to the backlog"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "dcccc8d8-6947-4ad4-8e0c-89c53abbb06e",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/dcccc8d8-6947-4ad4-8e0c-89c53abbb06e",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "0807896d-edbc-45cf-b2dc-4ca05e8fa066",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/0807896d-edbc-45cf-b2dc-4ca05e8fa066",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Removed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Removed from the backlog"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "47bc28a9-db44-4332-8642-0dfa593514fa",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/47bc28a9-db44-4332-8642-0dfa593514fa",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Removed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "3e2089d9-dc19-4487-8490-c224584aed46",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/3e2089d9-dc19-4487-8490-c224584aed46",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Acceptance tests pass"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "d6e9f2e8-34a4-4095-910d-3dcd91bc987e",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/d6e9f2e8-34a4-4095-910d-3dcd91bc987e",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "f33fd000-20a5-4b02-9383-9565da93994a",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/f33fd000-20a5-4b02-9383-9565da93994a",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Stories complete"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "94461138-b83f-4059-8e18-49b5529d127e",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/94461138-b83f-4059-8e18-49b5529d127e",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "51457504-a857-4cea-abc9-d688ad959148",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/51457504-a857-4cea-abc9-d688ad959148",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Moved to the backlog"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "4d4f9a38-b9c5-4153-ad9f-2f9d9ab4c2f4",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/4d4f9a38-b9c5-4153-ad9f-2f9d9ab4c2f4",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "cf7abccd-8d90-4c7a-9815-008bb6119dd7",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/cf7abccd-8d90-4c7a-9815-008bb6119dd7",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Removed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Removed from the backlog"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "c768edd8-bedb-4b15-9b18-e913b6362887",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/c768edd8-bedb-4b15-9b18-e913b6362887",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Removed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "06a5b78d-1e64-4092-88d9-50b8a8b2bafb",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/06a5b78d-1e64-4092-88d9-50b8a8b2bafb",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Acceptance tests pass"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "74049b2f-c2b4-45d5-9d02-db04f68c38ad",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/74049b2f-c2b4-45d5-9d02-db04f68c38ad",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "3f09fd4d-34a6-4f2d-9817-3404150e0a30",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/3f09fd4d-34a6-4f2d-9817-3404150e0a30",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Stories complete"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "61604227-051b-4558-92a4-e2942528ef26",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/61604227-051b-4558-92a4-e2942528ef26",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "a4e0511d-99c2-405e-bf01-5b0c54eebf4e",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/a4e0511d-99c2-405e-bf01-5b0c54eebf4e",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Implementation started"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "231ec296-85fe-4e5c-a0a0-f284f3e5c292",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/231ec296-85fe-4e5c-a0a0-f284f3e5c292",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "e62d914d-3e2e-4cf3-b4be-53ad74b483e2",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/e62d914d-3e2e-4cf3-b4be-53ad74b483e2",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Closed in error"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "d5a5473f-d708-412a-9fc4-443bdd6656aa",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/d5a5473f-d708-412a-9fc4-443bdd6656aa",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "87b2fc82-2b84-4707-997b-4cc21008cab9",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/87b2fc82-2b84-4707-997b-4cc21008cab9",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Reintroduced in Scope"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "4bb6573c-98e8-4d1f-a133-dfe016ffee2f",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/4bb6573c-98e8-4d1f-a133-dfe016ffee2f",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "ae3caf1e-1ed7-4cd1-bc33-330a5afc70f5",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/ae3caf1e-1ed7-4cd1-bc33-330a5afc70f5",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Moved to the backlog"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "3b87002f-dd69-4505-b0e8-2fafdb69827b",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/3b87002f-dd69-4505-b0e8-2fafdb69827b",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "3ea24fda-76a5-4464-a70b-ac38804fad94",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/3ea24fda-76a5-4464-a70b-ac38804fad94",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Removed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "Reconsidering the Feature"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "f0a672b5-5e08-4430-baf8-275e337a2a14",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/f0a672b5-5e08-4430-baf8-275e337a2a14",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Removed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "60a27494-ff05-40f6-b522-d845a9da741f",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/60a27494-ff05-40f6-b522-d845a9da741f",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": ""
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyValue",
+        "targetField": "System.Reason",
+        "value": "New"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "665375a4-4bb1-4232-beb6-8c2a225e5299",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/665375a4-4bb1-4232-beb6-8c2a225e5299",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": ""
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Reason",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "dcfff0f2-94ff-4adb-9315-c84ea5beca20",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/dcfff0f2-94ff-4adb-9315-c84ea5beca20",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.CreatedBy",
+        "value": ""
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setDefaultFromCurrentUser",
+        "targetField": "System.CreatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "b3ed279f-c37e-462d-9807-90e009bda41f",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/b3ed279f-c37e-462d-9807-90e009bda41f",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "System.CreatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "deae5a5e-9a6c-48c3-b2ed-8ac3440d4908",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/deae5a5e-9a6c-48c3-b2ed-8ac3440d4908",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.ChangedBy",
+        "value": ""
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setDefaultFromCurrentUser",
+        "targetField": "System.ChangedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "72c161b9-7a9c-43b8-a0a2-c39e9177cab1",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/72c161b9-7a9c-43b8-a0a2-c39e9177cab1",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.WorkItemType",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "9fa327f5-a194-4247-ab1e-4d47c2c1863d",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/9fa327f5-a194-4247-ab1e-4d47c2c1863d",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "setDefaultValue",
+        "targetField": "Microsoft.VSTS.Common.ValueArea",
+        "value": "Business"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "f222d1a4-a7dd-4de0-8137-80238b87bc44",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/f222d1a4-a7dd-4de0-8137-80238b87bc44",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ValueArea",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "033abc26-cbf5-4ea6-bc03-2f838bc5e9b6",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/033abc26-cbf5-4ea6-bc03-2f838bc5e9b6",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "setDefaultValue",
+        "targetField": "Microsoft.VSTS.Common.Priority",
+        "value": "2"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "5fc63cbd-b1b2-4029-8c2e-f535a87eb299",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/5fc63cbd-b1b2-4029-8c2e-f535a87eb299",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.Title",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "81ccd549-a8aa-4565-bf71-c69b404b9871",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/81ccd549-a8aa-4565-bf71-c69b404b9871",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.State",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "7cd41be6-f92b-415f-9f41-97c7713feb6e",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/7cd41be6-f92b-415f-9f41-97c7713feb6e",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "setDefaultValue",
+        "targetField": "System.State",
+        "value": "New"
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "bc014188-3c13-4178-a0ed-5916b262565f",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/bc014188-3c13-4178-a0ed-5916b262565f",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setDefaultFromCurrentUser",
+        "targetField": "System.AssignedTo",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "160848a8-06c0-4441-94b3-2a5a3fc54104",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/160848a8-06c0-4441-94b3-2a5a3fc54104",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setDefaultFromCurrentUser",
+        "targetField": "System.AssignedTo",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "9b1406ad-ab81-464f-ab17-28c63e01aea9",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/9b1406ad-ab81-464f-ab17-28c63e01aea9",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "111c1a78-6cb3-4aa1-a90c-a50b95cb7712",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/111c1a78-6cb3-4aa1-a90c-a50b95cb7712",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "c82b2bc6-08e1-4269-9a9c-5c1cb40c0938",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/c82b2bc6-08e1-4269-9a9c-5c1cb40c0938",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "3cce27d2-3f88-484a-8eb6-a7a7016a82ea",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/3cce27d2-3f88-484a-8eb6-a7a7016a82ea",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "1065d092-1dec-4054-8b1b-e1551553a09d",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/1065d092-1dec-4054-8b1b-e1551553a09d",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "8c8fa347-ad6d-492e-9679-1c4cd955fd52",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/8c8fa347-ad6d-492e-9679-1c4cd955fd52",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "752d49cc-6d19-4814-901a-f5ff267ac78b",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/752d49cc-6d19-4814-901a-f5ff267ac78b",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "f4842ed2-e9d1-4365-8b18-72246e7fd9ea",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/f4842ed2-e9d1-4365-8b18-72246e7fd9ea",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "68f29f54-6022-4699-a411-029e7ad19642",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/68f29f54-6022-4699-a411-029e7ad19642",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ClosedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "a4769572-513b-4cb9-bc61-45cc3919fbbc",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/a4769572-513b-4cb9-bc61-45cc3919fbbc",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ClosedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "32a72596-548b-4283-9103-2bdc3871479b",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/32a72596-548b-4283-9103-2bdc3871479b",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ClosedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "5386318a-e74f-40e4-9802-8ade6ecedd55",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/5386318a-e74f-40e4-9802-8ade6ecedd55",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ClosedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "8b764e99-da69-4916-be70-d069bb9cc438",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/8b764e99-da69-4916-be70-d069bb9cc438",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ClosedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "5759ed6c-7dfe-463c-8f8a-0f26207b77b7",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/5759ed6c-7dfe-463c-8f8a-0f26207b77b7",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ClosedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "3932d95c-876b-4afa-b433-02a97a224872",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/3932d95c-876b-4afa-b433-02a97a224872",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ClosedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "b0a04d29-e406-4a0a-a687-925009170cca",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/b0a04d29-e406-4a0a-a687-925009170cca",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ClosedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "4a38e8db-1c26-40d8-bb00-413b2811ba29",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/4a38e8db-1c26-40d8-bb00-413b2811ba29",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "01eeb38a-c3f6-4672-9527-5d3e4854a190",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/01eeb38a-c3f6-4672-9527-5d3e4854a190",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "b5ecd412-9299-44ca-8995-475683d91291",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/b5ecd412-9299-44ca-8995-475683d91291",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "7cb0ddcb-b057-4c10-aa39-03e942677839",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/7cb0ddcb-b057-4c10-aa39-03e942677839",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "0ca8db46-3ba5-4899-a35c-8a8a6b348372",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/0ca8db46-3ba5-4899-a35c-8a8a6b348372",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "eb186715-1a26-40e1-a792-16d6da55c372",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/eb186715-1a26-40e1-a792-16d6da55c372",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "fba06ec3-9c49-43a9-b35e-2f0ac9966bf5",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/fba06ec3-9c49-43a9-b35e-2f0ac9966bf5",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "84facfd1-e689-4fab-8018-a2b4d3854505",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/84facfd1-e689-4fab-8018-a2b4d3854505",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "55cde435-4256-4635-bbb5-0ef0c64fde1a",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/55cde435-4256-4635-bbb5-0ef0c64fde1a",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "6a6bc1bf-2399-4282-9878-cb901ed04145",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/6a6bc1bf-2399-4282-9878-cb901ed04145",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ResolvedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "56af0f44-9afb-4188-b8e5-17779f204435",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/56af0f44-9afb-4188-b8e5-17779f204435",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "9f4b027e-6d66-4e66-8a21-e94d7165fdb3",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/9f4b027e-6d66-4e66-8a21-e94d7165fdb3",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "9de9feb7-c65f-4627-971a-82a020394f32",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/9de9feb7-c65f-4627-971a-82a020394f32",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "44ba57c9-b99a-416d-b7d0-ae2d2beef9e9",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/44ba57c9-b99a-416d-b7d0-ae2d2beef9e9",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "29c5fc93-a1e5-427b-b7d5-d52856146c8d",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/29c5fc93-a1e5-427b-b7d5-d52856146c8d",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "e67516f3-9f02-45f3-bbbf-6503b930f891",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/e67516f3-9f02-45f3-bbbf-6503b930f891",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "85950c8d-0503-4387-8610-f7c5c184500a",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/85950c8d-0503-4387-8610-f7c5c184500a",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "af2d562e-49ad-4264-8737-85e5aa2e59a6",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/af2d562e-49ad-4264-8737-85e5aa2e59a6",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ResolvedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "835a7c33-cc7d-4d21-964f-d25e09aeef3d",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/835a7c33-cc7d-4d21-964f-d25e09aeef3d",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "2a7e3e63-013c-492c-9c59-efe9b3e49f91",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/2a7e3e63-013c-492c-9c59-efe9b3e49f91",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "4c8d962d-4149-472c-917c-aa9797ac6e8a",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/4c8d962d-4149-472c-917c-aa9797ac6e8a",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "d37c12f6-e481-460e-84f6-670d20ce8401",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/d37c12f6-e481-460e-84f6-670d20ce8401",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "361211bb-16df-459e-a609-53e01eb8d2ae",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/361211bb-16df-459e-a609-53e01eb8d2ae",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "cf2de3bd-48bc-44ad-b138-a1427ccd95f7",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/cf2de3bd-48bc-44ad-b138-a1427ccd95f7",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "8611c280-1929-4930-b423-0535daedf8dd",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/8611c280-1929-4930-b423-0535daedf8dd",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "a5bf393b-fa6c-4967-a756-86ed8b7dcdfe",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/a5bf393b-fa6c-4967-a756-86ed8b7dcdfe",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "82f732ff-9352-45a0-81f3-1057ef382954",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/82f732ff-9352-45a0-81f3-1057ef382954",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "4f8fd386-bfdf-4491-80e0-67902d4f71e4",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/4f8fd386-bfdf-4491-80e0-67902d4f71e4",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "29d8aa4a-f868-4253-affe-6b9f5cc52da1",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/29d8aa4a-f868-4253-affe-6b9f5cc52da1",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromCurrentUser",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "5d823787-03dc-4c31-94e7-0f89fd1bc5ac",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/5d823787-03dc-4c31-94e7-0f89fd1bc5ac",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "a5b6bf6f-cb83-4433-9de5-e0071a854985",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/a5b6bf6f-cb83-4433-9de5-e0071a854985",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ActivatedBy",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "b70fdbb0-5f0c-443e-bbaa-b349a906e772",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/b70fdbb0-5f0c-443e-bbaa-b349a906e772",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "ac62a12f-ba54-4011-a309-930df79673a8",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/ac62a12f-ba54-4011-a309-930df79673a8",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "97489fc0-5f4c-4414-98c4-8a415a3faa69",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/97489fc0-5f4c-4414-98c4-8a415a3faa69",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Resolved"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "7e06f51a-3710-4ba2-846c-fe9d1182fff5",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/7e06f51a-3710-4ba2-846c-fe9d1182fff5",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "1b3c1696-3564-4b4c-9f2d-5abece9368fe",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/1b3c1696-3564-4b4c-9f2d-5abece9368fe",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Active"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "1ee1ec72-967b-4d58-8c26-3462490885c6",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/1ee1ec72-967b-4d58-8c26-3462490885c6",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "908c874b-62b9-4049-b665-b17cf00b6954",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/908c874b-62b9-4049-b665-b17cf00b6954",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Resolved"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "e8317185-f4c1-4f0a-8a5a-4af04248f913",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/e8317185-f4c1-4f0a-8a5a-4af04248f913",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "New"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "0c0ca4e6-2984-432d-aa74-5ca82aa5f8ae",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/0c0ca4e6-2984-432d-aa74-5ca82aa5f8ae",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenWas",
+        "field": "System.State",
+        "value": "Closed"
+      },
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Active"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "fff2bb5e-7621-4faf-b504-4cb0afe2abb1",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/fff2bb5e-7621-4faf-b504-4cb0afe2abb1",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "New"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "setValueToEmpty",
+        "targetField": "Microsoft.VSTS.Common.ActivatedDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "2e94781f-2565-4e03-90e4-df96115c9a96",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/2e94781f-2565-4e03-90e4-df96115c9a96",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenNotChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.StateChangeDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "937dee9d-38c5-4596-9d06-b49dcad07553",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/937dee9d-38c5-4596-9d06-b49dcad07553",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "whenChanged",
+        "field": "System.State",
+        "value": null
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "copyFromServerClock",
+        "targetField": "Microsoft.VSTS.Common.StateChangeDate",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "dc8406c8-ab55-4d88-ba94-febbb03e7a9e",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/dc8406c8-ab55-4d88-ba94-febbb03e7a9e",
+    "name": null,
+    "conditions": [
+      {
+        "conditionType": "when",
+        "field": "System.State",
+        "value": "Closed"
+      }
+    ],
+    "actions": [
+      {
+        "actionType": "makeReadOnly",
+        "targetField": "Microsoft.VSTS.Common.BusinessValue",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "45cbaca1-bb8a-4aaf-ba1c-f2ec24bd502f",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/45cbaca1-bb8a-4aaf-ba1c-f2ec24bd502f",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.AreaId",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  },
+  {
+    "id": "a10626e8-51fb-4a1e-bf8d-91a9fb6c03e5",
+    "customizationType": "system",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/adcc42ab-9882-485e-a3ed-7678f01f66bc/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature/rules/a10626e8-51fb-4a1e-bf8d-91a9fb6c03e5",
+    "name": null,
+    "conditions": [],
+    "actions": [
+      {
+        "actionType": "makeRequired",
+        "targetField": "System.IterationId",
+        "value": null
+      }
+    ],
+    "isDisabled": false
+  }
+]

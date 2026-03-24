@@ -1,0 +1,155 @@
+[
+  {
+    "id": "bc37e045-4fdb-4132-9737-7837fb379928",
+    "name": "IMX Test Automation",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/bc37e045-4fdb-4132-9737-7837fb379928",
+    "description": "Test automation team for Identity Manager IMX webs",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/bc37e045-4fdb-4132-9737-7837fb379928",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "687b09ae-7d33-40e3-9a42-ae7294eea1fe",
+    "name": "Identity Manager Release Approvers",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/687b09ae-7d33-40e3-9a42-ae7294eea1fe",
+    "description": "",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/687b09ae-7d33-40e3-9a42-ae7294eea1fe",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "51732a9b-0e28-4b4d-8f42-3e4737a33824",
+    "name": "Identity Manager Modules (D)",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/51732a9b-0e28-4b4d-8f42-3e4737a33824",
+    "description": "One Identity Manager Connected Systems Modules development",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/51732a9b-0e28-4b4d-8f42-3e4737a33824",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "3dadd666-9d98-4732-9143-31b31035dda9",
+    "name": "OneIM OSP",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/3dadd666-9d98-4732-9143-31b31035dda9",
+    "description": "New team of Outsource providers working from Bangalore and collaborate/contribute with One Identity Manager QA and Escalation teams in Dresden",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/3dadd666-9d98-4732-9143-31b31035dda9",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "dd215ebf-0581-4079-9dc2-0c4d0a6120c2",
+    "name": "OneIM Germany",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/dd215ebf-0581-4079-9dc2-0c4d0a6120c2",
+    "description": "",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/dd215ebf-0581-4079-9dc2-0c4d0a6120c2",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "3285c027-6cc4-4beb-8005-2ac27e507d8f",
+    "name": "Identity Manager Database",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/3285c027-6cc4-4beb-8005-2ac27e507d8f",
+    "description": "Identity Manager Database Developers",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/3285c027-6cc4-4beb-8005-2ac27e507d8f",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "d9f66ee7-8ae2-4192-8a81-eaecca100f54",
+    "name": "DGE",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/d9f66ee7-8ae2-4192-8a81-eaecca100f54",
+    "description": "One Identity Manager - Data Governance Edition Team",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/d9f66ee7-8ae2-4192-8a81-eaecca100f54",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "391b87ba-4a4b-4a52-8188-0056b727f18e",
+    "name": "Identity Manager VPT",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/391b87ba-4a4b-4a52-8188-0056b727f18e",
+    "description": "The default project team.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/391b87ba-4a4b-4a52-8188-0056b727f18e",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "1b4db05d-c410-49c6-9bd1-47624024f4d6",
+    "name": "OneIM Hungary",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/1b4db05d-c410-49c6-9bd1-47624024f4d6",
+    "description": "",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/1b4db05d-c410-49c6-9bd1-47624024f4d6",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "e66f86a5-bc51-45cb-bb14-ab9db1767df6",
+    "name": "Identity Manager (M)",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/e66f86a5-bc51-45cb-bb14-ab9db1767df6",
+    "description": "Team for PMs of Identity Manager Core and Web",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/e66f86a5-bc51-45cb-bb14-ab9db1767df6",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "87438781-dca5-4bfb-9533-ee097b9b7f40",
+    "name": "Identity Manager Modules (M)",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/87438781-dca5-4bfb-9533-ee097b9b7f40",
+    "description": "PM team for Identity Manager modules team",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/87438781-dca5-4bfb-9533-ee097b9b7f40",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "0ba2a2ff-7a80-4907-a278-ef5877f1918c",
+    "name": "Identity Manager Web (D)",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/0ba2a2ff-7a80-4907-a278-ef5877f1918c",
+    "description": "Development team for the Identity Manager and Starling OnDemand IMX, HTML5, API and Web Designer components",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/0ba2a2ff-7a80-4907-a278-ef5877f1918c",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "3c0b5302-42a5-4802-b098-420971b09abc",
+    "name": "Identity Manager Core (D)",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/3c0b5302-42a5-4802-b098-420971b09abc",
+    "description": "Team members that do One Identity Manager core development",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/3c0b5302-42a5-4802-b098-420971b09abc",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "9e1ff299-2167-4d6e-b258-16a91d5a5af4",
+    "name": "TechComm Modules",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/9e1ff299-2167-4d6e-b258-16a91d5a5af4",
+    "description": "TechComm Team for Identity Manager Modules & DGE",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/9e1ff299-2167-4d6e-b258-16a91d5a5af4",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "4f93a2ef-1719-4837-b0ea-4099b8f1489b",
+    "name": "Identity Manager ( Accolite )",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/4f93a2ef-1719-4837-b0ea-4099b8f1489b",
+    "description": "Accolite team working on Identity Manager Modules",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/4f93a2ef-1719-4837-b0ea-4099b8f1489b",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "05e4e42d-a9a1-4fe7-8091-8ad74d5e14d2",
+    "name": "Tech Comm",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/05e4e42d-a9a1-4fe7-8091-8ad74d5e14d2",
+    "description": "One Identity Manager Tech writers",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/05e4e42d-a9a1-4fe7-8091-8ad74d5e14d2",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  },
+  {
+    "id": "a28bcdb8-b3a0-4702-88da-e1b8c093e0eb",
+    "name": "Identity Manager Feed Contributors",
+    "url": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/a28bcdb8-b3a0-4702-88da-e1b8c093e0eb",
+    "description": "",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/a28bcdb8-b3a0-4702-88da-e1b8c093e0eb",
+    "projectName": "Identity Manager",
+    "projectId": "36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+  }
+]

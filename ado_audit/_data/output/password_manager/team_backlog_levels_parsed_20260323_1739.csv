@@ -1,0 +1,21 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,61eeb2c0-0715-4f5b-b399-509ecfb3b66b,Development,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,61eeb2c0-0715-4f5b-b399-509ecfb3b66b,Development,Microsoft.EpicCategory,Epics,4,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,61eeb2c0-0715-4f5b-b399-509ecfb3b66b,Development,Microsoft.FeatureCategory,Features,3,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,61eeb2c0-0715-4f5b-b399-509ecfb3b66b,Development,Microsoft.RequirementCategory,Backlog items,2,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,61eeb2c0-0715-4f5b-b399-509ecfb3b66b,Development,Microsoft.TaskCategory,Tasks,1,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46b0e99d-f6de-47d1-9ea5-3692e4974782,Escalations,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46b0e99d-f6de-47d1-9ea5-3692e4974782,Escalations,Microsoft.EpicCategory,Epics,4,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46b0e99d-f6de-47d1-9ea5-3692e4974782,Escalations,Microsoft.FeatureCategory,Features,3,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46b0e99d-f6de-47d1-9ea5-3692e4974782,Escalations,Microsoft.RequirementCategory,Backlog items,2,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46b0e99d-f6de-47d1-9ea5-3692e4974782,Escalations,Microsoft.TaskCategory,Tasks,1,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,ea538581-8a4d-498a-8bf8-cfdf98cd7841,Management,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,ea538581-8a4d-498a-8bf8-cfdf98cd7841,Management,Microsoft.EpicCategory,Epics,4,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,ea538581-8a4d-498a-8bf8-cfdf98cd7841,Management,Microsoft.FeatureCategory,Features,3,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,ea538581-8a4d-498a-8bf8-cfdf98cd7841,Management,Microsoft.RequirementCategory,Backlog items,2,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,ea538581-8a4d-498a-8bf8-cfdf98cd7841,Management,Microsoft.TaskCategory,Tasks,1,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46df2829-fa12-4cad-94ba-62c0ea59b0b9,Technical Writers,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46df2829-fa12-4cad-94ba-62c0ea59b0b9,Technical Writers,Microsoft.EpicCategory,Epics,4,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46df2829-fa12-4cad-94ba-62c0ea59b0b9,Technical Writers,Microsoft.FeatureCategory,Features,3,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46df2829-fa12-4cad-94ba-62c0ea59b0b9,Technical Writers,Microsoft.RequirementCategory,Backlog items,2,1000
+3e10c9c7-d146-4505-bf4f-e554c5046abc,Password Manager,46df2829-fa12-4cad-94ba-62c0ea59b0b9,Technical Writers,Microsoft.TaskCategory,Tasks,1,1000

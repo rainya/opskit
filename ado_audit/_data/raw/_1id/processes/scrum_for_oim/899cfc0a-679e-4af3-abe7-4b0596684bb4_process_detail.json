@@ -1,0 +1,10 @@
+{
+  "typeId": "899cfc0a-679e-4af3-abe7-4b0596684bb4",
+  "name": "Scrum for OIM",
+  "referenceName": "1id.ScrumforOIM",
+  "description": "Process for One Identity Manager\n",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

@@ -1,0 +1,20 @@
+{
+  "count": 3,
+  "value": [
+    {
+      "name": "In Planning",
+      "color": "007acc",
+      "category": "InProgress"
+    },
+    {
+      "name": "In Progress",
+      "color": "007acc",
+      "category": "InProgress"
+    },
+    {
+      "name": "Completed",
+      "color": "339933",
+      "category": "Completed"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Root",
+  "children": [
+    {
+      "id": 2,
+      "name": "Area A",
+      "children": [
+        {"id": 3, "name": "Sub Area", "children": []}
+      ]
+    }
+  ]
+}

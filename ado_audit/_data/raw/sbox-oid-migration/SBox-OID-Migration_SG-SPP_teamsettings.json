@@ -1,0 +1,45 @@
+{
+  "backlogIteration": {
+    "id": "d396aaac-e3c1-4205-8d16-f27da6d4227f",
+    "name": "SBox-OID-Migration",
+    "path": "",
+    "url": "https://dev.azure.com/1id/91c39616-97bf-48ef-8cbb-72148c0a6192/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Custom.5eee85c3-0de8-4db4-a61d-a5170a57af42": true,
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": null,
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/91c39616-97bf-48ef-8cbb-72148c0a6192/4b579a5c-fa09-4d24-b43d-97953373ff00/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/91c39616-97bf-48ef-8cbb-72148c0a6192/4b579a5c-fa09-4d24-b43d-97953373ff00/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/91c39616-97bf-48ef-8cbb-72148c0a6192/teams/4b579a5c-fa09-4d24-b43d-97953373ff00"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/91c39616-97bf-48ef-8cbb-72148c0a6192/4b579a5c-fa09-4d24-b43d-97953373ff00/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/91c39616-97bf-48ef-8cbb-72148c0a6192/4b579a5c-fa09-4d24-b43d-97953373ff00/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": {
+      "href": "https://dev.azure.com/1id/91c39616-97bf-48ef-8cbb-72148c0a6192/_apis/wit/classificationNodes/Iterations"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "backlogIteration": {
+    "id": "68e5a773-3507-462b-8b73-f604a20be75c",
+    "name": "SPS",
+    "path": "",
+    "url": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": false,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": null,
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/60949543-7915-4809-a474-6f28bd7eb010/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/60949543-7915-4809-a474-6f28bd7eb010/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1a8003e-d7eb-488b-b6b6-9f989b889636"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1a8003e-d7eb-488b-b6b6-9f989b889636/teams/60949543-7915-4809-a474-6f28bd7eb010"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/60949543-7915-4809-a474-6f28bd7eb010/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/60949543-7915-4809-a474-6f28bd7eb010/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": {
+      "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/_apis/wit/classificationNodes/Iterations"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Task,To Do,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Task,In Progress,InProgress,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Task,Done,Completed,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Task,Removed,Removed,4
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Bug,New,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Bug,Approved,Proposed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Bug,Committed,InProgress,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Bug,Done,Completed,4
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Bug,Removed,Removed,5
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Code Review Request,Requested,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Code Review Request,Closed,Completed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Code Review Response,Requested,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Code Review Response,Accepted,InProgress,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Code Review Response,Closed,Completed,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Epic,New,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Epic,In Progress,InProgress,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Epic,Done,Completed,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Epic,Removed,Removed,4
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feature,New,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feature,In Progress,InProgress,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feature,Done,Completed,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feature,Removed,Removed,4
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feedback Request,Active,InProgress,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feedback Request,Closed,Completed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feedback Request,Removed,Removed,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feedback Response,Active,InProgress,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Feedback Response,Closed,Completed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Impediment,Open,InProgress,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Impediment,Closed,Completed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Product Backlog Item,New,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Product Backlog Item,Approved,Proposed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Product Backlog Item,Committed,InProgress,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Product Backlog Item,Done,Completed,4
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Product Backlog Item,Removed,Removed,5
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Shared Steps,Active,InProgress,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Shared Steps,Closed,Completed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Shared Parameter,Active,InProgress,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Shared Parameter,Inactive,Completed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Case,Design,Proposed,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Case,Ready,InProgress,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Case,Closed,Completed,3
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Plan,Active,InProgress,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Plan,Inactive,Completed,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Suite,In Planning,InProgress,1
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Suite,In Progress,InProgress,2
+6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,Test Suite,Completed,Completed,3

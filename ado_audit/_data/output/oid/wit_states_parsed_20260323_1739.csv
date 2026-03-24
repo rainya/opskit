@@ -1,0 +1,73 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Bug,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Bug,Waiting,Proposed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Bug,Ready,Proposed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Bug,Active,InProgress,4
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Bug,Validating,Resolved,5
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Bug,Closed,Completed,6
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Bug,Removed,Removed,7
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Code Review Request,Requested,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Code Review Request,Closed,Completed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Code Review Response,Requested,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Code Review Response,Accepted,InProgress,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Code Review Response,Closed,Completed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epic,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epic,Waiting,Proposed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epic,Ready,Proposed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epic,Active,InProgress,4
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epic,Validating,Resolved,5
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epic,Closed,Completed,6
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epic,Removed,Removed,7
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feature,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feature,Waiting,Proposed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feature,Ready,Proposed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feature,Active,InProgress,4
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feature,Validating,Resolved,5
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feature,Closed,Completed,6
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feature,Removed,Removed,7
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feedback Request,Active,InProgress,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feedback Request,Closed,Completed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feedback Request,Removed,Removed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feedback Response,Active,InProgress,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Feedback Response,Closed,Completed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Shared Steps,Active,InProgress,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Shared Steps,Closed,Completed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Task,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Task,Ready,Proposed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Task,Active,InProgress,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Task,Validating,Resolved,4
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Task,Closed,Completed,5
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Task,Removed,Removed,6
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Case,Design,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Case,Ready,InProgress,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Case,Closed,Completed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Plan,Active,InProgress,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Plan,Inactive,Completed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Suite,In Planning,InProgress,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Suite,In Progress,InProgress,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Test Suite,Completed,Completed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,User Story,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,User Story,Waiting,Proposed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,User Story,Ready,Proposed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,User Story,Active,InProgress,4
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,User Story,Validating,Resolved,5
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,User Story,Closed,Completed,6
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,User Story,Removed,Removed,7
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Issue,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Issue,Waiting,Proposed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Issue,Ready,Proposed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Issue,Active,InProgress,4
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Issue,Validating,Resolved,5
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Issue,Closed,Completed,6
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Shared Parameter,Active,InProgress,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Shared Parameter,Inactive,Completed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,System Change,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,System Change,Pending Approval,Proposed,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,System Change,Awaiting Implementation,Proposed,3
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,System Change,Implementing,InProgress,4
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,System Change,Awaiting Verification,InProgress,5
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,System Change,Closed,Completed,6
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,System Change,Removed,Removed,7
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Initiative,New,Proposed,1
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Initiative,Active,InProgress,2
+a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Initiative,Closed,Completed,3

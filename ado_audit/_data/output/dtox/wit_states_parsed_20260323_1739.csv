@@ -1,0 +1,69 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Task,To Do,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Task,In Progress,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Task,Done,Completed,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Task,Removed,Removed,4
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,New,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Approved,Proposed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Committed,InProgress,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Implementing,InProgress,4
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Ready for Test,InProgress,5
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Testing on DevTest,InProgress,6
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Tested on DevTest,InProgress,7
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Tested on Stage,InProgress,8
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Done,Completed,9
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Bug,Removed,Removed,10
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Code Review Request,Requested,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Code Review Request,Closed,Completed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Code Review Response,Requested,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Code Review Response,Accepted,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Code Review Response,Closed,Completed,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Epic,New,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Epic,In Progress,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Epic,Done,Completed,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Epic,Removed,Removed,4
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,New,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,In Progress,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Prioritized,InProgress,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Grooming,InProgress,4
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Awaiting Architecture Review,InProgress,5
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Reviewed,InProgress,6
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Implementing,InProgress,7
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Completed,InProgress,8
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Done,Completed,9
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feature,Removed,Removed,10
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feedback Request,Active,InProgress,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feedback Request,Closed,Completed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feedback Request,Removed,Removed,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feedback Response,Active,InProgress,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Feedback Response,Closed,Completed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Impediment,Open,InProgress,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Impediment,Closed,Completed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,New,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Approved,Proposed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Committed,InProgress,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Implementing,InProgress,4
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Ready for Test,InProgress,5
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Testing on DevTest,InProgress,6
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Tested on DevTest,InProgress,7
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Tested on Stage,InProgress,8
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Done,Completed,9
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Product Backlog Item,Removed,Removed,10
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Shared Steps,Active,InProgress,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Shared Steps,Closed,Completed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Shared Parameter,Active,InProgress,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Shared Parameter,Inactive,Completed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Case,Design,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Case,Ready,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Case,Closed,Completed,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Plan,Active,InProgress,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Plan,Inactive,Completed,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Suite,In Planning,InProgress,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Suite,In Progress,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Test Suite,Completed,Completed,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,User Story,New,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,User Story,Committed,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,User Story,Done,Completed,3
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Initiative,New,Proposed,1
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Initiative,Committed,InProgress,2
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,Initiative,Done,Completed,3

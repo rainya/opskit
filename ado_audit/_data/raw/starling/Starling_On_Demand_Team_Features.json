@@ -1,0 +1,167 @@
+{
+  "id": "67fa08d1-9a32-42de-86d6-74926df9fa0f",
+  "url": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0/_apis/work/boards/67fa08d1-9a32-42de-86d6-74926df9fa0f",
+  "name": "Features",
+  "revision": 0,
+  "columns": [
+    {
+      "id": "9b91e225-10c2-471f-bd08-f5e36ccff67c",
+      "name": "New",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Feature": "New"
+      },
+      "columnType": "incoming"
+    },
+    {
+      "id": "d974c1ef-3912-4a47-8c19-b97797e6ab70",
+      "name": "Road Map",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "New"
+      },
+      "isSplit": false,
+      "description": "Product Management owns this column \n* This is a prioritized list of next features to implement",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "9e4188d6-d98e-43f1-8638-6fd277d576c5",
+      "name": "Architecture",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "In Progress"
+      },
+      "isSplit": true,
+      "description": "Product Management, Architect, and Dev share ownership of this column. \nThe following must be complete before dev work begins\n* Use Cases written - PM\n* Architecture decisions made - Architect, Dev, and PM must agree\n* Resources identified and the above items discussed in a handoff meeting - Dev & PM\n\nThe 'done' half of this column should be prioritized so the developers know which feature to take next",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "dbed7971-3918-461e-bdcc-feb01f3eb5d8",
+      "name": "In Progress",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "In Progress"
+      },
+      "isSplit": false,
+      "description": "Dev owns this column\n* Implementation and testing is in progress",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "9c8a8962-6bd2-4553-a7fd-7031252575d0",
+      "name": "Merged to Master",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "In Progress"
+      },
+      "isSplit": false,
+      "description": "Merge Checklist \n* Testing complete \n* Bugs resolved\n* Security Scans complete\n* 3PC updated (Avenue)\n* GDPR sub-processors updated\n* Encryption updated (Avenue)\n* Work items closed\n\n",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "39a1c2d5-a512-4608-9d0e-6db660b998ca",
+      "name": "Done",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Feature": "Done"
+      },
+      "columnType": "outgoing"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0d433552-c59c-4ebc-89af-405ea3e539a9",
+      "name": "Expedited",
+      "color": null
+    },
+    {
+      "id": "cfaac39e-bb7d-4c25-8870-96ac97bfac43",
+      "name": "OPS",
+      "color": null
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": "Scott / Tomer (SGOD AROD PMOD)",
+      "color": null
+    },
+    {
+      "id": "e095be54-82aa-4e17-ae10-cbc1eda794a4",
+      "name": "Dane / Andy (IMOD)",
+      "color": null
+    },
+    {
+      "id": "7b2f038a-ecd8-4fd5-a4ad-52024c6a28a7",
+      "name": "Will (SG Cluster / Nth env)",
+      "color": null
+    },
+    {
+      "id": "2e1967a0-6da0-415a-93cd-060f13a9a038",
+      "name": "DOCS",
+      "color": null
+    },
+    {
+      "id": "cab1c8af-0032-4a8d-a797-00aa03260d1b",
+      "name": "Other resources (Dave/Will/Vlad/Doug)",
+      "color": null
+    }
+  ],
+  "isValid": true,
+  "allowedMappings": {
+    "Incoming": {
+      "Feature": [
+        "New"
+      ]
+    },
+    "InProgress": {
+      "Feature": [
+        "In Progress",
+        "New",
+        "Prioritized",
+        "Grooming",
+        "Awaiting Architecture Review",
+        "Reviewed",
+        "Implementing",
+        "Completed"
+      ]
+    },
+    "Outgoing": {
+      "Feature": [
+        "Done"
+      ]
+    }
+  },
+  "canEdit": true,
+  "fields": {
+    "columnField": {
+      "referenceName": "WEF_581624058E4E4FEA950220FD23ABC367_Kanban.Column",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_581624058E4E4FEA950220FD23ABC367_Kanban.Column"
+    },
+    "rowField": {
+      "referenceName": "WEF_581624058E4E4FEA950220FD23ABC367_Kanban.Lane",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_581624058E4E4FEA950220FD23ABC367_Kanban.Lane"
+    },
+    "doneField": {
+      "referenceName": "WEF_581624058E4E4FEA950220FD23ABC367_Kanban.Column.Done",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_581624058E4E4FEA950220FD23ABC367_Kanban.Column.Done"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0/_apis/work/boards/67fa08d1-9a32-42de-86d6-74926df9fa0f"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0"
+    },
+    "charts": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0/_apis/work/boards/67fa08d1-9a32-42de-86d6-74926df9fa0f/charts"
+    },
+    "columns": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0/_apis/work/boards/67fa08d1-9a32-42de-86d6-74926df9fa0f/columns"
+    },
+    "rows": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0/_apis/work/boards/67fa08d1-9a32-42de-86d6-74926df9fa0f/rows"
+    }
+  }
+}

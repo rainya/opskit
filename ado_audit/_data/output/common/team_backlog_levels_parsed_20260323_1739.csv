@@ -1,0 +1,41 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,9833386d-6b02-4e2c-b78b-966e63694b0e,Build Tools,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,9833386d-6b02-4e2c-b78b-966e63694b0e,Build Tools,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,9833386d-6b02-4e2c-b78b-966e63694b0e,Build Tools,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,9833386d-6b02-4e2c-b78b-966e63694b0e,Build Tools,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,9833386d-6b02-4e2c-b78b-966e63694b0e,Build Tools,Microsoft.TaskCategory,Tasks,1,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,07964a1b-31d4-4015-90e4-cf8fa3f57b9c,Common Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,07964a1b-31d4-4015-90e4-cf8fa3f57b9c,Common Team,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,07964a1b-31d4-4015-90e4-cf8fa3f57b9c,Common Team,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,07964a1b-31d4-4015-90e4-cf8fa3f57b9c,Common Team,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,07964a1b-31d4-4015-90e4-cf8fa3f57b9c,Common Team,Microsoft.TaskCategory,Tasks,1,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,56b26a90-6e20-4dc3-af33-d6e29a627155,Containers Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,56b26a90-6e20-4dc3-af33-d6e29a627155,Containers Team,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,56b26a90-6e20-4dc3-af33-d6e29a627155,Containers Team,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,56b26a90-6e20-4dc3-af33-d6e29a627155,Containers Team,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,56b26a90-6e20-4dc3-af33-d6e29a627155,Containers Team,Microsoft.TaskCategory,Tasks,1,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,47ba1913-ad31-49ad-b656-6b8f339330f1,Hercules,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,47ba1913-ad31-49ad-b656-6b8f339330f1,Hercules,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,47ba1913-ad31-49ad-b656-6b8f339330f1,Hercules,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,47ba1913-ad31-49ad-b656-6b8f339330f1,Hercules,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,47ba1913-ad31-49ad-b656-6b8f339330f1,Hercules,Microsoft.TaskCategory,Tasks,1,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,d5d0400e-9b67-4b73-8efe-4dddeba3f8a2,rSTS,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,d5d0400e-9b67-4b73-8efe-4dddeba3f8a2,rSTS,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,d5d0400e-9b67-4b73-8efe-4dddeba3f8a2,rSTS,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,d5d0400e-9b67-4b73-8efe-4dddeba3f8a2,rSTS,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,d5d0400e-9b67-4b73-8efe-4dddeba3f8a2,rSTS,Microsoft.TaskCategory,Tasks,1,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,cea55d1e-8235-42be-9f92-92f397f93d27,UI,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,cea55d1e-8235-42be-9f92-92f397f93d27,UI,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,cea55d1e-8235-42be-9f92-92f397f93d27,UI,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,cea55d1e-8235-42be-9f92-92f397f93d27,UI,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,cea55d1e-8235-42be-9f92-92f397f93d27,UI,Microsoft.TaskCategory,Tasks,1,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,727f6255-7a14-479a-bfdc-1221b4b5384e,UX,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,727f6255-7a14-479a-bfdc-1221b4b5384e,UX,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,727f6255-7a14-479a-bfdc-1221b4b5384e,UX,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,727f6255-7a14-479a-bfdc-1221b4b5384e,UX,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,727f6255-7a14-479a-bfdc-1221b4b5384e,UX,Microsoft.TaskCategory,Tasks,1,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,ea6989e7-e780-4202-b89d-df81d7ee27d7,UX Illustrations,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,ea6989e7-e780-4202-b89d-df81d7ee27d7,UX Illustrations,Microsoft.EpicCategory,Epics,4,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,ea6989e7-e780-4202-b89d-df81d7ee27d7,UX Illustrations,Microsoft.FeatureCategory,Features,3,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,ea6989e7-e780-4202-b89d-df81d7ee27d7,UX Illustrations,Microsoft.RequirementCategory,Backlog items,2,1000
+bd267a71-a93f-425c-bf32-2d7688de90d3,Common,ea6989e7-e780-4202-b89d-df81d7ee27d7,UX Illustrations,Microsoft.TaskCategory,Tasks,1,1000

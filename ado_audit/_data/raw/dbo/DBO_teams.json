@@ -1,0 +1,11 @@
+[
+  {
+    "id": "9c8f614b-3f6e-4c39-a19a-701de5c67202",
+    "name": "DBO Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/teams/9c8f614b-3f6e-4c39-a19a-701de5c67202",
+    "description": "The default project team.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/9c8f614b-3f6e-4c39-a19a-701de5c67202",
+    "projectName": "DBO",
+    "projectId": "4d2226bd-8990-4c1a-980b-c25eb4dad5b2"
+  }
+]

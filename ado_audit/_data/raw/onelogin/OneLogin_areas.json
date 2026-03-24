@@ -1,0 +1,25 @@
+{
+  "id": 9820,
+  "identifier": "af3dbd03-f8f0-49a8-88d6-d97796e8f55c",
+  "name": "OneLogin",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 9835,
+      "identifier": "c75d2183-75e1-4e3c-9013-cbb2fb9bf957",
+      "name": "Documentation",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\OneLogin\\Area\\Documentation",
+      "url": "https://dev.azure.com/1id/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8/_apis/wit/classificationNodes/Areas/Documentation"
+    }
+  ],
+  "path": "\\OneLogin\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8/_apis/wit/classificationNodes/Areas"
+}

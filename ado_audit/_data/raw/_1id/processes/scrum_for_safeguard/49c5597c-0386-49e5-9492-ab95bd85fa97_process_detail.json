@@ -1,0 +1,10 @@
+{
+  "typeId": "49c5597c-0386-49e5-9492-ab95bd85fa97",
+  "name": "Scrum for Safeguard",
+  "referenceName": "1id.ScrumforPAM",
+  "description": "Safeguard Customisations to the default Scrum process - WIP",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

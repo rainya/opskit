@@ -1,0 +1,10 @@
+{
+  "typeId": "e398e2f1-3bf3-43a4-9ada-df839a107878",
+  "name": "Agile for TFS",
+  "referenceName": "1id.AgileforTFS",
+  "description": "Baseline Agile Process Template for TFS migrations",
+  "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

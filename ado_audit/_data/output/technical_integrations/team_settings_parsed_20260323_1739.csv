@@ -1,0 +1,4 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,7e0b553c-017a-4e46-a709-9aaac15d6058,Field Strategists Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,,False,True,True
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,fc6906cd-50ce-4d2f-a7a0-0b2ab20d52f4,Project Matterhorn,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,,True,True,True
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,50957d69-de24-4d02-af89-d6fadf0edc94,Technical Integrations Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Q4,@currentIteration,,True,True,True

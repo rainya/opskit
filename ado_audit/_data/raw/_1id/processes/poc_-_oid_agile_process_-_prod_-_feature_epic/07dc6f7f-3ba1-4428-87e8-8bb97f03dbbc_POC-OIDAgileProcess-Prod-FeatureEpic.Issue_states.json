@@ -1,0 +1,56 @@
+[
+  {
+    "id": "621d749d-8bab-4a85-9fea-c036fe9a3f66",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Issue/states/621d749d-8bab-4a85-9fea-c036fe9a3f66",
+    "customizationType": "custom"
+  },
+  {
+    "id": "0a6877e9-93e1-485a-a261-26c006d14dad",
+    "name": "Waiting",
+    "color": "c9e7e7",
+    "stateCategory": "Proposed",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Issue/states/0a6877e9-93e1-485a-a261-26c006d14dad",
+    "customizationType": "custom"
+  },
+  {
+    "id": "ff9e3cd7-76ff-471c-b2db-7a06aaced914",
+    "name": "Ready",
+    "color": "c9e7e7",
+    "stateCategory": "Proposed",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Issue/states/ff9e3cd7-76ff-471c-b2db-7a06aaced914",
+    "customizationType": "custom"
+  },
+  {
+    "id": "277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "name": "Active",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Issue/states/277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "customizationType": "system"
+  },
+  {
+    "id": "0faf9ed8-d62f-4a84-9350-4aa48b9cf08f",
+    "name": "Validating",
+    "color": "FF9D00",
+    "stateCategory": "Resolved",
+    "order": 5,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Issue/states/0faf9ed8-d62f-4a84-9350-4aa48b9cf08f",
+    "customizationType": "custom"
+  },
+  {
+    "id": "9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "name": "Closed",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 6,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Issue/states/9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "customizationType": "system"
+  }
+]

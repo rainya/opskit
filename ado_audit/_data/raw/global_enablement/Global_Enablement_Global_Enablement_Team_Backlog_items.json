@@ -1,0 +1,137 @@
+{
+  "id": "03b683a3-4b9f-45eb-b319-307955809775",
+  "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/9738f89f-20ba-4b20-b743-91fb69160779/_apis/work/boards/03b683a3-4b9f-45eb-b319-307955809775",
+  "name": "Backlog items",
+  "revision": 0,
+  "columns": [
+    {
+      "id": "80383d9e-ab6f-4827-8bef-7d874909c23a",
+      "name": "New",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "New",
+        "Bug": "New"
+      },
+      "columnType": "incoming"
+    },
+    {
+      "id": "49088e6d-1304-4a90-9cdd-61164865d03f",
+      "name": "Discussed",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "Discussed",
+        "Bug": "Discussed"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "2a6e54c9-3117-48c4-a49c-98a1d4980838",
+      "name": "In Progress",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "In Progress",
+        "Bug": "In Progress"
+      },
+      "isSplit": true,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "98573d94-ec5c-4233-a620-017e4c44b514",
+      "name": "Publication",
+      "itemLimit": 2,
+      "stateMappings": {
+        "Product Backlog Item": "In Progress",
+        "Bug": "In Progress"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "47c7f9b2-6f8a-43c1-a992-985c27e620fc",
+      "name": "Archived",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "Done",
+        "Bug": "Done"
+      },
+      "columnType": "outgoing"
+    }
+  ],
+  "rows": [
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null
+    }
+  ],
+  "isValid": true,
+  "allowedMappings": {
+    "Incoming": {
+      "Bug": [
+        "New"
+      ],
+      "Product Backlog Item": [
+        "New"
+      ]
+    },
+    "InProgress": {
+      "Bug": [
+        "New",
+        "Discussed",
+        "In Progress"
+      ],
+      "Product Backlog Item": [
+        "New",
+        "Discussed",
+        "In Progress"
+      ]
+    },
+    "Outgoing": {
+      "Bug": [
+        "Done"
+      ],
+      "Product Backlog Item": [
+        "Done"
+      ]
+    }
+  },
+  "canEdit": true,
+  "fields": {
+    "columnField": {
+      "referenceName": "WEF_FB8DA3074AAE4431BE1771FBB4959075_Kanban.Column",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_FB8DA3074AAE4431BE1771FBB4959075_Kanban.Column"
+    },
+    "rowField": {
+      "referenceName": "WEF_FB8DA3074AAE4431BE1771FBB4959075_Kanban.Lane",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_FB8DA3074AAE4431BE1771FBB4959075_Kanban.Lane"
+    },
+    "doneField": {
+      "referenceName": "WEF_FB8DA3074AAE4431BE1771FBB4959075_Kanban.Column.Done",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_FB8DA3074AAE4431BE1771FBB4959075_Kanban.Column.Done"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/9738f89f-20ba-4b20-b743-91fb69160779/_apis/work/boards/03b683a3-4b9f-45eb-b319-307955809775"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/06563b5a-8342-4b3e-9e7a-c43001706a81"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/06563b5a-8342-4b3e-9e7a-c43001706a81/teams/9738f89f-20ba-4b20-b743-91fb69160779"
+    },
+    "charts": {
+      "href": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/9738f89f-20ba-4b20-b743-91fb69160779/_apis/work/boards/03b683a3-4b9f-45eb-b319-307955809775/charts"
+    },
+    "columns": {
+      "href": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/9738f89f-20ba-4b20-b743-91fb69160779/_apis/work/boards/03b683a3-4b9f-45eb-b319-307955809775/columns"
+    },
+    "rows": {
+      "href": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/9738f89f-20ba-4b20-b743-91fb69160779/_apis/work/boards/03b683a3-4b9f-45eb-b319-307955809775/rows"
+    }
+  }
+}

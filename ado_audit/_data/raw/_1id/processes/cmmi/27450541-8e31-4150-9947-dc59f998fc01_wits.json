@@ -1,0 +1,134 @@
+[
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Bug",
+    "name": "Bug",
+    "description": "Describes a divergence between required and actual behavior, and tracks the work done to correct the defect and verify the correction.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Bug",
+    "customization": "system",
+    "color": "CC293D",
+    "icon": "icon_insect",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Epic",
+    "name": "Epic",
+    "description": "Epics help teams effectively manage and groom their product backlog",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Epic",
+    "customization": "system",
+    "color": "E06C00",
+    "icon": "icon_crown",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Feature",
+    "name": "Feature",
+    "description": "Tracks a feature that will be released with the product",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Feature",
+    "customization": "system",
+    "color": "773B93",
+    "icon": "icon_trophy",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Task",
+    "name": "Task",
+    "description": "Includes information to track the task through the MSF for CMMI Process Improvement life cycle.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Task",
+    "customization": "system",
+    "color": "A4880A",
+    "icon": "icon_clipboard",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Issue",
+    "name": "Issue",
+    "description": "Includes information to track changes through the MSF for CMMI Process Improvement life cycle.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Issue",
+    "customization": "system",
+    "color": "B4009E",
+    "icon": "icon_traffic_cone",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.ChangeRequest",
+    "name": "Change Request",
+    "description": "Includes information to track changes through the MSF for CMMI Process Improvement life cycle",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.ChangeRequest",
+    "customization": "system",
+    "color": "B4009E",
+    "icon": "icon_megaphone",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Risk",
+    "name": "Risk",
+    "description": "Includes information to track the work to mitigate a risk.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Risk",
+    "customization": "system",
+    "color": "B4009E",
+    "icon": "icon_flame",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Requirement",
+    "name": "Requirement",
+    "description": "Includes information to track the requirement through the MSF for CMMI Process Improvement life cycle",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Requirement",
+    "customization": "system",
+    "color": "0098C7",
+    "icon": "icon_sticky_note",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.Review",
+    "name": "Review",
+    "description": "This work item tracks reviews and the results.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Review",
+    "customization": "system",
+    "color": "B4009E",
+    "icon": "icon_chat_bubble",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.TestCase",
+    "name": "Test Case",
+    "description": "Server-side data for a set of steps to be tested.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.TestCase",
+    "customization": "system",
+    "color": "004B50",
+    "icon": "icon_test_case",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.TestPlan",
+    "name": "Test Plan",
+    "description": "Tracks test activities for a specific milestone or release.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.TestPlan",
+    "customization": "system",
+    "color": "004B50",
+    "icon": "icon_test_plan",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.TestSuite",
+    "name": "Test Suite",
+    "description": "Tracks test activites for a specific feature, requirement, or user story.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.TestSuite",
+    "customization": "system",
+    "color": "004B50",
+    "icon": "icon_test_suite",
+    "isDisabled": false,
+    "inherits": null
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "ab2c4167-e49e-4935-845c-a289c6f64715",
+    "name": "Authentication Services",
+    "path": "",
+    "url": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "0dad552a-90af-4cb2-8fce-d75f1375dba8",
+    "name": "2026.03 Sprint 2",
+    "path": "\\2026\\2026.03 Sprint 2",
+    "url": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/_apis/wit/classificationNodes/Iterations/2026/2026.03%20Sprint%202"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/202f47aa-2095-4c3e-b642-578d4f82d07a/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/202f47aa-2095-4c3e-b642-578d4f82d07a/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1ef767e-b1fa-4401-8fdc-f90c024b2493"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1ef767e-b1fa-4401-8fdc-f90c024b2493/teams/202f47aa-2095-4c3e-b642-578d4f82d07a"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/202f47aa-2095-4c3e-b642-578d4f82d07a/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/202f47aa-2095-4c3e-b642-578d4f82d07a/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/a1ef767e-b1fa-4401-8fdc-f90c024b2493/_apis/wit/classificationNodes/Iterations/2026/2026.03%20Sprint%202"
+      }
+    ]
+  }
+}

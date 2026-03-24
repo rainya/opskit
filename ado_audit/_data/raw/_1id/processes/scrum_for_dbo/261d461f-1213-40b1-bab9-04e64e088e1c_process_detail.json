@@ -1,0 +1,10 @@
+{
+  "typeId": "261d461f-1213-40b1-bab9-04e64e088e1c",
+  "name": "Scrum for DBO",
+  "referenceName": "Inherited.261d461f121340b1bab904e64e088e1c",
+  "description": "Process with the customization required for DBO",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

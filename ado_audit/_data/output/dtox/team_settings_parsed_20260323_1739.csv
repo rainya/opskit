@@ -1,0 +1,2 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6,DTox,58a4f1d9-15a9-418c-a06f-804550c90acf,DTox Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\2020-015,@currentIteration,False,False,True,True

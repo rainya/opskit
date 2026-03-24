@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "91dff175-729f-46bd-8e4d-d56eee2d1bb0",
+    "name": "Privilege Manager for Windows",
+    "path": "",
+    "url": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "84bbc1a2-165b-4658-933c-2e2d25f0a3bb",
+    "name": "2026",
+    "path": "\\2026",
+    "url": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/_apis/wit/classificationNodes/Iterations/2026"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/569bb40a-1864-4cbb-a0c4-ac2332e48c93/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/569bb40a-1864-4cbb-a0c4-ac2332e48c93/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/37db689c-f8ee-4fa2-820e-3eefa59af7ee"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/37db689c-f8ee-4fa2-820e-3eefa59af7ee/teams/569bb40a-1864-4cbb-a0c4-ac2332e48c93"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/569bb40a-1864-4cbb-a0c4-ac2332e48c93/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/569bb40a-1864-4cbb-a0c4-ac2332e48c93/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/37db689c-f8ee-4fa2-820e-3eefa59af7ee/_apis/wit/classificationNodes/Iterations/2026"
+      }
+    ]
+  }
+}

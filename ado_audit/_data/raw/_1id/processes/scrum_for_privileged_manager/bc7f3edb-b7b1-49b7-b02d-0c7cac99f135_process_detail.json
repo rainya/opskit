@@ -1,0 +1,10 @@
+{
+  "typeId": "bc7f3edb-b7b1-49b7-b02d-0c7cac99f135",
+  "name": "Scrum for Privileged Manager",
+  "referenceName": "Inherited.bc7f3edbb7b149b7b02d0c7cac99f135",
+  "description": "Privileged Manager Customisations to the default Scrum process - WIP",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

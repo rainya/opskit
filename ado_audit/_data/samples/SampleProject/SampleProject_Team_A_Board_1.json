@@ -1,0 +1,11 @@
+{
+  "id": "b1",
+  "name": "Board 1",
+  "columns": [
+    {"id": "c1", "name": "To Do", "stateMappings": {"Bug": "New"}, "itemLimit": 3, "isSplit": false},
+    {"id": "c2", "name": "Done", "stateMappings": {"Bug": "Closed"}, "itemLimit": 0, "isSplit": false}
+  ],
+  "rows": [
+    {"id": "00000000-0000-0000-0000-000000000000", "name": ""}
+  ]
+}

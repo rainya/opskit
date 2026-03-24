@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "d16e54bc-4376-4535-9206-2ea930648af9",
+    "name": "Log Management",
+    "path": "",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": false,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "6ae3440a-2502-46e8-823e-25c776290dde",
+    "name": "Documentation",
+    "path": "\\Documentation",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/Documentation"
+  },
+  "defaultIterationMacro": null,
+  "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/ea45b3c0-36b9-4826-88a6-b90f258455de/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/ea45b3c0-36b9-4826-88a6-b90f258455de/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d/teams/ea45b3c0-36b9-4826-88a6-b90f258455de"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/ea45b3c0-36b9-4826-88a6-b90f258455de/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/ea45b3c0-36b9-4826-88a6-b90f258455de/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/Documentation"
+      }
+    ]
+  }
+}

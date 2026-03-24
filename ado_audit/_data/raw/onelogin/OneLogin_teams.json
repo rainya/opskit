@@ -1,0 +1,20 @@
+[
+  {
+    "id": "9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6",
+    "name": "Technical Writers",
+    "url": "https://dev.azure.com/1id/_apis/projects/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8/teams/9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6",
+    "description": "Technical Writers who work on the product.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6",
+    "projectName": "OneLogin",
+    "projectId": "5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8"
+  },
+  {
+    "id": "c992b484-9e73-44d5-a5df-5f7ca93c511a",
+    "name": "Admin Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8/teams/c992b484-9e73-44d5-a5df-5f7ca93c511a",
+    "description": "",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/c992b484-9e73-44d5-a5df-5f7ca93c511a",
+    "projectName": "OneLogin",
+    "projectId": "5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8"
+  }
+]

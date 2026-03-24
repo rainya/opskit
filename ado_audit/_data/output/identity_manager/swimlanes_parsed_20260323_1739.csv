@@ -1,0 +1,59 @@
+Project ID,Project Name,Team ID,Team Name,Board ID,Board Name,Row ID,Row Name,Row Order,Is Default
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Identity_Manager_(M)_Backlog,b9d8effa-873f-4d42-8dab-2069ac5020b5,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,e66f86a5-bc51-45cb-bb14-ab9db1767df6,Identity Manager (M),76882858-ff96-4edf-859b-8aea8f1da45b,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,e66f86a5-bc51-45cb-bb14-ab9db1767df6,Identity Manager (M),ee5d15aa-6b26-45e9-8361-d4c02baac832,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Identity_Manager_Core_(D)_Backlog,ab809530-501a-4c12-83ad-35e7cfead470,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,3c0b5302-42a5-4802-b098-420971b09abc,Identity Manager Core (D),1b58375e-8877-4918-a97d-143a32bb7e8a,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,3c0b5302-42a5-4802-b098-420971b09abc,Identity Manager Core (D),da894953-e3c7-4099-a091-d2251aebacbf,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Identity_Manager_Feed_Contributors_Backlog,3873be89-d8d6-4bc8-8ea6-13caa1a84a9d,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,a28bcdb8-b3a0-4702-88da-e1b8c093e0eb,Identity Manager Feed Contributors,7242b22c-4678-4a10-bd2c-4a2dd4dcc2d5,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,a28bcdb8-b3a0-4702-88da-e1b8c093e0eb,Identity Manager Feed Contributors,fcfa1724-a5fb-41e1-9826-b25ebd6efaf4,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Identity_Manager_Modules_(D)_Backlog,95285fa0-efcb-4813-a14c-81ebe142bce8,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),48905ed3-abb3-4812-bfa0-0dcd20a7682e,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),feb18076-8ecf-44f8-a45e-fa4fe95b7cc7,Features,8a99b535-3be2-4610-9bb7-ec4895718488,Healthcare Module 2.0 Major,1,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),feb18076-8ecf-44f8-a45e-fa4fe95b7cc7,Features,5ad5e6c1-25c0-4580-8867-899f62be320c,DGE,2,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),feb18076-8ecf-44f8-a45e-fa4fe95b7cc7,Features,f2d2abd5-180c-4f4e-98c9-0cf68947827f,ServiceNow,3,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),feb18076-8ecf-44f8-a45e-fa4fe95b7cc7,Features,6d5781cd-ac95-4be2-9f10-fb4c83831197,MFR,4,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),feb18076-8ecf-44f8-a45e-fa4fe95b7cc7,Features,a3e8ac7f-4e7f-48ff-8905-dd0ce1994660,Modules Escalation and Others,5,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),feb18076-8ecf-44f8-a45e-fa4fe95b7cc7,Features,20183c4c-3524-497d-813e-2b039af817c8,QA Automation,6,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,51732a9b-0e28-4b4d-8f42-3e4737a33824,Identity Manager Modules (D),feb18076-8ecf-44f8-a45e-fa4fe95b7cc7,Features,00000000-0000-0000-0000-000000000000,Pairing,7,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Identity_Manager_Modules_(M)_Backlog,4e173fce-295c-4e7e-b719-2e97a10a3779,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,87438781-dca5-4bfb-9533-ee097b9b7f40,Identity Manager Modules (M),621564c9-0bff-412e-9dd7-d4b9e2abb166,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,87438781-dca5-4bfb-9533-ee097b9b7f40,Identity Manager Modules (M),eb81267d-2f97-4094-a9d5-a72f65b55f96,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Identity_Manager_VPT_Backlog,d5a81de4-742e-42f1-aaa6-961e0428cf0e,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,391b87ba-4a4b-4a52-8188-0056b727f18e,Identity Manager VPT,65de3099-9f85-4cc8-a208-8cbe1b68b432,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,391b87ba-4a4b-4a52-8188-0056b727f18e,Identity Manager VPT,099ad4b8-ba7f-49ad-9d4d-bfd86aaa3851,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Identity_Manager_Web_(D)_Backlog,668a1dc2-3982-4b77-bd0b-53cf89133cbd,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,0ba2a2ff-7a80-4907-a278-ef5877f1918c,Identity Manager Web (D),e93955d0-9244-406c-b5ab-d7dbb072c008,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,0ba2a2ff-7a80-4907-a278-ef5877f1918c,Identity Manager Web (D),ae204d93-a054-4718-9b2f-73e3be4bf8d7,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,IMX_Test_Automation_Backlog,0227a20f-7e10-46ad-a958-d62315489bbf,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,bc37e045-4fdb-4132-9737-7837fb379928,IMX Test Automation,6769a06e-0363-4b52-a6d8-9a43846459b4,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,bc37e045-4fdb-4132-9737-7837fb379928,IMX Test Automation,1709b8e6-59de-4e27-a0a5-b9a0228cdb43,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_Germany_Backlog,46b19acc-666b-4945-b1f6-cb1a993c0f0d,Backlog items,a95c2a70-d2a9-409a-b87f-b9dd04039499,Berlin,1,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_Germany_Backlog,46b19acc-666b-4945-b1f6-cb1a993c0f0d,Backlog items,daa7ce1b-8a8a-4f81-a2dc-9d8e1c78df52,Dresden,2,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_Germany_Backlog,46b19acc-666b-4945-b1f6-cb1a993c0f0d,Backlog items,00000000-0000-0000-0000-000000000000,,3,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,dd215ebf-0581-4079-9dc2-0c4d0a6120c2,OneIM Germany,9b533482-2401-479b-be15-917b67aa9585,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,dd215ebf-0581-4079-9dc2-0c4d0a6120c2,OneIM Germany,9f732198-400f-4d31-8ede-fae372c5cd9c,Features,c3bfe9bc-79fa-41b9-8182-0a37681ed780,Dresden,1,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,dd215ebf-0581-4079-9dc2-0c4d0a6120c2,OneIM Germany,9f732198-400f-4d31-8ede-fae372c5cd9c,Features,f7d14a8c-3f0a-44ed-bd84-89d83f682f07,Berlin,2,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,dd215ebf-0581-4079-9dc2-0c4d0a6120c2,OneIM Germany,9f732198-400f-4d31-8ede-fae372c5cd9c,Features,00000000-0000-0000-0000-000000000000,,3,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_Hungary_Backlog,ba6b2d93-2a03-43ff-9b0a-04f6420d891f,Backlog items,00000000-0000-0000-0000-000000000000,Backend,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_Hungary_Backlog,ba6b2d93-2a03-43ff-9b0a-04f6420d891f,Backlog items,d799d246-94d9-416b-84e8-fe9f261b63ff,WebUI,2,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_Hungary_Backlog,ba6b2d93-2a03-43ff-9b0a-04f6420d891f,Backlog items,1eb902a3-6d21-4a15-8b17-933c6048cc78,QA,3,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_Hungary_Backlog,ba6b2d93-2a03-43ff-9b0a-04f6420d891f,Backlog items,5fb35c89-c932-4499-8761-ea90270c6373,Technical Writing,4,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,1b4db05d-c410-49c6-9bd1-47624024f4d6,OneIM Hungary,5f16bb0c-d586-4d87-b611-9758dc9bda8d,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,1b4db05d-c410-49c6-9bd1-47624024f4d6,OneIM Hungary,5ca31a2b-d3a1-4e00-9a38-3df2a03b0d37,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_OSP_Backlog,cc3e5977-5704-4920-b09c-020a55a08494,Backlog items,5d6ab79f-5b8e-45fd-b9ed-730b70b88af3,Escalation Team,1,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,OneIM_OSP_Backlog,cc3e5977-5704-4920-b09c-020a55a08494,Backlog items,00000000-0000-0000-0000-000000000000,QA Team,2,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,3dadd666-9d98-4732-9143-31b31035dda9,OneIM OSP,48bf2e1b-dd0a-45ff-b97e-a8a9b7cdf054,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,3dadd666-9d98-4732-9143-31b31035dda9,OneIM OSP,3a3505ff-4573-4624-82c0-c161a9071d41,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,TechComm_Modules_Backlog,db3c5e3a-5716-4928-a72f-bb18e5f6f379,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,9e1ff299-2167-4d6e-b258-16a91d5a5af4,TechComm Modules,4b0675f6-e07c-48d6-8497-0b603accb3d1,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,9e1ff299-2167-4d6e-b258-16a91d5a5af4,TechComm Modules,37367417-48eb-4dcc-b3ec-121a456da9c7,Features,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Tech_Comm_Backlog,085c33b7-8276-41ff-9de1-d440494307e6,Backlog items,312c9a0e-9372-4f77-8b32-d4cdd955d485,Arne,1,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Tech_Comm_Backlog,085c33b7-8276-41ff-9de1-d440494307e6,Backlog items,5a898ca0-a221-4779-aa03-f3da677fab23,Conny,2,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Tech_Comm_Backlog,085c33b7-8276-41ff-9de1-d440494307e6,Backlog items,f8bf6cbb-5ee4-4f08-9edd-ed9fc266398c,Teresa,3,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Tech_Comm_Backlog,085c33b7-8276-41ff-9de1-d440494307e6,Backlog items,beebc9de-ca5c-4bb4-9536-9cb71219b3d2,Barbara,4,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Tech_Comm_Backlog,085c33b7-8276-41ff-9de1-d440494307e6,Backlog items,0e223fbf-4b85-4943-a52b-bd416b0cac35,Annett,5,False
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,,Tech_Comm_Backlog,085c33b7-8276-41ff-9de1-d440494307e6,Backlog items,00000000-0000-0000-0000-000000000000,Others,6,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,05e4e42d-a9a1-4fe7-8091-8ad74d5e14d2,Tech Comm,e69e6adf-e7fb-4940-a425-dccfad66c2f3,Epics,00000000-0000-0000-0000-000000000000,,1,True
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,05e4e42d-a9a1-4fe7-8091-8ad74d5e14d2,Tech Comm,24928740-c01c-4e2f-9d28-bcf07a11319e,Features,00000000-0000-0000-0000-000000000000,,1,True

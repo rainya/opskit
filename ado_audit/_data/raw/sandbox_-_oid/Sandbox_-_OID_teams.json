@@ -1,0 +1,11 @@
+[
+  {
+    "id": "3c13016b-cb2d-4074-8415-977d700ff1f9",
+    "name": "Sandbox - OID Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/1a1ca370-f983-411b-877c-dc06f91b6e73/teams/3c13016b-cb2d-4074-8415-977d700ff1f9",
+    "description": "The default project team.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/3c13016b-cb2d-4074-8415-977d700ff1f9",
+    "projectName": "Sandbox - OID",
+    "projectId": "1a1ca370-f983-411b-877c-dc06f91b6e73"
+  }
+]

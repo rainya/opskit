@@ -1,0 +1,25 @@
+{
+  "id": 10472,
+  "identifier": "e730dd56-df7c-4415-b9d0-6a3a5f2769a3",
+  "name": "PgM Sandbox",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 10473,
+      "identifier": "ab599590-8683-4063-94fb-2d441b74c008",
+      "name": "Identity Manager (M)",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\PgM Sandbox\\Area\\Identity Manager (M)",
+      "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Areas/Identity%20Manager%20(M)"
+    }
+  ],
+  "path": "\\PgM Sandbox\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/a5f118e8-f2a6-430e-9c05-8d9c709a2342/_apis/wit/classificationNodes/Areas"
+}

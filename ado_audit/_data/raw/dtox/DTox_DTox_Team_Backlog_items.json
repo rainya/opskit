@@ -1,0 +1,135 @@
+{
+  "id": "57190356-7873-4e26-a41b-cbfd1b45ca4b",
+  "url": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/boards/57190356-7873-4e26-a41b-cbfd1b45ca4b",
+  "name": "Backlog items",
+  "revision": 0,
+  "columns": [
+    {
+      "id": "43a9313c-03bc-4c0e-9698-1970115b4364",
+      "name": "New",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "New",
+        "Bug": "New"
+      },
+      "columnType": "incoming"
+    },
+    {
+      "id": "a2c39355-548d-46e4-998e-0a85c2adc0fa",
+      "name": "Approved",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Approved",
+        "Bug": "Approved"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "0fceb613-a53d-4bf7-8c8d-c247fd7d96b1",
+      "name": "Committed",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Committed",
+        "Bug": "Committed"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "f20c97ea-576e-40e2-afd8-38ec5526a5fa",
+      "name": "Done",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "Done",
+        "Bug": "Done"
+      },
+      "columnType": "outgoing"
+    }
+  ],
+  "rows": [
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null
+    }
+  ],
+  "isValid": true,
+  "allowedMappings": {
+    "Incoming": {
+      "Bug": [
+        "New"
+      ],
+      "Product Backlog Item": [
+        "New"
+      ]
+    },
+    "InProgress": {
+      "Bug": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest",
+        "Tested on Stage"
+      ],
+      "Product Backlog Item": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest",
+        "Tested on Stage"
+      ]
+    },
+    "Outgoing": {
+      "Bug": [
+        "Done"
+      ],
+      "Product Backlog Item": [
+        "Done"
+      ]
+    }
+  },
+  "canEdit": true,
+  "fields": {
+    "columnField": {
+      "referenceName": "WEF_3193EE9F06C340DC9CFD79719BA8F3EF_Kanban.Column",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_3193EE9F06C340DC9CFD79719BA8F3EF_Kanban.Column"
+    },
+    "rowField": {
+      "referenceName": "WEF_3193EE9F06C340DC9CFD79719BA8F3EF_Kanban.Lane",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_3193EE9F06C340DC9CFD79719BA8F3EF_Kanban.Lane"
+    },
+    "doneField": {
+      "referenceName": "WEF_3193EE9F06C340DC9CFD79719BA8F3EF_Kanban.Column.Done",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_3193EE9F06C340DC9CFD79719BA8F3EF_Kanban.Column.Done"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/boards/57190356-7873-4e26-a41b-cbfd1b45ca4b"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/teams/58a4f1d9-15a9-418c-a06f-804550c90acf"
+    },
+    "charts": {
+      "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/boards/57190356-7873-4e26-a41b-cbfd1b45ca4b/charts"
+    },
+    "columns": {
+      "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/boards/57190356-7873-4e26-a41b-cbfd1b45ca4b/columns"
+    },
+    "rows": {
+      "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/boards/57190356-7873-4e26-a41b-cbfd1b45ca4b/rows"
+    }
+  }
+}

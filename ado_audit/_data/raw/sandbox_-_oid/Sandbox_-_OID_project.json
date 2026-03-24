@@ -1,0 +1,10 @@
+{
+  "id": "1a1ca370-f983-411b-877c-dc06f91b6e73",
+  "name": "Sandbox - OID",
+  "description": "Sandbox project for trying out different configs and flows as well as testing data imports.",
+  "url": "https://dev.azure.com/1id/_apis/projects/1a1ca370-f983-411b-877c-dc06f91b6e73",
+  "state": "wellFormed",
+  "revision": 9005,
+  "visibility": "private",
+  "lastUpdateTime": "2025-10-02T23:58:46.75Z"
+}

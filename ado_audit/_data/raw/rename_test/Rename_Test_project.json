@@ -1,0 +1,10 @@
+{
+  "id": "05a23854-c1cb-4d00-b640-03b432e5e9ac",
+  "name": "Rename Test",
+  "description": "Project is used for testing the impact of project rename.",
+  "url": "https://dev.azure.com/1id/_apis/projects/05a23854-c1cb-4d00-b640-03b432e5e9ac",
+  "state": "wellFormed",
+  "revision": 8131,
+  "visibility": "private",
+  "lastUpdateTime": "2025-09-09T18:08:17.807Z"
+}

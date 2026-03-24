@@ -1,0 +1,192 @@
+{
+  "id": "fc3981f3-41d7-4c5e-b33a-9f405f85a903",
+  "url": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/bf0885ba-dd19-4c18-ab74-1118ff449187/_apis/work/boards/fc3981f3-41d7-4c5e-b33a-9f405f85a903",
+  "name": "Backlog items",
+  "revision": 0,
+  "columns": [
+    {
+      "id": "bccef442-3b8e-4e8b-9e44-324d0f048453",
+      "name": "New",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Bug": "New",
+        "Product Backlog Item": "New"
+      },
+      "columnType": "incoming"
+    },
+    {
+      "id": "900c294b-b81a-4a19-a996-9c102d478ab6",
+      "name": "Approved",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Bug": "Approved",
+        "Product Backlog Item": "Approved"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "3d7be99f-d435-46cd-a83e-ab0854382c2d",
+      "name": "In Progress",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Bug": "Committed",
+        "Product Backlog Item": "Committed"
+      },
+      "isSplit": false,
+      "description": "Doc work is in progress (e.g., writing, reviews), but is not yet completed.\n",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "086340f8-5e27-4f5f-8185-377972241eaf",
+      "name": "Under Refinement",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Bug": "Committed",
+        "Product Backlog Item": "Committed"
+      },
+      "isSplit": false,
+      "description": "When work is finished and is under technical or peer review",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "bf265581-c974-4a83-9f21-0c3450ccaaeb",
+      "name": "Done",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Bug": "Done",
+        "Product Backlog Item": "Done"
+      },
+      "columnType": "outgoing"
+    }
+  ],
+  "rows": [
+    {
+      "id": "7d513e4a-6719-4f2f-8eb4-643bd0388ce5",
+      "name": "Identity Manager On Demand",
+      "color": null
+    },
+    {
+      "id": "a78f127e-5ea6-4054-92c4-7a8b4df90444",
+      "name": "One Identity Cloud",
+      "color": null
+    },
+    {
+      "id": "cd0cc562-cb8e-4dca-bce5-3f19b80f5980",
+      "name": "One Identity PAM",
+      "color": null
+    },
+    {
+      "id": "19d1e1bf-0472-4bd9-bf77-f2eef617b696",
+      "name": "Safeguard On Demand",
+      "color": null
+    },
+    {
+      "id": "98c60800-64bb-4cf8-922f-da9924e5f5a4",
+      "name": "Safeguard Remote Access",
+      "color": null
+    },
+    {
+      "id": "c1c5fb26-249a-4fd7-aa00-005ddbb6709f",
+      "name": "Starling Cloud Assistant",
+      "color": null
+    },
+    {
+      "id": "c21dec7f-20e8-4cbb-8724-36f481e3b09c",
+      "name": "Starling Platform",
+      "color": null
+    },
+    {
+      "id": "6801355e-8516-42ec-9601-18cebed0a8c9",
+      "name": "EPM",
+      "color": null
+    },
+    {
+      "id": "f1b8f8a8-83c4-498b-b6bb-fddb4e9266a8",
+      "name": "Starling Connect",
+      "color": null
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": "General",
+      "color": null
+    }
+  ],
+  "isValid": true,
+  "allowedMappings": {
+    "Incoming": {
+      "Bug": [
+        "New"
+      ],
+      "Product Backlog Item": [
+        "New"
+      ]
+    },
+    "InProgress": {
+      "Bug": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest",
+        "Tested on Stage"
+      ],
+      "Product Backlog Item": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest",
+        "Tested on Stage"
+      ]
+    },
+    "Outgoing": {
+      "Bug": [
+        "Done"
+      ],
+      "Product Backlog Item": [
+        "Done"
+      ]
+    }
+  },
+  "canEdit": true,
+  "fields": {
+    "columnField": {
+      "referenceName": "WEF_2F5714FF639641568F7D7127A62E1FB9_Kanban.Column",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_2F5714FF639641568F7D7127A62E1FB9_Kanban.Column"
+    },
+    "rowField": {
+      "referenceName": "WEF_2F5714FF639641568F7D7127A62E1FB9_Kanban.Lane",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_2F5714FF639641568F7D7127A62E1FB9_Kanban.Lane"
+    },
+    "doneField": {
+      "referenceName": "WEF_2F5714FF639641568F7D7127A62E1FB9_Kanban.Column.Done",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_2F5714FF639641568F7D7127A62E1FB9_Kanban.Column.Done"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/bf0885ba-dd19-4c18-ab74-1118ff449187/_apis/work/boards/fc3981f3-41d7-4c5e-b33a-9f405f85a903"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/bf0885ba-dd19-4c18-ab74-1118ff449187"
+    },
+    "charts": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/bf0885ba-dd19-4c18-ab74-1118ff449187/_apis/work/boards/fc3981f3-41d7-4c5e-b33a-9f405f85a903/charts"
+    },
+    "columns": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/bf0885ba-dd19-4c18-ab74-1118ff449187/_apis/work/boards/fc3981f3-41d7-4c5e-b33a-9f405f85a903/columns"
+    },
+    "rows": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/bf0885ba-dd19-4c18-ab74-1118ff449187/_apis/work/boards/fc3981f3-41d7-4c5e-b33a-9f405f85a903/rows"
+    }
+  }
+}

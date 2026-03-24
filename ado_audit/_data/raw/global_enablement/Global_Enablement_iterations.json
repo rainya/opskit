@@ -1,0 +1,70 @@
+{
+  "id": 5199,
+  "identifier": "a0410116-a600-414e-a634-9a037d8a2f09",
+  "name": "Global Enablement",
+  "structureType": "iteration",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 5201,
+      "identifier": "61087be8-df63-4b01-afa2-7db9f16efca5",
+      "name": "Sprint 1",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\Global Enablement\\Iteration\\Sprint 1",
+      "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations/Sprint%201"
+    },
+    {
+      "id": 5202,
+      "identifier": "df15fbfe-ef85-425c-8fd3-ae8e41010d87",
+      "name": "Sprint 2",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\Global Enablement\\Iteration\\Sprint 2",
+      "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations/Sprint%202"
+    },
+    {
+      "id": 5203,
+      "identifier": "b47058a5-b952-4b31-bc0f-d95c52e7a3c4",
+      "name": "Sprint 3",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\Global Enablement\\Iteration\\Sprint 3",
+      "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations/Sprint%203"
+    },
+    {
+      "id": 5204,
+      "identifier": "b798373f-35c5-4bc2-8544-85e462334224",
+      "name": "Sprint 4",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\Global Enablement\\Iteration\\Sprint 4",
+      "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations/Sprint%204"
+    },
+    {
+      "id": 5205,
+      "identifier": "8c7252de-5599-4fca-9009-0d2bc538b6a2",
+      "name": "Sprint 5",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\Global Enablement\\Iteration\\Sprint 5",
+      "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations/Sprint%205"
+    },
+    {
+      "id": 5206,
+      "identifier": "0f0acb5f-39d6-477f-a006-0f904ee35d10",
+      "name": "Sprint 6",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\Global Enablement\\Iteration\\Sprint 6",
+      "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations/Sprint%206"
+    }
+  ],
+  "path": "\\Global Enablement\\Iteration",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations"
+    }
+  },
+  "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Iterations"
+}

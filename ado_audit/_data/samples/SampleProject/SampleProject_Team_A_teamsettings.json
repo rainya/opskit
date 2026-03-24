@@ -1,0 +1,12 @@
+{
+  "bugsBehavior": "asRequirements",
+  "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+  "backlogIteration": {"path": "SampleProject"},
+  "defaultIteration": {"path": "SampleProject\\Sprint 1"},
+  "defaultIterationMacro": "@CurrentIteration",
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  }
+}

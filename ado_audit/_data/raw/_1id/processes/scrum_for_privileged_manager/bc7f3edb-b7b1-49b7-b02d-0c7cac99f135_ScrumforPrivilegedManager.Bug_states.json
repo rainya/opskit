@@ -1,0 +1,84 @@
+[
+  {
+    "id": "7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "customizationType": "system"
+  },
+  {
+    "id": "02cca570-0896-4a30-aff1-87ccffc68ce0",
+    "name": "Approved",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/02cca570-0896-4a30-aff1-87ccffc68ce0",
+    "customizationType": "system"
+  },
+  {
+    "id": "e73f30db-4f3d-439e-a1be-1a1195254cc9",
+    "name": "Development",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/e73f30db-4f3d-439e-a1be-1a1195254cc9",
+    "customizationType": "custom"
+  },
+  {
+    "id": "f82427a6-85fd-49c9-a81b-86c91cb54b40",
+    "name": "Ready to test",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 5,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/f82427a6-85fd-49c9-a81b-86c91cb54b40",
+    "customizationType": "custom"
+  },
+  {
+    "id": "811c4e06-2fbb-4f5c-ba9e-c0f9f20c817f",
+    "name": "Document",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 6,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/811c4e06-2fbb-4f5c-ba9e-c0f9f20c817f",
+    "customizationType": "custom"
+  },
+  {
+    "id": "f9699c9b-f35c-4899-9010-565478cf9fc7",
+    "name": "Blocked",
+    "color": "e60017",
+    "stateCategory": "InProgress",
+    "order": 7,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/f9699c9b-f35c-4899-9010-565478cf9fc7",
+    "customizationType": "custom"
+  },
+  {
+    "id": "0c926c15-68f7-467f-96c9-a26a19e9d718",
+    "name": "Done",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 8,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/0c926c15-68f7-467f-96c9-a26a19e9d718",
+    "customizationType": "system"
+  },
+  {
+    "id": "0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "name": "Removed",
+    "color": "ffffff",
+    "stateCategory": "Removed",
+    "order": 9,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "customizationType": "system"
+  },
+  {
+    "id": "abb54c86-d03a-44fe-8216-309d3c712296",
+    "name": "Committed",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 10,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/bc7f3edb-b7b1-49b7-b02d-0c7cac99f135/workItemTypes/ScrumforPrivilegedManager.Bug/states/abb54c86-d03a-44fe-8216-309d3c712296",
+    "hidden": true,
+    "customizationType": "inherited"
+  }
+]

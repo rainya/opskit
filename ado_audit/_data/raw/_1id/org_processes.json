@@ -1,0 +1,252 @@
+[
+  {
+    "typeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "name": "Scrum",
+    "referenceName": null,
+    "description": "This template is for teams who follow the Scrum framework.",
+    "parentProcessTypeId": "00000000-0000-0000-0000-000000000000",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "system"
+  },
+  {
+    "typeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "name": "Agile",
+    "referenceName": null,
+    "description": "This template is flexible and will work great for most teams using Agile planning methods, including those practicing Scrum.",
+    "parentProcessTypeId": "00000000-0000-0000-0000-000000000000",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "system"
+  },
+  {
+    "typeId": "27450541-8e31-4150-9947-dc59f998fc01",
+    "name": "CMMI",
+    "referenceName": null,
+    "description": "This template is for more formal projects requiring a framework for process improvement and an auditable record of decisions.",
+    "parentProcessTypeId": "00000000-0000-0000-0000-000000000000",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "system"
+  },
+  {
+    "typeId": "b8a3a935-7e91-48b8-a94c-606d37c3e9f2",
+    "name": "Basic",
+    "referenceName": null,
+    "description": "This template is flexible for any process and great for teams getting started with Azure DevOps.",
+    "parentProcessTypeId": "00000000-0000-0000-0000-000000000000",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "system"
+  },
+  {
+    "typeId": "0d92e0c1-bc33-46a9-b2be-2880c6a438ff",
+    "name": "basic test",
+    "referenceName": "Inherited.0d92e0c1bc3346a9b2be2880c6a438ff",
+    "description": "",
+    "parentProcessTypeId": "b8a3a935-7e91-48b8-a94c-606d37c3e9f2",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "49c5597c-0386-49e5-9492-ab95bd85fa97",
+    "name": "Scrum for Safeguard",
+    "referenceName": "1id.ScrumforPAM",
+    "description": "Safeguard Customisations to the default Scrum process - WIP",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "0b289b7d-273c-4f4e-a63c-6dbd90ce897a",
+    "name": "Scrum for Privileged Manager for Windows",
+    "referenceName": "Inherited.0b289b7d273c4f4ea63c6dbd90ce897a",
+    "description": "Process with customizations required for Privileged Manager for Windows",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "ffd6e878-87b2-4e58-87e1-9c75d4d0a307",
+    "name": "Scrum for Log Management",
+    "referenceName": "Inherited.ffd6e87887b24e5887e19c75d4d0a307",
+    "description": "Process with the customization required for Log Management",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "82c9d6de-bfa5-49dc-91bb-a3c36573745a",
+    "name": "Scrum for Technical Integration",
+    "referenceName": "Inherited.82c9d6debfa549dc91bba3c36573745a",
+    "description": "Scrum for Technical Integration Project",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "c7b87898-c633-4f85-83de-d1326a62adda",
+    "name": "OID Agile Process - Prod",
+    "referenceName": "Inherited.c7b87898c6334f8583ded1326a62adda",
+    "description": "This Agile process defines One Identity’s standard Azure DevOps framework for the single-project model, supporting consistent delivery, clear reporting, and team autonomy while allowing targeted, lightweight adjustments to meet evolving needs. It is inherited from ADO's default Agile template. This is the prod version of the process.",
+    "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "e7e99f8f-7f00-4d0f-a37b-8f953e7132c1",
+    "name": "Scrum with Initiatives",
+    "referenceName": "1id.ScrumwithInitiatives",
+    "description": "Scrum process with additional level above the Epics - Initiatives. It also contains customization required by Tech Comm to work with List of Known Issues and List of Updates",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": true,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "d1e339bb-f11f-4e8a-a7be-4176929dd150",
+    "name": "Scrum for Technical Communications",
+    "referenceName": "Inherited.d1e339bbf11f4e8aa7be4176929dd150",
+    "description": "Process template for TechComm Guild",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "261d461f-1213-40b1-bab9-04e64e088e1c",
+    "name": "Scrum for DBO",
+    "referenceName": "Inherited.261d461f121340b1bab904e64e088e1c",
+    "description": "Process with the customization required for DBO",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "829e53b5-ed99-4569-a12f-c2ae7d44eb40",
+    "name": "Scrum for Authentication Services",
+    "referenceName": "Inherited.829e53b5ed994569a12fc2ae7d44eb40",
+    "description": "Authentication Services -  Customisations to the default Scrum process - WIP",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "dc44c7fb-56a0-4f5e-b5dc-a2e1503e79ad",
+    "name": "Agile for VDS",
+    "referenceName": "1id.AgileforVDS_1",
+    "description": "",
+    "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "e9e273de-ba93-4955-80ce-2420afa93192",
+    "name": "Scrum for SPS",
+    "referenceName": "Inherited.e9e273deba93495580ce2420afa93192",
+    "description": "Process with the customization required for SPS project",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "e398e2f1-3bf3-43a4-9ada-df839a107878",
+    "name": "Agile for TFS",
+    "referenceName": "1id.AgileforTFS",
+    "description": "Baseline Agile Process Template for TFS migrations",
+    "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "bc7f3edb-b7b1-49b7-b02d-0c7cac99f135",
+    "name": "Scrum for Privileged Manager",
+    "referenceName": "Inherited.bc7f3edbb7b149b7b02d0c7cac99f135",
+    "description": "Privileged Manager Customisations to the default Scrum process - WIP",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "32435972-f5ce-40fd-a242-052139548f39",
+    "name": "OID Agile Process - original",
+    "referenceName": "Inherited.32435972f5ce40fda242052139548f39",
+    "description": "This Agile process defines One Identity’s standard Azure DevOps framework for the single-project model, supporting consistent delivery, clear reporting, and team autonomy while allowing targeted, lightweight adjustments to meet evolving needs. It is inherited from ADO's default Agile template. This is what has been created by the project do not use it just left for reference.",
+    "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc",
+    "name": "POC - OID Agile Process - Prod - Feature Epic",
+    "referenceName": "Inherited.07dc6f7f3ba1442887e88bb97f03dbbc",
+    "description": "This Agile process is based on the OID Agile Process - Prod, OID's standard Azure DevOps baseline. It is specifically created to conduct a POC for adjusting ADO to adjust ADO's default Epic/Feature/User Story work item hierarchy to align with a Feature/Epic/User Story hierarchy while maintain out-of-the box ADO functionality.",
+    "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "2cd40a1d-4451-4d54-8374-ac12935b89d4",
+    "name": "OID Agile Process - Sandbox - Prod with Initiatives",
+    "referenceName": "Inherited.2cd40a1d44514d548374ac12935b89d4",
+    "description": "This process template demonstrates how to incorporate an \"Initiative\" work item type into the OID ADO standard work management. This process template was specifically designed to explore how best to model NetCom Readiness, a major cross-product, customer-facing delivery program within ADO.",
+    "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "899cfc0a-679e-4af3-abe7-4b0596684bb4",
+    "name": "Scrum for OIM",
+    "referenceName": "1id.ScrumforOIM",
+    "description": "Process for One Identity Manager\n",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "3ef63350-0eb1-4174-b9be-f048c5556977",
+    "name": "Scrum for ARS",
+    "referenceName": "Inherited.3ef633500eb14174b9bef048c5556977",
+    "description": "Scrum process with additional level above the Epics - Initiatives. It also contains customization required by Tech Comm to work with List of Known Issues and List of Updates - it is customized for Active Roles project.",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "db9f7108-5d09-4ebd-81dd-4d26eb3928b1",
+    "name": "Scrum for Global Enablement",
+    "referenceName": "Inherited.db9f71085d094ebd81dd4d26eb3928b1",
+    "description": "Scrum for Global Enablement project.",
+    "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  },
+  {
+    "typeId": "286dbbbc-2cdb-4bb0-9bd5-0977bea409cf",
+    "name": "OID Agile Process - Sandbox",
+    "referenceName": "Inherited.286dbbbc2cdb4bb09bd50977bea409cf",
+    "description": "A sanbox for the OID Agile Process - Prod definition. This Agile process defines One Identity’s standard Azure DevOps framework for the single-project model, supporting consistent delivery, clear reporting, and team autonomy while allowing targeted, lightweight adjustments to meet evolving needs. It is inherited from ADO's default Agile template. This is the prod version of the process.",
+    "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+    "isEnabled": true,
+    "isDefault": false,
+    "customizationType": "inherited"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "022edf16-b018-42a3-ad46-f340b6429198",
+    "name": "TechComm Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/c7aa2319-b458-4975-9827-191f86a39ad5/teams/022edf16-b018-42a3-ad46-f340b6429198",
+    "description": "The default project team.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/022edf16-b018-42a3-ad46-f340b6429198",
+    "projectName": "TechComm",
+    "projectId": "c7aa2319-b458-4975-9827-191f86a39ad5"
+  }
+]

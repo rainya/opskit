@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "68e5a773-3507-462b-8b73-f604a20be75c",
+    "name": "SPS",
+    "path": "",
+    "url": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": false,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "2956bc27-8776-4e78-8207-efcbbf08f732",
+    "name": "26s06",
+    "path": "\\Rangers\\26s06",
+    "url": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/_apis/wit/classificationNodes/Iterations/Rangers/26s06"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/15526d18-3294-4f43-a5a6-e54bd2215269/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/15526d18-3294-4f43-a5a6-e54bd2215269/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1a8003e-d7eb-488b-b6b6-9f989b889636"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a1a8003e-d7eb-488b-b6b6-9f989b889636/teams/15526d18-3294-4f43-a5a6-e54bd2215269"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/15526d18-3294-4f43-a5a6-e54bd2215269/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/15526d18-3294-4f43-a5a6-e54bd2215269/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/a1a8003e-d7eb-488b-b6b6-9f989b889636/_apis/wit/classificationNodes/Iterations/Rangers/26s06"
+      }
+    ]
+  }
+}

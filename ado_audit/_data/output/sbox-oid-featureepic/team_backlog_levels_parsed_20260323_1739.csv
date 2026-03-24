@@ -1,0 +1,8 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,Microsoft.EpicCategory,ADO Epics,4,1000
+fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,Microsoft.FeatureCategory,ADO Features,3,1000
+fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,Custom.a99a9744-9074-4d9c-a17a-cc4a9c5e1556,OID Features,6,1000
+fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,Custom.146b2266-ad45-4d80-9d6c-a922f45b6f5b,OID Initiatives,7,1000
+fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,Custom.3922da82-cfa8-458f-bd60-d49c12427f44,OID Epics,5,1000
+fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,Microsoft.RequirementCategory,Stories,2,1000
+fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,Microsoft.TaskCategory,Tasks,1,1000

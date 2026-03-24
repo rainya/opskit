@@ -1,0 +1,10 @@
+{
+  "typeId": "3ef63350-0eb1-4174-b9be-f048c5556977",
+  "name": "Scrum for ARS",
+  "referenceName": "Inherited.3ef633500eb14174b9bef048c5556977",
+  "description": "Scrum process with additional level above the Epics - Initiatives. It also contains customization required by Tech Comm to work with List of Known Issues and List of Updates - it is customized for Active Roles project.",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

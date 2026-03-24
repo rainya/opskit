@@ -1,0 +1,55 @@
+{
+  "backlogIteration": {
+    "id": "c8a78135-0b5b-4b79-8746-3297ef7d4a1d",
+    "name": "OID",
+    "path": "",
+    "url": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asTasks",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Custom.5eee85c3-0de8-4db4-a61d-a5170a57af42": true,
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "f4033b2a-5cdc-46d1-a397-59f2b05dda4d",
+    "name": "2025",
+    "path": "\\2025",
+    "url": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/_apis/wit/classificationNodes/Iterations/2025"
+  },
+  "defaultIterationMacro": null,
+  "url": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/609b93e3-ceee-49b9-83ae-86af98f9f6f0/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/609b93e3-ceee-49b9-83ae-86af98f9f6f0/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a4c3e342-aef6-43ce-930a-fdf688dd1ed6"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/teams/609b93e3-ceee-49b9-83ae-86af98f9f6f0"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/609b93e3-ceee-49b9-83ae-86af98f9f6f0/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/609b93e3-ceee-49b9-83ae-86af98f9f6f0/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/a4c3e342-aef6-43ce-930a-fdf688dd1ed6/_apis/wit/classificationNodes/Iterations/2025"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "0c3669d7-2721-4974-a67e-0a5f791621de",
+    "name": "Raven Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/6e0ac7dc-0580-45ee-83a0-ecbef007df35/teams/0c3669d7-2721-4974-a67e-0a5f791621de",
+    "description": "The default project team.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/0c3669d7-2721-4974-a67e-0a5f791621de",
+    "projectName": "Raven",
+    "projectId": "6e0ac7dc-0580-45ee-83a0-ecbef007df35"
+  }
+]

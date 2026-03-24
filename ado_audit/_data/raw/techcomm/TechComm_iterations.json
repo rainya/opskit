@@ -1,0 +1,953 @@
+{
+  "id": 1133,
+  "identifier": "1ae98e4a-7589-42d7-9631-baf1d9a7091f",
+  "name": "TechComm",
+  "structureType": "iteration",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 1135,
+      "identifier": "d5c93e75-d1e4-438b-8dd0-ea3d2ca3d7e4",
+      "name": "2024",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2024-01-01T00:00:00Z",
+        "finishDate": "2024-12-31T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2024",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2024"
+    },
+    {
+      "id": 8905,
+      "identifier": "55c59080-7e2a-44ca-9a59-aca445a7e1db",
+      "name": "Archived 2017-2023",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 8906,
+          "identifier": "5c806ca4-5faa-4985-8db1-aaaa50a6f162",
+          "name": "DOC-Historical Sprints",
+          "structureType": "iteration",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 8907,
+              "identifier": "6f3817ae-328c-4254-a60a-14f0f71df2f4",
+              "name": "TechComm 28",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 28",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2028"
+            },
+            {
+              "id": 8908,
+              "identifier": "f21b665f-033c-4bfb-b2e0-0e6ec5179b06",
+              "name": "Eternal S1",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\Eternal S1",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/Eternal%20S1"
+            },
+            {
+              "id": 8909,
+              "identifier": "83bf4987-8dbb-4b8b-8802-63367127b6d4",
+              "name": "TechComm 19Apr-30Apr 2",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 19Apr-30Apr 2",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2019Apr-30Apr%202"
+            },
+            {
+              "id": 8910,
+              "identifier": "9088e811-3219-433e-8d76-0003ba635f00",
+              "name": "TechComm 10",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 10",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2010"
+            },
+            {
+              "id": 8911,
+              "identifier": "b620655c-8032-4e20-9f44-1a4b7357eda3",
+              "name": "TechComm 05Apr-16Apr",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 05Apr-16Apr",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2005Apr-16Apr"
+            },
+            {
+              "id": 8912,
+              "identifier": "7cd36a31-04cf-4997-b0cb-51b7d25c6212",
+              "name": "TechComm 17May-28May 2021",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 17May-28May 2021",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2017May-28May%202021"
+            },
+            {
+              "id": 8913,
+              "identifier": "aac25720-0827-413a-bf5c-bd606af796f7",
+              "name": "TechComm 1",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 1",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%201"
+            },
+            {
+              "id": 8914,
+              "identifier": "fe208488-751f-4b38-b38c-4cf824ece178",
+              "name": "TechComm 12",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 12",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2012"
+            },
+            {
+              "id": 8915,
+              "identifier": "addaf8c5-0b6d-4a31-95e7-5d38c9f39ae1",
+              "name": "TechComm 18",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 18",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2018"
+            },
+            {
+              "id": 8916,
+              "identifier": "c6671057-527c-44cd-8f4c-b576f59f419e",
+              "name": "TechComm 25",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 25",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2025"
+            },
+            {
+              "id": 8917,
+              "identifier": "888eafda-059d-4ee1-a373-a95c8eed8eb0",
+              "name": "TechComm 30",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 30",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2030"
+            },
+            {
+              "id": 8918,
+              "identifier": "40affd55-c591-4611-85c1-590d9c61d7f8",
+              "name": "VP UI- search sprint 2",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\VP UI- search sprint 2",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/VP%20UI-%20search%20sprint%202"
+            },
+            {
+              "id": 8919,
+              "identifier": "d974e210-174b-4ca9-a26c-05d245b7b83e",
+              "name": "Iteration 18",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\Iteration 18",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/Iteration%2018"
+            },
+            {
+              "id": 8920,
+              "identifier": "b26ba83d-3476-48c9-ba01-ac8b38ffb5b6",
+              "name": "TechComm 3",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 3",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%203"
+            },
+            {
+              "id": 8921,
+              "identifier": "5830fd56-3c91-4f27-969b-6d1b999c9e49",
+              "name": "TechComm 5",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 5",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%205"
+            },
+            {
+              "id": 8922,
+              "identifier": "efd6ece1-ba48-4e90-a1e5-28c43141b0c4",
+              "name": "TechComm 6",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 6",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%206"
+            },
+            {
+              "id": 8923,
+              "identifier": "ef44f389-194e-40e0-8448-75914a830c66",
+              "name": "TechComm 13",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 13",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2013"
+            },
+            {
+              "id": 8924,
+              "identifier": "21197e1d-58e6-48b0-8b10-238672134aeb",
+              "name": "TechComm 8",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 8",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%208"
+            },
+            {
+              "id": 8925,
+              "identifier": "3f9ee203-4890-4b3b-afdb-6c3f5eee8675",
+              "name": "TechComm 2",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 2",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%202"
+            },
+            {
+              "id": 8926,
+              "identifier": "22811614-16e8-444b-99ee-145d0e3a7b3c",
+              "name": "TechComm 26",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 26",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2026"
+            },
+            {
+              "id": 8927,
+              "identifier": "8d8c21ca-a161-485d-81c7-6099e71c2ba6",
+              "name": "TechComm 22",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 22",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2022"
+            },
+            {
+              "id": 8928,
+              "identifier": "78367a3e-0096-4db2-a8e1-5dedd79260f8",
+              "name": "TechComm 21",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 21",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2021"
+            },
+            {
+              "id": 8929,
+              "identifier": "49a7c0c6-d783-4fe5-b176-8fb6036e4ad5",
+              "name": "TechComm 20",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 20",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2020"
+            },
+            {
+              "id": 8930,
+              "identifier": "42d1042d-9817-4feb-b0a1-0139982ab2ce",
+              "name": "TechComm 19",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 19",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2019"
+            },
+            {
+              "id": 8931,
+              "identifier": "012d5be1-c587-4dc9-817b-dc358d22d86d",
+              "name": "TechComm 16",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 16",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2016"
+            },
+            {
+              "id": 8932,
+              "identifier": "89ff41d9-89d1-416a-939e-736370b1f2f6",
+              "name": "TechComm 15",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 15",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2015"
+            },
+            {
+              "id": 8933,
+              "identifier": "89e2f0ca-7ae9-430c-81d2-a264440cb9b5",
+              "name": "TechComm 11",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 11",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2011"
+            },
+            {
+              "id": 8934,
+              "identifier": "079af4ba-09dd-457a-8dd5-caeb57e1b812",
+              "name": "TechComm 4",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 4",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%204"
+            },
+            {
+              "id": 8935,
+              "identifier": "9657dc85-0c54-4978-98fb-f9c01910ee99",
+              "name": "TechComm 7",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 7",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%207"
+            },
+            {
+              "id": 8936,
+              "identifier": "9cbe9c4d-579d-4183-a7b8-f24372e68d0f",
+              "name": "SSB Cadence 2020.02",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\SSB Cadence 2020.02",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/SSB%20Cadence%202020.02"
+            },
+            {
+              "id": 8937,
+              "identifier": "3aa4ec2b-70b5-47bc-b890-e7c4cb453f18",
+              "name": "TechComm 17",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 17",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2017"
+            },
+            {
+              "id": 8938,
+              "identifier": "bb2a0c91-1f43-4e32-8ed6-6721b5153ba7",
+              "name": "TechComm 03May-14May 2021",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 03May-14May 2021",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2003May-14May%202021"
+            },
+            {
+              "id": 8939,
+              "identifier": "1b4e6a58-55f3-4a26-aa5e-421e47d35d63",
+              "name": "TechComm 14",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 14",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2014"
+            },
+            {
+              "id": 8940,
+              "identifier": "eb835a80-deb5-47e4-8258-0ea20225607d",
+              "name": "TechComm 9",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 9",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%209"
+            },
+            {
+              "id": 8941,
+              "identifier": "d28552bd-1d44-4f22-8c35-57452f77f2c4",
+              "name": "VP Sprint 11",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\VP Sprint 11",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/VP%20Sprint%2011"
+            },
+            {
+              "id": 8942,
+              "identifier": "69920bf9-4070-40e0-931c-e271f62f6b63",
+              "name": "Eternal S1 Forever",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\Eternal S1 Forever",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/Eternal%20S1%20Forever"
+            },
+            {
+              "id": 8943,
+              "identifier": "0ba2b7bd-734a-4ce8-ad2a-575a45491d72",
+              "name": "TechComm 24",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 24",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2024"
+            },
+            {
+              "id": 8944,
+              "identifier": "14391117-6e51-41ac-baa3-d5ef6214c750",
+              "name": "TechComm 27",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 27",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2027"
+            },
+            {
+              "id": 8945,
+              "identifier": "928c32ed-7869-4e59-ae87-5fe25f914118",
+              "name": "TechComm 29",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 29",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2029"
+            },
+            {
+              "id": 8946,
+              "identifier": "c305168b-fe4d-476a-8ec1-ca3046897083",
+              "name": "TechComm 23",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 23",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2023"
+            },
+            {
+              "id": 8947,
+              "identifier": "e5d43fca-04bd-4b9b-9149-fb18dfb9f606",
+              "name": "TechComm 31",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\TechComm 31",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/TechComm%2031"
+            },
+            {
+              "id": 8948,
+              "identifier": "52103e27-da11-4a32-8cf8-399574ee3fad",
+              "name": "DOC-DOC",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\DOC-DOC",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/DOC-DOC"
+            },
+            {
+              "id": 8949,
+              "identifier": "ceca7b54-53bf-49c9-95b2-68473884743e",
+              "name": "DOC-22-S02",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "attributes": {
+                "startDate": "2022-11-14T00:00:00Z",
+                "finishDate": "2022-11-25T00:00:00Z"
+              },
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\DOC-22-S02",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/DOC-22-S02"
+            },
+            {
+              "id": 8950,
+              "identifier": "7250439c-cca8-452f-84c1-11cd623ab697",
+              "name": "DOC-22-S01",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "attributes": {
+                "startDate": "2022-10-31T00:00:00Z",
+                "finishDate": "2022-11-11T00:00:00Z"
+              },
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\DOC-22-S01",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/DOC-22-S01"
+            },
+            {
+              "id": 8951,
+              "identifier": "446bf422-6954-4177-985f-a4e494a9ee19",
+              "name": "DOC-22-S03",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "attributes": {
+                "startDate": "2022-11-28T00:00:00Z",
+                "finishDate": "2022-12-09T00:00:00Z"
+              },
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\DOC-22-S03",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/DOC-22-S03"
+            },
+            {
+              "id": 8952,
+              "identifier": "71c39ee5-dbd3-4691-bf1d-b67cd109a726",
+              "name": "DOC-22-S04",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "attributes": {
+                "startDate": "2022-12-12T00:00:00Z",
+                "finishDate": "2022-12-23T00:00:00Z"
+              },
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\DOC-22-S04",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/DOC-22-S04"
+            },
+            {
+              "id": 8953,
+              "identifier": "4ebeb679-215d-44e0-8037-9f59f04a7c13",
+              "name": "DOC-23-S01",
+              "structureType": "iteration",
+              "hasChildren": false,
+              "attributes": {
+                "startDate": "2022-12-26T00:00:00Z",
+                "finishDate": "2023-01-06T00:00:00Z"
+              },
+              "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints\\DOC-23-S01",
+              "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints/DOC-23-S01"
+            }
+          ],
+          "path": "\\TechComm\\Iteration\\Archived 2017-2023\\DOC-Historical Sprints",
+          "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023/DOC-Historical%20Sprints"
+        }
+      ],
+      "attributes": {
+        "startDate": "2017-12-01T00:00:00Z",
+        "finishDate": "2023-12-31T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\Archived 2017-2023",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/Archived%202017-2023"
+    },
+    {
+      "id": 10088,
+      "identifier": "999c4a9f-e7f4-4009-95b0-05b9e095b836",
+      "name": "2025-S04",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-02-17T00:00:00Z",
+        "finishDate": "2025-02-28T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S04",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S04"
+    },
+    {
+      "id": 10089,
+      "identifier": "991e71fd-1caa-4e6e-85de-82f94c624a6b",
+      "name": "2025-S03",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-02-03T00:00:00Z",
+        "finishDate": "2025-02-14T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S03",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S03"
+    },
+    {
+      "id": 10090,
+      "identifier": "17722857-bf5e-4ca6-a206-78ee423d02d0",
+      "name": "2025-S05",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-03-03T00:00:00Z",
+        "finishDate": "2025-03-14T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S05",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S05"
+    },
+    {
+      "id": 10091,
+      "identifier": "e501b138-1a33-4507-a6fd-4b68e7eb5531",
+      "name": "2025-S06",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-03-17T00:00:00Z",
+        "finishDate": "2025-03-28T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S06",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S06"
+    },
+    {
+      "id": 10092,
+      "identifier": "f5c47b4b-455e-43b9-a7a5-9b11be1f9558",
+      "name": "2025-S07",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-03-31T00:00:00Z",
+        "finishDate": "2025-04-11T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S07",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S07"
+    },
+    {
+      "id": 10093,
+      "identifier": "0bb1deef-82bd-460c-890c-9838bba1affb",
+      "name": "2025-S08",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-04-14T00:00:00Z",
+        "finishDate": "2025-04-25T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S08",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S08"
+    },
+    {
+      "id": 10094,
+      "identifier": "75c72c0c-272e-4c6a-908a-abb847741da7",
+      "name": "2025-S09",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-04-28T00:00:00Z",
+        "finishDate": "2025-05-09T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S09",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S09"
+    },
+    {
+      "id": 10095,
+      "identifier": "d10dd090-f0d4-4dd4-9d21-06de69e50731",
+      "name": "2025-S10",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-05-12T00:00:00Z",
+        "finishDate": "2025-05-23T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S10",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S10"
+    },
+    {
+      "id": 10096,
+      "identifier": "a2592341-9bd9-4192-8444-bdfb2dce439c",
+      "name": "2025-S11",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-05-26T00:00:00Z",
+        "finishDate": "2025-06-06T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S11",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S11"
+    },
+    {
+      "id": 10097,
+      "identifier": "5ac8e28e-089d-4268-83a4-5c22338322be",
+      "name": "2025-S12",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-06-09T00:00:00Z",
+        "finishDate": "2025-06-20T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S12",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S12"
+    },
+    {
+      "id": 10098,
+      "identifier": "78f34d6b-a2e3-416f-9c8c-621bcff9bac7",
+      "name": "2025-S13",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-06-23T00:00:00Z",
+        "finishDate": "2025-07-04T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S13",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S13"
+    },
+    {
+      "id": 10099,
+      "identifier": "4187d109-a585-4b70-8535-32141d899011",
+      "name": "2025-S14",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-07-07T00:00:00Z",
+        "finishDate": "2025-07-18T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S14",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S14"
+    },
+    {
+      "id": 10100,
+      "identifier": "8b54c949-71a3-4a0b-a298-b0b68d20bbd3",
+      "name": "2025-S15",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-07-21T00:00:00Z",
+        "finishDate": "2025-08-01T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S15",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S15"
+    },
+    {
+      "id": 10101,
+      "identifier": "54ff9033-fa10-4c4a-9866-744193c12a76",
+      "name": "2025-S16",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-08-04T00:00:00Z",
+        "finishDate": "2025-08-15T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S16",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S16"
+    },
+    {
+      "id": 10102,
+      "identifier": "256fa52a-a5f2-4709-9ef3-d5af1389d5c3",
+      "name": "2025-S17",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-08-18T00:00:00Z",
+        "finishDate": "2025-08-29T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S17",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S17"
+    },
+    {
+      "id": 10103,
+      "identifier": "8ad28369-3e6e-45c1-bf6b-af024f341b27",
+      "name": "2025-S18",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-09-01T00:00:00Z",
+        "finishDate": "2025-09-12T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S18",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S18"
+    },
+    {
+      "id": 10104,
+      "identifier": "5a2f28df-9bd7-48c1-84fd-aff3b16cfa4e",
+      "name": "2025-S19",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-09-15T00:00:00Z",
+        "finishDate": "2025-09-26T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S19",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S19"
+    },
+    {
+      "id": 10105,
+      "identifier": "fbc28308-10de-4b05-84a0-d0d7c316a161",
+      "name": "2025-S20",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-09-29T00:00:00Z",
+        "finishDate": "2025-10-10T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S20",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S20"
+    },
+    {
+      "id": 10106,
+      "identifier": "62e1733b-dc05-4bbb-8a9e-09f042408ef4",
+      "name": "2025-S21",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-10-13T00:00:00Z",
+        "finishDate": "2025-10-24T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S21",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S21"
+    },
+    {
+      "id": 10107,
+      "identifier": "9eb7c26b-a822-4edc-b86b-e7b2d34df25c",
+      "name": "2025-S22",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-10-27T00:00:00Z",
+        "finishDate": "2025-11-07T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S22",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S22"
+    },
+    {
+      "id": 10108,
+      "identifier": "771fec6a-cdf3-43a9-b813-a9982afa8cd0",
+      "name": "2025-S23",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-11-10T00:00:00Z",
+        "finishDate": "2025-11-21T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S23",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S23"
+    },
+    {
+      "id": 10109,
+      "identifier": "58a2e026-f823-4536-91dd-8c7956242d31",
+      "name": "2025-S24",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-11-24T00:00:00Z",
+        "finishDate": "2025-12-05T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S24",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S24"
+    },
+    {
+      "id": 10110,
+      "identifier": "9da53b9d-b7e7-4b5f-b6ab-bb12521d6ad5",
+      "name": "2025-S25",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-12-08T00:00:00Z",
+        "finishDate": "2025-12-19T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S25",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S25"
+    },
+    {
+      "id": 10111,
+      "identifier": "053061ab-89ef-4968-b342-fe0ae11d4a56",
+      "name": "2025-S26",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2025-12-22T00:00:00Z",
+        "finishDate": "2026-01-02T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2025-S26",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2025-S26"
+    },
+    {
+      "id": 11266,
+      "identifier": "37a32dc9-8011-4834-8aa8-bf62b11bd86c",
+      "name": "2026-S01",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-01-05T00:00:00Z",
+        "finishDate": "2026-01-16T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S01",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S01"
+    },
+    {
+      "id": 11267,
+      "identifier": "1197549e-1c5e-4334-af1c-e85e35b63526",
+      "name": "2026-S02",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-01-19T00:00:00Z",
+        "finishDate": "2026-01-30T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S02",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S02"
+    },
+    {
+      "id": 11268,
+      "identifier": "e9673326-0831-473d-82dd-a99cff65b303",
+      "name": "2026-S03",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-02-02T00:00:00Z",
+        "finishDate": "2026-02-13T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S03",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S03"
+    },
+    {
+      "id": 11269,
+      "identifier": "a51b9ce7-b4ff-43e5-8ca7-927d8c7d31c2",
+      "name": "2026-S04",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-02-16T00:00:00Z",
+        "finishDate": "2026-02-27T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S04",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S04"
+    },
+    {
+      "id": 11270,
+      "identifier": "e7d54e1b-f223-452a-a335-6432e43fe67e",
+      "name": "2026-S05",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-03-02T00:00:00Z",
+        "finishDate": "2026-03-13T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S05",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S05"
+    },
+    {
+      "id": 11271,
+      "identifier": "2c4f12b5-25c9-4e06-b1d2-749c8421addd",
+      "name": "2026-S06",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-03-16T00:00:00Z",
+        "finishDate": "2026-03-27T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S06",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S06"
+    },
+    {
+      "id": 11272,
+      "identifier": "d45aaed0-fa11-42ff-a7ba-b1e880fd35b2",
+      "name": "2026-S07",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-03-30T00:00:00Z",
+        "finishDate": "2026-04-10T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S07",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S07"
+    },
+    {
+      "id": 12284,
+      "identifier": "bf3fd843-270d-4da7-b095-d72f156ac554",
+      "name": "2026-S08",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-04-13T00:00:00Z",
+        "finishDate": "2026-04-24T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S08",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S08"
+    },
+    {
+      "id": 12285,
+      "identifier": "0c21abe0-cc10-4143-9c2f-75d1c2bd7397",
+      "name": "2026-S09",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-04-27T00:00:00Z",
+        "finishDate": "2026-05-08T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S09",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S09"
+    },
+    {
+      "id": 12286,
+      "identifier": "aef99aa5-f272-4052-87fd-e20880393c83",
+      "name": "2026-S10",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-05-11T00:00:00Z",
+        "finishDate": "2026-05-22T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S10",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S10"
+    },
+    {
+      "id": 12287,
+      "identifier": "620913dc-f42e-4746-87f7-fdd03f05de38",
+      "name": "2026-S11",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "attributes": {
+        "startDate": "2026-05-25T00:00:00Z",
+        "finishDate": "2026-06-05T00:00:00Z"
+      },
+      "path": "\\TechComm\\Iteration\\2026-S11",
+      "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations/2026-S11"
+    }
+  ],
+  "path": "\\TechComm\\Iteration",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations"
+    }
+  },
+  "url": "https://dev.azure.com/1id/c7aa2319-b458-4975-9827-191f86a39ad5/_apis/wit/classificationNodes/Iterations"
+}

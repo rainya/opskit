@@ -1,0 +1,37 @@
+{
+  "id": "a9113621-04e8-44df-a0d0-c624b9245634",
+  "name": "Operations",
+  "description": "Project intended to manage all aspects of R&D operations as well as develop Azure DevOps Service/Server infrastructural assets, and track items for the Security team.",
+  "url": "https://dev.azure.com/1id/_apis/projects/a9113621-04e8-44df-a0d0-c624b9245634",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "Scrum with Initiatives",
+      "templateTypeId": "e7e99f8f-7f00-4d0f-a37b-8f953e7132c1"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Git",
+      "gitEnabled": "True",
+      "tfvcEnabled": "False"
+    }
+  },
+  "revision": 13703,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/a9113621-04e8-44df-a0d0-c624b9245634"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/Operations"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "c398253e-84bb-4a51-ac3a-3ddd8c105959",
+    "name": "Operations Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/a9113621-04e8-44df-a0d0-c624b9245634/teams/c398253e-84bb-4a51-ac3a-3ddd8c105959"
+  },
+  "lastUpdateTime": "2026-01-16T17:50:01.63Z"
+}

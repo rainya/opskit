@@ -1,0 +1,10 @@
+{
+  "id": "a5f118e8-f2a6-430e-9c05-8d9c709a2342",
+  "name": "PgM Sandbox",
+  "description": "A sandbox project for R&D Program Management to validate and test",
+  "url": "https://dev.azure.com/1id/_apis/projects/a5f118e8-f2a6-430e-9c05-8d9c709a2342",
+  "state": "wellFormed",
+  "revision": 19182,
+  "visibility": "private",
+  "lastUpdateTime": "2026-03-03T23:46:56.403Z"
+}

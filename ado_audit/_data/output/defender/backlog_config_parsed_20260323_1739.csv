@@ -1,0 +1,6 @@
+Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Initiatives,Portfolio,Initiative,Initiative,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Epics,Portfolio,Epic,Epic,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Features,Portfolio,Feature,Feature,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Backlog items,Requirement,Product Backlog Item,Product Backlog Item,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,Tasks,Task,Task,Task,1000

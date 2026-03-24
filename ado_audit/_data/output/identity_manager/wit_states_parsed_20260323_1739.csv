@@ -1,0 +1,54 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Task,To Do,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Task,In Progress,InProgress,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Task,Done,Completed,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Task,Removed,Removed,4
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Bug,New,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Bug,Approved,Proposed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Bug,Committed,InProgress,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Bug,Code Review,InProgress,4
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Bug,Testing,Resolved,5
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Bug,Done,Completed,6
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Bug,Removed,Removed,7
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Code Review Request,Requested,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Code Review Request,Closed,Completed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Code Review Response,Requested,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Code Review Response,Accepted,InProgress,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Code Review Response,Closed,Completed,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Epic,New,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Epic,In Progress,InProgress,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Epic,Done,Completed,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Epic,Removed,Removed,4
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feature,New,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feature,In Progress,InProgress,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feature,Done,Completed,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feature,Removed,Removed,4
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feedback Request,Active,InProgress,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feedback Request,Closed,Completed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feedback Request,Removed,Removed,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feedback Response,Active,InProgress,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Feedback Response,Closed,Completed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Impediment,Open,InProgress,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Impediment,Closed,Completed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Product Backlog Item,New,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Product Backlog Item,Approved,Proposed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Product Backlog Item,Committed,InProgress,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Product Backlog Item,Code Review,InProgress,4
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Product Backlog Item,Testing,Resolved,5
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Product Backlog Item,Done,Completed,6
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Product Backlog Item,Removed,Removed,7
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Shared Steps,Active,InProgress,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Shared Steps,Closed,Completed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Shared Parameter,Active,InProgress,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Shared Parameter,Inactive,Completed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Case,Design,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Case,Ready,InProgress,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Case,Closed,Completed,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Plan,Active,InProgress,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Plan,Inactive,Completed,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Suite,In Planning,InProgress,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Suite,In Progress,InProgress,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Test Suite,Completed,Completed,3
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Known Issue,New,Proposed,1
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Known Issue,Committed,InProgress,2
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Known Issue,Done,Completed,3

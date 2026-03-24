@@ -1,0 +1,12 @@
+Project ID,Project Name,Team ID,Team Name,Board ID,Board Name,Column ID,Column Name,Column Order,State Mapping,WIP Limit,Split Column
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,,Global_Enablement_Team_Backlog,03b683a3-4b9f-45eb-b319-307955809775,Backlog items,80383d9e-ab6f-4827-8bef-7d874909c23a,New,1,New,0,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,,Global_Enablement_Team_Backlog,03b683a3-4b9f-45eb-b319-307955809775,Backlog items,49088e6d-1304-4a90-9cdd-61164865d03f,Discussed,2,Discussed,0,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,,Global_Enablement_Team_Backlog,03b683a3-4b9f-45eb-b319-307955809775,Backlog items,2a6e54c9-3117-48c4-a49c-98a1d4980838,In Progress,3,In Progress,0,True
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,,Global_Enablement_Team_Backlog,03b683a3-4b9f-45eb-b319-307955809775,Backlog items,98573d94-ec5c-4233-a620-017e4c44b514,Publication,4,In Progress,2,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,,Global_Enablement_Team_Backlog,03b683a3-4b9f-45eb-b319-307955809775,Backlog items,47c7f9b2-6f8a-43c1-a992-985c27e620fc,Archived,5,Done,0,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,189156fb-0cf5-4206-9578-26ec82880db4,Epics,d37206ac-9333-4939-8c6a-1bc35fba26a8,New,1,New,0,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,189156fb-0cf5-4206-9578-26ec82880db4,Epics,6df2fb48-4cbc-435e-937c-cf487aa9655b,In Progress,2,In Progress,5,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,189156fb-0cf5-4206-9578-26ec82880db4,Epics,5b59dc81-dfed-42b5-87d6-045d423bc271,Done,3,Done,0,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,6203e117-53c2-4db9-af73-620af6586bdd,Features,4c2918af-369e-484c-8301-5a194bde8656,New,1,New,0,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,6203e117-53c2-4db9-af73-620af6586bdd,Features,4d592cd6-7c59-4b06-aab0-bf244b2318dd,In Progress,2,In Progress,5,False
+06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,6203e117-53c2-4db9-af73-620af6586bdd,Features,74374f59-1239-4f3c-b3b8-e1195fb5cbb6,Done,3,Done,0,False

@@ -1,0 +1,1040 @@
+{
+  "id": 498,
+  "identifier": "59197695-b373-4876-af95-e9be0ac49eca",
+  "name": "Active Roles",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 2017,
+      "identifier": "8ac1b01e-047d-4fd5-926f-aefa7e1dd710",
+      "name": "Build and Setup",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\Build and Setup",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Build%20and%20Setup"
+    },
+    {
+      "id": 2018,
+      "identifier": "be10c512-514b-408c-9861-4f4bd9623dda",
+      "name": "AutoTests",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\AutoTests",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/AutoTests"
+    },
+    {
+      "id": 2019,
+      "identifier": "3d66a34e-02fa-4002-bd17-d63f1683c1ba",
+      "name": "External",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\External",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/External"
+    },
+    {
+      "id": 2020,
+      "identifier": "9d7cf936-b164-4fc7-9ea9-07739faf5553",
+      "name": "Server",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 2021,
+          "identifier": "a8748340-d366-4484-825c-2f6d46632135",
+          "name": "Service",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Server\\Service",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Service"
+        },
+        {
+          "id": 2022,
+          "identifier": "350adba1-7e80-4f9f-b506-05b2ed871c1e",
+          "name": "Add-ons",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 2023,
+              "identifier": "05d99981-6650-48d7-b101-1386c6807dad",
+              "name": "Office 365",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Add-ons\\Office 365",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Add-ons/Office%20365"
+            },
+            {
+              "id": 2024,
+              "identifier": "954ca432-cee5-49e7-9fd9-5f199cf983bf",
+              "name": "Lync",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Add-ons\\Lync",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Add-ons/Lync"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Server\\Add-ons",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Add-ons"
+        },
+        {
+          "id": 2025,
+          "identifier": "91ef5ee8-ec30-4bbb-b04e-04c33588ae30",
+          "name": "Extensions",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 2026,
+              "identifier": "3ff43783-0fe6-4b74-b1bc-179f0cf578fa",
+              "name": "ERFM",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Extensions\\ERFM",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Extensions/ERFM"
+            },
+            {
+              "id": 2027,
+              "identifier": "5fe7c2e2-c08c-4b7a-8a9a-3217ecf8b0f5",
+              "name": "Lync",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Extensions\\Lync",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Extensions/Lync"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Server\\Extensions",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Extensions"
+        },
+        {
+          "id": 2028,
+          "identifier": "7f7a2e1e-f179-4c54-8076-315b5d412730",
+          "name": "Solutions",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 2029,
+              "identifier": "5cc176a4-199d-4c2c-8540-e2818354e572",
+              "name": "Add-On Manager",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\Add-On Manager",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Add-On%20Manager"
+            },
+            {
+              "id": 2030,
+              "identifier": "e5dc5ffd-d1ae-4fc1-8f50-cd05d0a43195",
+              "name": "Diagnostic Tools",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 2031,
+                  "identifier": "b31bc6a8-19eb-4de4-bce4-be5f70f1c1e9",
+                  "name": "Directory Changes Monitor",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Server\\Solutions\\Diagnostic Tools\\Directory Changes Monitor",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Diagnostic%20Tools/Directory%20Changes%20Monitor"
+                },
+                {
+                  "id": 2032,
+                  "identifier": "4b2df453-6ce7-4290-81fc-370b2255e7de",
+                  "name": "Log Viewer",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Server\\Solutions\\Diagnostic Tools\\Log Viewer",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Diagnostic%20Tools/Log%20Viewer"
+                },
+                {
+                  "id": 2033,
+                  "identifier": "3fe865fd-6408-42e3-88a1-ae4f28b39b0f",
+                  "name": "System Checker",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Server\\Solutions\\Diagnostic Tools\\System Checker",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Diagnostic%20Tools/System%20Checker"
+                }
+              ],
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\Diagnostic Tools",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Diagnostic%20Tools"
+            },
+            {
+              "id": 2034,
+              "identifier": "2f0d890e-30e7-4b16-b9ab-22a6d1ca30f2",
+              "name": "Outlook Add-in",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\Outlook Add-in",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Outlook%20Add-in"
+            },
+            {
+              "id": 2035,
+              "identifier": "55d49efe-2fb7-48bd-bf5b-7d248957ce6b",
+              "name": "Reporting",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 2036,
+                  "identifier": "c6bcc89c-5799-4d04-92cf-9efe4a4b060c",
+                  "name": "Collector",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Server\\Solutions\\Reporting\\Collector",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Reporting/Collector"
+                },
+                {
+                  "id": 2037,
+                  "identifier": "2e28cbce-ffa5-46c3-a36e-5631364a2862",
+                  "name": "Report Pack",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Server\\Solutions\\Reporting\\Report Pack",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Reporting/Report%20Pack"
+                }
+              ],
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\Reporting",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Reporting"
+            },
+            {
+              "id": 2038,
+              "identifier": "591157b4-e88d-4c7a-a3b6-0e1f68446889",
+              "name": "SCOM Pack",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\SCOM Pack",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/SCOM%20Pack"
+            },
+            {
+              "id": 2039,
+              "identifier": "fd70ae97-60cb-409f-acff-afc5b421daa2",
+              "name": "SPML Provider",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\SPML Provider",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/SPML%20Provider"
+            },
+            {
+              "id": 2040,
+              "identifier": "43d860a5-51df-42e1-8e47-3c546d300074",
+              "name": "Resource Usage Calculator",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\Resource Usage Calculator",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Resource%20Usage%20Calculator"
+            },
+            {
+              "id": 2041,
+              "identifier": "a1e8af6e-be29-4478-8c20-90f9229c35d1",
+              "name": "Administrative Template",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\Administrative Template",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Administrative%20Template"
+            },
+            {
+              "id": 2042,
+              "identifier": "166f681f-5016-4e23-92a0-a83917ea2f48",
+              "name": "Configuration Transfer Wizard",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\Solutions\\Configuration Transfer Wizard",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions/Configuration%20Transfer%20Wizard"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Server\\Solutions",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Solutions"
+        },
+        {
+          "id": 2043,
+          "identifier": "339bb631-b1a5-4b6f-b8c7-386d8be2ce66",
+          "name": "ADSI Provider",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Server\\ADSI Provider",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/ADSI%20Provider"
+        },
+        {
+          "id": 5311,
+          "identifier": "c3204f76-7a3e-4e45-bb5d-d7d63aa77945",
+          "name": "API",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5312,
+              "identifier": "bc91d4e5-d8c3-4d75-9ab8-220abc556009",
+              "name": "REST",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Server\\API\\REST",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/API/REST"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Server\\API",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/API"
+        },
+        {
+          "id": 5854,
+          "identifier": "027f2891-93e9-49f5-80db-13dd8e29008d",
+          "name": "Documentation",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Server\\Documentation",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server/Documentation"
+        }
+      ],
+      "path": "\\Active Roles\\Area\\Server",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Server"
+    },
+    {
+      "id": 2044,
+      "identifier": "a4a459fa-c143-4f15-85dc-dd494ba23a0b",
+      "name": "Client",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 2045,
+          "identifier": "356caba3-1348-4d02-a490-4c759b02d3dd",
+          "name": "Language Pack",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Client\\Language Pack",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Language%20Pack"
+        },
+        {
+          "id": 2046,
+          "identifier": "50a7b3ba-276d-437c-bd60-3964a83dd1ef",
+          "name": "Configuration Center",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5852,
+              "identifier": "d439139f-ff34-44f7-bfdd-9f4b692b3e71",
+              "name": "UX",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Client\\Configuration Center\\UX",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Configuration%20Center/UX"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Client\\Configuration Center",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Configuration%20Center"
+        },
+        {
+          "id": 2047,
+          "identifier": "147b92ba-310d-461f-90cb-ef625e3a7bfe",
+          "name": "Management Shell",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Client\\Management Shell",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Management%20Shell"
+        },
+        {
+          "id": 2048,
+          "identifier": "6ada9318-92bb-4d53-9668-1b2d2292cee3",
+          "name": "Web Interface",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5850,
+              "identifier": "afd19fb9-a2fd-485d-97fd-d5f57bbd16d4",
+              "name": "UX",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Client\\Web Interface\\UX",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/UX"
+            },
+            {
+              "id": 5903,
+              "identifier": "33062ffa-ae84-4018-9465-903119b94717",
+              "name": "Dashboard",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 5904,
+                  "identifier": "079feaf4-e694-4b8b-8f74-3ee26b1e4e05",
+                  "name": "Navigation",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard\\Navigation",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard/Navigation"
+                },
+                {
+                  "id": 5905,
+                  "identifier": "890ed09f-abfb-40e3-86a9-4ab49f90363f",
+                  "name": "Customisation",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard\\Customisation",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard/Customisation"
+                },
+                {
+                  "id": 5906,
+                  "identifier": "4fabcc83-4df9-4251-8da2-463122646d53",
+                  "name": "Search",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard\\Search",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard/Search"
+                },
+                {
+                  "id": 5907,
+                  "identifier": "6907d8f4-0a95-4ca1-b127-c46c205cb76e",
+                  "name": "Help",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard\\Help",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard/Help"
+                },
+                {
+                  "id": 5908,
+                  "identifier": "a33c2c0d-5b56-4ce1-a645-bf3a5406564d",
+                  "name": "Directory Management",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard\\Directory Management",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard/Directory%20Management"
+                },
+                {
+                  "id": 5909,
+                  "identifier": "23697f02-b66b-495e-b7e8-9ddf96520bf1",
+                  "name": "Action Menus",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard\\Action Menus",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard/Action%20Menus"
+                },
+                {
+                  "id": 5910,
+                  "identifier": "ef4c7e2b-af5d-4fcc-bca7-e8f9a5bf34bf",
+                  "name": "Global Settings",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard\\Global Settings",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard/Global%20Settings"
+                }
+              ],
+              "path": "\\Active Roles\\Area\\Client\\Web Interface\\Dashboard",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface/Dashboard"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Client\\Web Interface",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Web%20Interface"
+        },
+        {
+          "id": 2049,
+          "identifier": "3c808b64-6193-466e-9390-a253f3838e53",
+          "name": "Snap-in",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5851,
+              "identifier": "832ee6e1-2bc2-4815-a82d-cebdc4340d21",
+              "name": "UX",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Client\\Snap-in\\UX",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Snap-in/UX"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Client\\Snap-in",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client/Snap-in"
+        }
+      ],
+      "path": "\\Active Roles\\Area\\Client",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Client"
+    },
+    {
+      "id": 2050,
+      "identifier": "e7da85a6-657d-4809-acb8-df371c8fc05c",
+      "name": "Maintenance",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 6376,
+          "identifier": "a60ca702-30d5-40a9-bd77-02e8536d4ca3",
+          "name": "Iron Legion",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Maintenance\\Iron Legion",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Maintenance/Iron%20Legion"
+        }
+      ],
+      "path": "\\Active Roles\\Area\\Maintenance",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Maintenance"
+    },
+    {
+      "id": 5294,
+      "identifier": "f096e36f-ffcd-4916-83bc-488ffae09f92",
+      "name": "Capacity Testing",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\Capacity Testing",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Capacity%20Testing"
+    },
+    {
+      "id": 5329,
+      "identifier": "c892e857-a34c-4329-8f4e-1539899fe3f0",
+      "name": "Connectors",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\Connectors",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Connectors"
+    },
+    {
+      "id": 5380,
+      "identifier": "7d04c508-7fcd-44e4-9115-3ca49ae2d3bc",
+      "name": "Quick Connect",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 5382,
+          "identifier": "7b8dc1d7-ead5-4489-bbab-012da6c163b9",
+          "name": "Sync Engine",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Quick Connect\\Sync Engine",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Quick%20Connect/Sync%20Engine"
+        },
+        {
+          "id": 5383,
+          "identifier": "3e491798-2039-4e81-9855-ef017e483854",
+          "name": "Active Directory",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Quick Connect\\Active Directory",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Quick%20Connect/Active%20Directory"
+        },
+        {
+          "id": 5384,
+          "identifier": "c00191c3-dc6a-46c3-96f6-9645ae4ebcd7",
+          "name": "Management Shell",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Quick Connect\\Management Shell",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Quick%20Connect/Management%20Shell"
+        },
+        {
+          "id": 5385,
+          "identifier": "e100cec7-3a5b-4fdd-ab01-525a5d3f5ff5",
+          "name": "Base Systems",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Quick Connect\\Base Systems",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Quick%20Connect/Base%20Systems"
+        },
+        {
+          "id": 5386,
+          "identifier": "acdaf2b2-b922-4a44-bf87-a605c02f1917",
+          "name": "FIM add-on",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Quick Connect\\FIM add-on",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Quick%20Connect/FIM%20add-on"
+        },
+        {
+          "id": 5387,
+          "identifier": "339da446-1d07-47a9-ba32-a0faebce151c",
+          "name": "Cloud Services",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Quick Connect\\Cloud Services",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Quick%20Connect/Cloud%20Services"
+        }
+      ],
+      "path": "\\Active Roles\\Area\\Quick Connect",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Quick%20Connect"
+    },
+    {
+      "id": 5381,
+      "identifier": "d9e2c882-4009-40ff-a6b7-401c723803ae",
+      "name": "Teams",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 2051,
+          "identifier": "313a272b-40da-4354-a97a-bcb45a7e3226",
+          "name": "ARS Feature Dev",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Teams\\ARS Feature Dev",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/ARS%20Feature%20Dev"
+        },
+        {
+          "id": 2052,
+          "identifier": "dfbd169e-7ce8-444c-9f44-0fc282067269",
+          "name": "Feature Team 2",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 2053,
+              "identifier": "a406628e-cf91-415b-8256-e462a898569e",
+              "name": "Feature Team 2",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Teams\\Feature Team 2\\Feature Team 2",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/Feature%20Team%202/Feature%20Team%202"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Teams\\Feature Team 2",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/Feature%20Team%202"
+        },
+        {
+          "id": 2349,
+          "identifier": "a6f66bff-ba50-4fb1-9f0a-99019dba5a03",
+          "name": "Feature Team 3",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Teams\\Feature Team 3",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/Feature%20Team%203"
+        },
+        {
+          "id": 6339,
+          "identifier": "3480ea6d-7392-4627-9e3b-0e4f8f10535b",
+          "name": "BUD Team2",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Teams\\BUD Team2",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/BUD%20Team2"
+        },
+        {
+          "id": 6341,
+          "identifier": "454561df-354b-478e-9625-71b23e8bd6bf",
+          "name": "REST API Developers",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Teams\\REST API Developers",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/REST%20API%20Developers"
+        },
+        {
+          "id": 6355,
+          "identifier": "a2b2ab77-4273-4da7-8753-ead7e54d9531",
+          "name": "BUD Team1",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Teams\\BUD Team1",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/BUD%20Team1"
+        },
+        {
+          "id": 6367,
+          "identifier": "f6b3ea20-4493-40e2-89a6-905b3069ad5e",
+          "name": "Iron Legion",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Teams\\Iron Legion",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams/Iron%20Legion"
+        }
+      ],
+      "path": "\\Active Roles\\Area\\Teams",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Teams"
+    },
+    {
+      "id": 5721,
+      "identifier": "1873d73f-6a0c-4c43-bf37-e38e00125f1e",
+      "name": "Business",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 5725,
+          "identifier": "af0d4f25-cb21-4cd9-a94e-300cd604224c",
+          "name": "Cloud Services",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5726,
+              "identifier": "e3a3847b-4f25-4451-922d-e36d51a733c9",
+              "name": "Deploy and Operate",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 5727,
+                  "identifier": "935914df-7b5e-4e60-ad0d-9ccfe236d060",
+                  "name": "Azure",
+                  "structureType": "area",
+                  "hasChildren": true,
+                  "children": [
+                    {
+                      "id": 6440,
+                      "identifier": "db7d58d1-109c-4765-b366-bf55568558f2",
+                      "name": "BUD Team2",
+                      "structureType": "area",
+                      "hasChildren": false,
+                      "path": "\\Active Roles\\Area\\Business\\Cloud Services\\Deploy and Operate\\Azure\\BUD Team2",
+                      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services/Deploy%20and%20Operate/Azure/BUD%20Team2"
+                    }
+                  ],
+                  "path": "\\Active Roles\\Area\\Business\\Cloud Services\\Deploy and Operate\\Azure",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services/Deploy%20and%20Operate/Azure"
+                },
+                {
+                  "id": 5728,
+                  "identifier": "4c0c9da3-ef7c-4689-927b-c324f5ad3e3a",
+                  "name": "AWS",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Business\\Cloud Services\\Deploy and Operate\\AWS",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services/Deploy%20and%20Operate/AWS"
+                }
+              ],
+              "path": "\\Active Roles\\Area\\Business\\Cloud Services\\Deploy and Operate",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services/Deploy%20and%20Operate"
+            },
+            {
+              "id": 5744,
+              "identifier": "8e4b90df-fc9c-4c36-a110-8a81a5e28e51",
+              "name": "Managed Services",
+              "structureType": "area",
+              "hasChildren": true,
+              "children": [
+                {
+                  "id": 5745,
+                  "identifier": "208d810e-4f37-4a74-91b5-48b79098080a",
+                  "name": "AWS",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Business\\Cloud Services\\Managed Services\\AWS",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services/Managed%20Services/AWS"
+                },
+                {
+                  "id": 5746,
+                  "identifier": "46285a1d-26d9-4941-adfd-dfe87af14565",
+                  "name": "Azure",
+                  "structureType": "area",
+                  "hasChildren": false,
+                  "path": "\\Active Roles\\Area\\Business\\Cloud Services\\Managed Services\\Azure",
+                  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services/Managed%20Services/Azure"
+                }
+              ],
+              "path": "\\Active Roles\\Area\\Business\\Cloud Services\\Managed Services",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services/Managed%20Services"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Business\\Cloud Services",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Cloud%20Services"
+        },
+        {
+          "id": 5730,
+          "identifier": "9f44fd46-2b24-4c5d-a4d1-a95d8ae80737",
+          "name": "Starling Services",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5732,
+              "identifier": "a3ba13a3-655a-44de-a46f-4f5646ac66d7",
+              "name": "Connectors",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Starling Services\\Connectors",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Starling%20Services/Connectors"
+            },
+            {
+              "id": 5733,
+              "identifier": "1ba7a90f-4f6b-4ed2-8ecb-8187aba79611",
+              "name": "Governance",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Starling Services\\Governance",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Starling%20Services/Governance"
+            },
+            {
+              "id": 5734,
+              "identifier": "d87a9138-1163-4fcf-9dbe-e3c34294ace8",
+              "name": "Identity Lifecycle",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Starling Services\\Identity Lifecycle",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Starling%20Services/Identity%20Lifecycle"
+            },
+            {
+              "id": 5735,
+              "identifier": "329a7e38-7a91-4a2c-bfc9-02bb70991e04",
+              "name": "Administration",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Starling Services\\Administration",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Starling%20Services/Administration"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Business\\Starling Services",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Starling%20Services"
+        },
+        {
+          "id": 5739,
+          "identifier": "1dbc8569-5adb-4877-9779-4694fe3f5afd",
+          "name": "Identity and Analytics",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5740,
+              "identifier": "3a00d15c-8459-4a72-b452-400437c3c3e9",
+              "name": "Account and Object",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Identity and Analytics\\Account and Object",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Identity%20and%20Analytics/Account%20and%20Object"
+            },
+            {
+              "id": 5741,
+              "identifier": "91fa36c1-7fe7-449e-ba0c-dffc756a9054",
+              "name": "Risk Analysis",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Identity and Analytics\\Risk Analysis",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Identity%20and%20Analytics/Risk%20Analysis"
+            },
+            {
+              "id": 5742,
+              "identifier": "3b9f5edd-153d-433e-a6be-db55d90d3532",
+              "name": "Feedback and Suggested Actions",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Identity and Analytics\\Feedback and Suggested Actions",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Identity%20and%20Analytics/Feedback%20and%20Suggested%20Actions"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Business\\Identity and Analytics",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Identity%20and%20Analytics"
+        },
+        {
+          "id": 5747,
+          "identifier": "20e4983d-6bc0-4fdf-a907-a562ea405bca",
+          "name": "Enterprise Reach",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5722,
+              "identifier": "7eae7b35-412e-4e26-a451-5104fcd8b008",
+              "name": "Microsoft Platform and Application Support",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Enterprise Reach\\Microsoft Platform and Application Support",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Enterprise%20Reach/Microsoft%20Platform%20and%20Application%20Support"
+            },
+            {
+              "id": 5723,
+              "identifier": "4b5ed3e5-a772-4e41-a8ae-8401f3c90d4d",
+              "name": "UI and Usability",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Enterprise Reach\\UI and Usability",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Enterprise%20Reach/UI%20and%20Usability"
+            },
+            {
+              "id": 5724,
+              "identifier": "71767523-21ce-4de1-86ad-c43246c43e5d",
+              "name": "Security and Operations",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Enterprise Reach\\Security and Operations",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Enterprise%20Reach/Security%20and%20Operations"
+            },
+            {
+              "id": 6441,
+              "identifier": "ce368222-f35f-4fb9-8eef-4d916dff2b4f",
+              "name": "BUD Team1",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Enterprise Reach\\BUD Team1",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Enterprise%20Reach/BUD%20Team1"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Business\\Enterprise Reach",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Enterprise%20Reach"
+        },
+        {
+          "id": 5748,
+          "identifier": "214de742-fbb5-405b-b0ea-74437a49e6a1",
+          "name": "Interface and Integration",
+          "structureType": "area",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 5736,
+              "identifier": "437dfd88-2457-45d0-9249-1b962306a09d",
+              "name": "ARS REST Interface",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Interface and Integration\\ARS REST Interface",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Interface%20and%20Integration/ARS%20REST%20Interface"
+            },
+            {
+              "id": 5737,
+              "identifier": "d0abd1bd-e990-4f55-bd0e-1f192d41bf5c",
+              "name": "Open Standard API Support",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Interface and Integration\\Open Standard API Support",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Interface%20and%20Integration/Open%20Standard%20API%20Support"
+            },
+            {
+              "id": 5738,
+              "identifier": "31b100ee-54a1-4d18-ac76-e840aaadac70",
+              "name": "OI Portfolio Integration",
+              "structureType": "area",
+              "hasChildren": false,
+              "path": "\\Active Roles\\Area\\Business\\Interface and Integration\\OI Portfolio Integration",
+              "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Interface%20and%20Integration/OI%20Portfolio%20Integration"
+            }
+          ],
+          "path": "\\Active Roles\\Area\\Business\\Interface and Integration",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Interface%20and%20Integration"
+        },
+        {
+          "id": 5750,
+          "identifier": "741ecc54-6c45-4195-a309-ff9b3449ec68",
+          "name": "Documentation",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\Business\\Documentation",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business/Documentation"
+        }
+      ],
+      "path": "\\Active Roles\\Area\\Business",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Business"
+    },
+    {
+      "id": 5729,
+      "identifier": "ee790b10-a17a-43a4-af8c-ca98ba8e3983",
+      "name": "Engineering",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\Engineering",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Engineering"
+    },
+    {
+      "id": 6375,
+      "identifier": "a5dad3e6-f72e-4d95-be26-6f15bb080307",
+      "name": "Escalation",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\Escalation",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Escalation"
+    },
+    {
+      "id": 6553,
+      "identifier": "5d5e617e-9d24-433d-9d56-768f344edf38",
+      "name": "Improvement Ideas",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\Improvement Ideas",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Improvement%20Ideas"
+    },
+    {
+      "id": 6580,
+      "identifier": "a1fab92b-da91-4f7d-85de-a977df56251f",
+      "name": "UX-Migrated",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\UX-Migrated",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/UX-Migrated"
+    },
+    {
+      "id": 6818,
+      "identifier": "7cd1bb7d-edd3-48e4-b8f9-b445369b3af1",
+      "name": "Migrated",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\Migrated",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/Migrated"
+    },
+    {
+      "id": 9203,
+      "identifier": "6cf35102-8607-432d-bd00-e53e32bec9a7",
+      "name": "ArchitectureBoard",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\ArchitectureBoard",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/ArchitectureBoard"
+    },
+    {
+      "id": 12638,
+      "identifier": "651418f2-ba35-41cc-9351-ac8f6a4c94b9",
+      "name": "TeamDynamicGroups",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\TeamDynamicGroups",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/TeamDynamicGroups"
+    },
+    {
+      "id": 12639,
+      "identifier": "0c09afb2-895e-425f-8d13-336340538ade",
+      "name": "TeamIntegration",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\TeamIntegration",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/TeamIntegration"
+    },
+    {
+      "id": 12640,
+      "identifier": "d7f9abcc-24b4-4139-b729-e21439383e20",
+      "name": "TeamInterface",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Active Roles\\Area\\TeamInterface",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/TeamInterface"
+    },
+    {
+      "id": 12641,
+      "identifier": "6e98702d-2da0-4fd3-99f8-806a0ec2d1bc",
+      "name": "RnD",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 6815,
+          "identifier": "bcd9f312-035d-46a0-8dcf-79a168c25240",
+          "name": "BUD Escalation",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\RnD\\BUD Escalation",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/RnD/BUD%20Escalation"
+        },
+        {
+          "id": 12642,
+          "identifier": "cc3dd70c-3c7e-41ab-9ee4-c142ec7dddc7",
+          "name": "Team1",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\RnD\\Team1",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/RnD/Team1"
+        },
+        {
+          "id": 12643,
+          "identifier": "e1c37137-f4f4-4ecf-bed0-1828a613356e",
+          "name": "Team2",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Active Roles\\Area\\RnD\\Team2",
+          "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/RnD/Team2"
+        }
+      ],
+      "path": "\\Active Roles\\Area\\RnD",
+      "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas/RnD"
+    }
+  ],
+  "path": "\\Active Roles\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Areas"
+}

@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "bf6053c1-38ad-4c38-aef5-dd6c568ea934",
+    "name": "DBO",
+    "path": "",
+    "url": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "b53573a3-8459-41ae-a08e-f9856efcfb96",
+    "name": "Sprint 1",
+    "path": "\\Sprint 1",
+    "url": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/_apis/wit/classificationNodes/Iterations/Sprint%201"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/9c8f614b-3f6e-4c39-a19a-701de5c67202/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/9c8f614b-3f6e-4c39-a19a-701de5c67202/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/4d2226bd-8990-4c1a-980b-c25eb4dad5b2"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/teams/9c8f614b-3f6e-4c39-a19a-701de5c67202"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/9c8f614b-3f6e-4c39-a19a-701de5c67202/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/9c8f614b-3f6e-4c39-a19a-701de5c67202/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/4d2226bd-8990-4c1a-980b-c25eb4dad5b2/_apis/wit/classificationNodes/Iterations/Sprint%201"
+      }
+    ]
+  }
+}

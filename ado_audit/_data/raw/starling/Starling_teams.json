@@ -1,0 +1,209 @@
+[
+  {
+    "id": "5b19558d-e941-44ab-b16b-27e2c3c2a83b",
+    "name": "zSafeguard Remote Access Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/5b19558d-e941-44ab-b16b-27e2c3c2a83b",
+    "description": "Deprecated. Use OID board: https://dev.azure.com/1id/OID/_boards/board/t/SG-SGOD/Stories",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/5b19558d-e941-44ab-b16b-27e2c3c2a83b",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "86b15dd5-f5cd-4c02-8a58-3473932b538f",
+    "name": "zSGOD QA",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/86b15dd5-f5cd-4c02-8a58-3473932b538f",
+    "description": "Deprecated. Use OID board: https://dev.azure.com/1id/OID/_boards/board/t/SG-SGOD/Stories",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/86b15dd5-f5cd-4c02-8a58-3473932b538f",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "7d0eb151-14f4-4ab0-9db4-b785ee70ba0a",
+    "name": "Product Management",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/7d0eb151-14f4-4ab0-9db4-b785ee70ba0a",
+    "description": "Management of the Starling-wide feature backlog",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/7d0eb151-14f4-4ab0-9db4-b785ee70ba0a",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "bf0885ba-dd19-4c18-ab74-1118ff449187",
+    "name": "TechComm Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/bf0885ba-dd19-4c18-ab74-1118ff449187",
+    "description": "Cross-service documentation work",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/bf0885ba-dd19-4c18-ab74-1118ff449187",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "570efcc3-7c23-4a94-9313-9d19e94ec4c0",
+    "name": "Identity Essentials",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/570efcc3-7c23-4a94-9313-9d19e94ec4c0",
+    "description": "Development of the Identity Essentials product.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/570efcc3-7c23-4a94-9313-9d19e94ec4c0",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "82ef1f12-9308-41f9-a2d4-609cd0ee510d",
+    "name": "zFiber",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/82ef1f12-9308-41f9-a2d4-609cd0ee510d",
+    "description": "Deprecated. Use OID board: https://dev.azure.com/1id/OID/_boards/board/t/Management%20Plane/Stories",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/82ef1f12-9308-41f9-a2d4-609cd0ee510d",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1",
+    "name": "zManagement Plane",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1",
+    "description": "Deprecated. Use OID board: https://dev.azure.com/1id/OID/_boards/board/t/Management%20Plane/Stories",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "57c7769a-7e35-4950-b96e-b45903bf2b4d",
+    "name": "PAM",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/57c7769a-7e35-4950-b96e-b45903bf2b4d",
+    "description": "PAM team",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/57c7769a-7e35-4950-b96e-b45903bf2b4d",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "9752be10-4e5a-4119-9fa1-7b33b7297408",
+    "name": "PAM Essentials Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/9752be10-4e5a-4119-9fa1-7b33b7297408",
+    "description": "Development of the PAM Essentials product",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/9752be10-4e5a-4119-9fa1-7b33b7297408",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "3ed2cc22-14a9-4601-afea-3e8ce2469ef5",
+    "name": "IMOD Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/3ed2cc22-14a9-4601-afea-3e8ce2469ef5",
+    "description": "Development of Starling IMOD and IMODSE",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/3ed2cc22-14a9-4601-afea-3e8ce2469ef5",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "e6805d83-779e-471d-9894-61ba95508eec",
+    "name": "zDirectory",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/e6805d83-779e-471d-9894-61ba95508eec",
+    "description": "Deprecated. Use OID board: https://dev.azure.com/1id/OID/_boards/board/t/Management%20Plane/Stories",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/e6805d83-779e-471d-9894-61ba95508eec",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "95b8b768-4e9e-4e56-86f8-a965fe0f7acc",
+    "name": "Platform Engineering Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/95b8b768-4e9e-4e56-86f8-a965fe0f7acc",
+    "description": "Platform Engineering",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/95b8b768-4e9e-4e56-86f8-a965fe0f7acc",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "045ad6e7-b10a-4be9-bcb8-ac973f2422aa",
+    "name": "Connect Connectors Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/045ad6e7-b10a-4be9-bcb8-ac973f2422aa",
+    "description": "Development of Connect connectors",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/045ad6e7-b10a-4be9-bcb8-ac973f2422aa",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "93c9433d-e5ff-4072-9d3f-b68a6e8c0350",
+    "name": "Connect for Safeguard Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/93c9433d-e5ff-4072-9d3f-b68a6e8c0350",
+    "description": "Implementation of the IAM protocol in Starling Connect connectors for Safeguard.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/93c9433d-e5ff-4072-9d3f-b68a6e8c0350",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "c319feb8-9916-4804-87ca-f78003e6a9f7",
+    "name": "UI Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/c319feb8-9916-4804-87ca-f78003e6a9f7",
+    "description": "Cross-service UI work",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/c319feb8-9916-4804-87ca-f78003e6a9f7",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "b7bbc46c-1046-4ed5-a6fe-5472dbef5a74",
+    "name": "Security Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/b7bbc46c-1046-4ed5-a6fe-5472dbef5a74",
+    "description": "Security team",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/b7bbc46c-1046-4ed5-a6fe-5472dbef5a74",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "a607cb41-916d-4f83-b90a-6732284ebeca",
+    "name": "AI team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/a607cb41-916d-4f83-b90a-6732284ebeca",
+    "description": "AI team board",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/a607cb41-916d-4f83-b90a-6732284ebeca",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "88125c1d-2244-44c3-819e-34d98bfdcc37",
+    "name": "Privilege Manager Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/88125c1d-2244-44c3-819e-34d98bfdcc37",
+    "description": "Team working on the cloud version of Safeguard Privilege Manager for Windows",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/88125c1d-2244-44c3-819e-34d98bfdcc37",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "ad81b02b-5cd6-495f-ad2e-a246dde2f8f0",
+    "name": "On Demand Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0",
+    "description": "Oversight of all On Demand (FastSaaS) initiatives.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/ad81b02b-5cd6-495f-ad2e-a246dde2f8f0",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "d5500d2e-9525-44a4-b211-c87087d7517e",
+    "name": "Aha Triage Area",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/d5500d2e-9525-44a4-b211-c87087d7517e",
+    "description": "This team exists solely for the board which is used as a landing zone for work items from the AHA &gt; ADO integration",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/d5500d2e-9525-44a4-b211-c87087d7517e",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "d051a72c-60c6-48b7-8247-894cb6b0dd6c",
+    "name": "zCyclops",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/d051a72c-60c6-48b7-8247-894cb6b0dd6c",
+    "description": "Deprecated. Use OID board: https://dev.azure.com/1id/OID/_boards/board/t/Management%20Plane/Stories",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/d051a72c-60c6-48b7-8247-894cb6b0dd6c",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "dbd8a0a3-127e-41cf-b1ab-6df0a8c02863",
+    "name": "zSGOD Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/dbd8a0a3-127e-41cf-b1ab-6df0a8c02863",
+    "description": "Deprecated. Use OID board: https://dev.azure.com/1id/OID/_boards/board/t/SG-SGOD/Stories",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/dbd8a0a3-127e-41cf-b1ab-6df0a8c02863",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  },
+  {
+    "id": "c9f8a05e-997a-4723-8a76-fd88012814c0",
+    "name": "Platform Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/c9f8a05e-997a-4723-8a76-fd88012814c0",
+    "description": "Development of core Starling Platform services",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/c9f8a05e-997a-4723-8a76-fd88012814c0",
+    "projectName": "Starling",
+    "projectId": "0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+  }
+]

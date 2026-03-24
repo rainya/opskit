@@ -1,0 +1,5 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,9c8f614b-3f6e-4c39-a19a-701de5c67202,DBO Team,Microsoft.EpicCategory,Epics,4,1000
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,9c8f614b-3f6e-4c39-a19a-701de5c67202,DBO Team,Microsoft.FeatureCategory,Features,3,1000
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,9c8f614b-3f6e-4c39-a19a-701de5c67202,DBO Team,Microsoft.RequirementCategory,Backlog items,2,1000
+4d2226bd-8990-4c1a-980b-c25eb4dad5b2,DBO,9c8f614b-3f6e-4c39-a19a-701de5c67202,DBO Team,Microsoft.TaskCategory,Tasks,1,1000

@@ -1,0 +1,10 @@
+{
+  "id": "a4c3e342-aef6-43ce-930a-fdf688dd1ed6",
+  "name": "OID",
+  "description": "This Azure DevOps project serves as the unified work management platform for One Identity engineering teams, consolidating planning, development, and delivery workflows previously distributed across multiple projects and tools. It provides a standardized yet flexible structure for managing features, user stories, bugs, and operational work across all product lines, creating a foundation for scalable, cross-team collaboration, integrated reporting, and traceability from idea to release.",
+  "url": "https://dev.azure.com/1id/_apis/projects/a4c3e342-aef6-43ce-930a-fdf688dd1ed6",
+  "state": "wellFormed",
+  "revision": 18421,
+  "visibility": "private",
+  "lastUpdateTime": "2026-02-25T20:14:11.54Z"
+}

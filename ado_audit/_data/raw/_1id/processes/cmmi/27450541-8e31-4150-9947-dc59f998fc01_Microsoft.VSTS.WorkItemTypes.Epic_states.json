@@ -1,0 +1,38 @@
+[
+  {
+    "id": "51e0743d-fc62-4297-a7ad-0dd2b229a3c2",
+    "name": "Proposed",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Epic/states/51e0743d-fc62-4297-a7ad-0dd2b229a3c2",
+    "customizationType": "system"
+  },
+  {
+    "id": "277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "name": "Active",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Epic/states/277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "customizationType": "system"
+  },
+  {
+    "id": "f36cfea7-889a-448e-b5d1-fbc9b134ec82",
+    "name": "Resolved",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Epic/states/f36cfea7-889a-448e-b5d1-fbc9b134ec82",
+    "customizationType": "system"
+  },
+  {
+    "id": "9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "name": "Closed",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/27450541-8e31-4150-9947-dc59f998fc01/workItemTypes/Microsoft.VSTS.WorkItemTypes.Epic/states/9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "customizationType": "system"
+  }
+]

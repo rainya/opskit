@@ -1,0 +1,6 @@
+Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Initiatives,Portfolio,Initiative,Initiative,1000
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Epics,Portfolio,Epic,Epic,1000
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Features,Portfolio,Feature,Feature,1000
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Backlog items,Requirement,Product Backlog Item,Product Backlog Item,1000
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Tasks,Task,Task,Task,1000

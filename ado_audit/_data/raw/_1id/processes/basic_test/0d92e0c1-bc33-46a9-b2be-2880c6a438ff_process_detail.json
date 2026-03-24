@@ -1,0 +1,10 @@
+{
+  "typeId": "0d92e0c1-bc33-46a9-b2be-2880c6a438ff",
+  "name": "basic test",
+  "referenceName": "Inherited.0d92e0c1bc3346a9b2be2880c6a438ff",
+  "description": "",
+  "parentProcessTypeId": "b8a3a935-7e91-48b8-a94c-606d37c3e9f2",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

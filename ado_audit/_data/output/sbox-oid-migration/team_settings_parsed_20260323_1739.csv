@@ -1,0 +1,6 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,070816b1-4fea-4679-a7e5-9ce481c1f4eb,Default Project Team,asTasks,With Tasks,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,True,True,True,True
+91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,0e767808-5f6e-4193-8f3b-1c8e28f5c30d,Management Plane,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,True,True,True,True
+91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,344b1185-d515-41ba-a7c4-cbb91504debf,SG-SGOD,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,True,True,True,True
+91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,4b579a5c-fa09-4d24-b43d-97953373ff00,SG-SPP,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,True,True,True,True
+91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,556afd04-ead5-46dd-aed3-5714b98f4c37,UX,asTasks,With Tasks,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,True,True,True,True

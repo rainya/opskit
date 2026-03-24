@@ -1,0 +1,6 @@
+Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Initiatives,Portfolio,Initiative,Initiative,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Epics,Portfolio,Epic,Epic,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Features,Portfolio,Feature,Feature,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Backlog items,Requirement,Product Backlog Item,Product Backlog Item,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,Tasks,Task,Task,Task,1000

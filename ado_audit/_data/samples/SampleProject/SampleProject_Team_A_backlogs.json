@@ -1,0 +1,7 @@
+{
+  "value": [
+    {"id": "bl1", "name": "Epics", "rank": 3, "workItemCountLimit": 1000},
+    {"id": "bl2", "name": "Features", "rank": 2, "workItemCountLimit": 500},
+    {"id": "bl3", "name": "Stories", "rank": 1, "workItemCountLimit": 500}
+  ]
+}

@@ -1,0 +1,11 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,309a4d62-7557-4ecf-b955-f432f88297ac,Capacity Testing Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,309a4d62-7557-4ecf-b955-f432f88297ac,Capacity Testing Team,Microsoft.EpicCategory,Epics,4,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,309a4d62-7557-4ecf-b955-f432f88297ac,Capacity Testing Team,Microsoft.FeatureCategory,Features,3,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,309a4d62-7557-4ecf-b955-f432f88297ac,Capacity Testing Team,Microsoft.RequirementCategory,Backlog items,2,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,309a4d62-7557-4ecf-b955-f432f88297ac,Capacity Testing Team,Microsoft.TaskCategory,Tasks,1,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,6d1242fb-db58-4f9c-9d47-02b999543e48,Identity Manager Testing,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,6d1242fb-db58-4f9c-9d47-02b999543e48,Identity Manager Testing,Microsoft.EpicCategory,Epics,4,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,6d1242fb-db58-4f9c-9d47-02b999543e48,Identity Manager Testing,Microsoft.FeatureCategory,Features,3,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,6d1242fb-db58-4f9c-9d47-02b999543e48,Identity Manager Testing,Microsoft.RequirementCategory,Backlog items,2,1000
+bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,6d1242fb-db58-4f9c-9d47-02b999543e48,Identity Manager Testing,Microsoft.TaskCategory,Tasks,1,1000

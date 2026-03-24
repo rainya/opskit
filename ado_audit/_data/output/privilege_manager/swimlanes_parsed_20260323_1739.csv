@@ -1,0 +1,9 @@
+Project ID,Project Name,Team ID,Team Name,Board ID,Board Name,Row ID,Row Name,Row Order,Is Default
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,,Privilege_Manager_Team_Backlog,6f908c89-e19a-4938-a342-a260574d1912,Backlog items,00000000-0000-0000-0000-000000000000,Development,1,True
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,,Privilege_Manager_Team_Backlog,6f908c89-e19a-4938-a342-a260574d1912,Backlog items,f2aad112-f19c-4cb6-b1f1-21ce2580d78a,Technical Writing,2,False
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,4ef91d7b-7439-4185-9887-753f68eec5e8,Privilege Manager Team,23c00a36-0cad-45a5-87d4-d92e679d8c10,Epics,00000000-0000-0000-0000-000000000000,,1,True
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,4ef91d7b-7439-4185-9887-753f68eec5e8,Privilege Manager Team,83ccdadc-7d83-49ab-be50-405d5405ed35,Features,00000000-0000-0000-0000-000000000000,Active,1,True
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,4ef91d7b-7439-4185-9887-753f68eec5e8,Privilege Manager Team,83ccdadc-7d83-49ab-be50-405d5405ed35,Features,2136cd23-966d-4e62-a62b-1c5fcb4a4c33,To Do,2,False
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,,Technical_Writers_Backlog,96d397e0-3a83-4d5a-8f96-83bd63f09a13,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,216ca0c7-64cb-43c2-8e50-01e65a4ec9d2,Technical Writers,01d89733-7d26-4440-9a67-250d072430cf,Epics,00000000-0000-0000-0000-000000000000,,1,True
+d7842b0c-84f2-49a0-a442-c9738633e80e,Privilege Manager,216ca0c7-64cb-43c2-8e50-01e65a4ec9d2,Technical Writers,fb602cbb-65bf-4f1b-91bf-2f1556c3bc61,Features,00000000-0000-0000-0000-000000000000,,1,True

@@ -1,0 +1,116 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d5500d2e-9525-44a4-b211-c87087d7517e,Aha Triage Area,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d5500d2e-9525-44a4-b211-c87087d7517e,Aha Triage Area,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d5500d2e-9525-44a4-b211-c87087d7517e,Aha Triage Area,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d5500d2e-9525-44a4-b211-c87087d7517e,Aha Triage Area,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d5500d2e-9525-44a4-b211-c87087d7517e,Aha Triage Area,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,a607cb41-916d-4f83-b90a-6732284ebeca,AI team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,a607cb41-916d-4f83-b90a-6732284ebeca,AI team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,a607cb41-916d-4f83-b90a-6732284ebeca,AI team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,a607cb41-916d-4f83-b90a-6732284ebeca,AI team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,a607cb41-916d-4f83-b90a-6732284ebeca,AI team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,045ad6e7-b10a-4be9-bcb8-ac973f2422aa,Connect Connectors Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,045ad6e7-b10a-4be9-bcb8-ac973f2422aa,Connect Connectors Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,045ad6e7-b10a-4be9-bcb8-ac973f2422aa,Connect Connectors Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,045ad6e7-b10a-4be9-bcb8-ac973f2422aa,Connect Connectors Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,045ad6e7-b10a-4be9-bcb8-ac973f2422aa,Connect Connectors Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,93c9433d-e5ff-4072-9d3f-b68a6e8c0350,Connect for Safeguard Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,93c9433d-e5ff-4072-9d3f-b68a6e8c0350,Connect for Safeguard Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,93c9433d-e5ff-4072-9d3f-b68a6e8c0350,Connect for Safeguard Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,93c9433d-e5ff-4072-9d3f-b68a6e8c0350,Connect for Safeguard Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,93c9433d-e5ff-4072-9d3f-b68a6e8c0350,Connect for Safeguard Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,570efcc3-7c23-4a94-9313-9d19e94ec4c0,Identity Essentials,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,570efcc3-7c23-4a94-9313-9d19e94ec4c0,Identity Essentials,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,570efcc3-7c23-4a94-9313-9d19e94ec4c0,Identity Essentials,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,570efcc3-7c23-4a94-9313-9d19e94ec4c0,Identity Essentials,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,570efcc3-7c23-4a94-9313-9d19e94ec4c0,Identity Essentials,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,3ed2cc22-14a9-4601-afea-3e8ce2469ef5,IMOD Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,3ed2cc22-14a9-4601-afea-3e8ce2469ef5,IMOD Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,3ed2cc22-14a9-4601-afea-3e8ce2469ef5,IMOD Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,3ed2cc22-14a9-4601-afea-3e8ce2469ef5,IMOD Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,3ed2cc22-14a9-4601-afea-3e8ce2469ef5,IMOD Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,ad81b02b-5cd6-495f-ad2e-a246dde2f8f0,On Demand Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,ad81b02b-5cd6-495f-ad2e-a246dde2f8f0,On Demand Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,ad81b02b-5cd6-495f-ad2e-a246dde2f8f0,On Demand Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,ad81b02b-5cd6-495f-ad2e-a246dde2f8f0,On Demand Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,ad81b02b-5cd6-495f-ad2e-a246dde2f8f0,On Demand Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,57c7769a-7e35-4950-b96e-b45903bf2b4d,PAM,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,57c7769a-7e35-4950-b96e-b45903bf2b4d,PAM,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,57c7769a-7e35-4950-b96e-b45903bf2b4d,PAM,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,57c7769a-7e35-4950-b96e-b45903bf2b4d,PAM,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,57c7769a-7e35-4950-b96e-b45903bf2b4d,PAM,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,9752be10-4e5a-4119-9fa1-7b33b7297408,PAM Essentials Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,9752be10-4e5a-4119-9fa1-7b33b7297408,PAM Essentials Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,9752be10-4e5a-4119-9fa1-7b33b7297408,PAM Essentials Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,9752be10-4e5a-4119-9fa1-7b33b7297408,PAM Essentials Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,9752be10-4e5a-4119-9fa1-7b33b7297408,PAM Essentials Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,95b8b768-4e9e-4e56-86f8-a965fe0f7acc,Platform Engineering Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,95b8b768-4e9e-4e56-86f8-a965fe0f7acc,Platform Engineering Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,95b8b768-4e9e-4e56-86f8-a965fe0f7acc,Platform Engineering Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,95b8b768-4e9e-4e56-86f8-a965fe0f7acc,Platform Engineering Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,95b8b768-4e9e-4e56-86f8-a965fe0f7acc,Platform Engineering Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c9f8a05e-997a-4723-8a76-fd88012814c0,Platform Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c9f8a05e-997a-4723-8a76-fd88012814c0,Platform Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c9f8a05e-997a-4723-8a76-fd88012814c0,Platform Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c9f8a05e-997a-4723-8a76-fd88012814c0,Platform Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c9f8a05e-997a-4723-8a76-fd88012814c0,Platform Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,88125c1d-2244-44c3-819e-34d98bfdcc37,Privilege Manager Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,88125c1d-2244-44c3-819e-34d98bfdcc37,Privilege Manager Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,88125c1d-2244-44c3-819e-34d98bfdcc37,Privilege Manager Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,88125c1d-2244-44c3-819e-34d98bfdcc37,Privilege Manager Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,88125c1d-2244-44c3-819e-34d98bfdcc37,Privilege Manager Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,7d0eb151-14f4-4ab0-9db4-b785ee70ba0a,Product Management,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,7d0eb151-14f4-4ab0-9db4-b785ee70ba0a,Product Management,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,7d0eb151-14f4-4ab0-9db4-b785ee70ba0a,Product Management,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,7d0eb151-14f4-4ab0-9db4-b785ee70ba0a,Product Management,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,7d0eb151-14f4-4ab0-9db4-b785ee70ba0a,Product Management,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b7bbc46c-1046-4ed5-a6fe-5472dbef5a74,Security Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b7bbc46c-1046-4ed5-a6fe-5472dbef5a74,Security Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b7bbc46c-1046-4ed5-a6fe-5472dbef5a74,Security Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b7bbc46c-1046-4ed5-a6fe-5472dbef5a74,Security Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b7bbc46c-1046-4ed5-a6fe-5472dbef5a74,Security Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,bf0885ba-dd19-4c18-ab74-1118ff449187,TechComm Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,bf0885ba-dd19-4c18-ab74-1118ff449187,TechComm Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,bf0885ba-dd19-4c18-ab74-1118ff449187,TechComm Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,bf0885ba-dd19-4c18-ab74-1118ff449187,TechComm Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,bf0885ba-dd19-4c18-ab74-1118ff449187,TechComm Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c319feb8-9916-4804-87ca-f78003e6a9f7,UI Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c319feb8-9916-4804-87ca-f78003e6a9f7,UI Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c319feb8-9916-4804-87ca-f78003e6a9f7,UI Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c319feb8-9916-4804-87ca-f78003e6a9f7,UI Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,c319feb8-9916-4804-87ca-f78003e6a9f7,UI Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d051a72c-60c6-48b7-8247-894cb6b0dd6c,zCyclops,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d051a72c-60c6-48b7-8247-894cb6b0dd6c,zCyclops,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d051a72c-60c6-48b7-8247-894cb6b0dd6c,zCyclops,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d051a72c-60c6-48b7-8247-894cb6b0dd6c,zCyclops,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,d051a72c-60c6-48b7-8247-894cb6b0dd6c,zCyclops,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,e6805d83-779e-471d-9894-61ba95508eec,zDirectory,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,e6805d83-779e-471d-9894-61ba95508eec,zDirectory,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,e6805d83-779e-471d-9894-61ba95508eec,zDirectory,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,e6805d83-779e-471d-9894-61ba95508eec,zDirectory,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,e6805d83-779e-471d-9894-61ba95508eec,zDirectory,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,82ef1f12-9308-41f9-a2d4-609cd0ee510d,zFiber,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,82ef1f12-9308-41f9-a2d4-609cd0ee510d,zFiber,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,82ef1f12-9308-41f9-a2d4-609cd0ee510d,zFiber,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,82ef1f12-9308-41f9-a2d4-609cd0ee510d,zFiber,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,82ef1f12-9308-41f9-a2d4-609cd0ee510d,zFiber,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1,zManagement Plane,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1,zManagement Plane,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1,zManagement Plane,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1,zManagement Plane,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,b17e8794-b8ea-494e-bb9a-3bfdb74dd2c1,zManagement Plane,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,5b19558d-e941-44ab-b16b-27e2c3c2a83b,zSafeguard Remote Access Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,5b19558d-e941-44ab-b16b-27e2c3c2a83b,zSafeguard Remote Access Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,5b19558d-e941-44ab-b16b-27e2c3c2a83b,zSafeguard Remote Access Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,5b19558d-e941-44ab-b16b-27e2c3c2a83b,zSafeguard Remote Access Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,5b19558d-e941-44ab-b16b-27e2c3c2a83b,zSafeguard Remote Access Team,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,86b15dd5-f5cd-4c02-8a58-3473932b538f,zSGOD QA,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,86b15dd5-f5cd-4c02-8a58-3473932b538f,zSGOD QA,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,86b15dd5-f5cd-4c02-8a58-3473932b538f,zSGOD QA,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,86b15dd5-f5cd-4c02-8a58-3473932b538f,zSGOD QA,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,86b15dd5-f5cd-4c02-8a58-3473932b538f,zSGOD QA,Microsoft.TaskCategory,Tasks,1,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,dbd8a0a3-127e-41cf-b1ab-6df0a8c02863,zSGOD Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,dbd8a0a3-127e-41cf-b1ab-6df0a8c02863,zSGOD Team,Microsoft.EpicCategory,Epics,4,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,dbd8a0a3-127e-41cf-b1ab-6df0a8c02863,zSGOD Team,Microsoft.FeatureCategory,Features,3,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,dbd8a0a3-127e-41cf-b1ab-6df0a8c02863,zSGOD Team,Microsoft.RequirementCategory,Backlog items,2,1000
+0dc08af7-d2d0-4a86-b50c-0114295cfdea,Starling,dbd8a0a3-127e-41cf-b1ab-6df0a8c02863,zSGOD Team,Microsoft.TaskCategory,Tasks,1,1000

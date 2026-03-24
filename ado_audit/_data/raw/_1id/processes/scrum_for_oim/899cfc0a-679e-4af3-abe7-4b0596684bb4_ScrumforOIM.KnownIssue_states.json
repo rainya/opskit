@@ -1,0 +1,29 @@
+[
+  {
+    "id": "897a42d7-abf9-401d-8fe3-0a3ce5c5a1a5",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/899cfc0a-679e-4af3-abe7-4b0596684bb4/workItemTypes/ScrumforOIM.KnownIssue/states/897a42d7-abf9-401d-8fe3-0a3ce5c5a1a5",
+    "customizationType": "custom"
+  },
+  {
+    "id": "cb377c67-211b-4967-8283-1e036e28b861",
+    "name": "Committed",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/899cfc0a-679e-4af3-abe7-4b0596684bb4/workItemTypes/ScrumforOIM.KnownIssue/states/cb377c67-211b-4967-8283-1e036e28b861",
+    "customizationType": "custom"
+  },
+  {
+    "id": "a9ce5a04-8767-464a-860e-0a97b79f04ce",
+    "name": "Done",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/899cfc0a-679e-4af3-abe7-4b0596684bb4/workItemTypes/ScrumforOIM.KnownIssue/states/a9ce5a04-8767-464a-860e-0a97b79f04ce",
+    "customizationType": "custom"
+  }
+]

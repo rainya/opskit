@@ -1,0 +1,83 @@
+[
+  {
+    "id": "a913beb1-b6e7-479e-b639-becce1d94d52",
+    "name": "SecureGateway",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/a913beb1-b6e7-479e-b639-becce1d94d52",
+    "description": "Maintainers and collaborators for One Identity's Secure Gateway project",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/a913beb1-b6e7-479e-b639-becce1d94d52",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "727f6255-7a14-479a-bfdc-1221b4b5384e",
+    "name": "UX",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/727f6255-7a14-479a-bfdc-1221b4b5384e",
+    "description": "The UX Team",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/727f6255-7a14-479a-bfdc-1221b4b5384e",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "07964a1b-31d4-4015-90e4-cf8fa3f57b9c",
+    "name": "Common Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/07964a1b-31d4-4015-90e4-cf8fa3f57b9c",
+    "description": "The default project team.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/07964a1b-31d4-4015-90e4-cf8fa3f57b9c",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "d5d0400e-9b67-4b73-8efe-4dddeba3f8a2",
+    "name": "rSTS",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/d5d0400e-9b67-4b73-8efe-4dddeba3f8a2",
+    "description": "Redistributable Secure Token Service development team",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/d5d0400e-9b67-4b73-8efe-4dddeba3f8a2",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "cea55d1e-8235-42be-9f92-92f397f93d27",
+    "name": "UI",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/cea55d1e-8235-42be-9f92-92f397f93d27",
+    "description": "Team that develops common UI components",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/cea55d1e-8235-42be-9f92-92f397f93d27",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "47ba1913-ad31-49ad-b656-6b8f339330f1",
+    "name": "Hercules",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/47ba1913-ad31-49ad-b656-6b8f339330f1",
+    "description": "rSMS development team",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/47ba1913-ad31-49ad-b656-6b8f339330f1",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "ea6989e7-e780-4202-b89d-df81d7ee27d7",
+    "name": "UX Illustrations",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/ea6989e7-e780-4202-b89d-df81d7ee27d7",
+    "description": "Team that handles UX Illustration requests.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/ea6989e7-e780-4202-b89d-df81d7ee27d7",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "56b26a90-6e20-4dc3-af33-d6e29a627155",
+    "name": "Containers Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/56b26a90-6e20-4dc3-af33-d6e29a627155",
+    "description": "Workplace to work on common containerization initiatives.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/56b26a90-6e20-4dc3-af33-d6e29a627155",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  },
+  {
+    "id": "9833386d-6b02-4e2c-b78b-966e63694b0e",
+    "name": "Build Tools",
+    "url": "https://dev.azure.com/1id/_apis/projects/bd267a71-a93f-425c-bf32-2d7688de90d3/teams/9833386d-6b02-4e2c-b78b-966e63694b0e",
+    "description": "Virtual team that work on common build tools that improves product build experience.",
+    "identityUrl": "https://spsprodeus21.vssps.visualstudio.com/A4b4b6329-eef3-4a5b-b970-2734a42a41cd/_apis/Identities/9833386d-6b02-4e2c-b78b-966e63694b0e",
+    "projectName": "Common",
+    "projectId": "bd267a71-a93f-425c-bf32-2d7688de90d3"
+  }
+]

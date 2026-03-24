@@ -1,0 +1,5 @@
+[
+  {"name": "New", "stateCategory": "Proposed", "customizationType": "system"},
+  {"name": "Active", "stateCategory": "InProgress", "customizationType": "system"},
+  {"name": "Closed", "stateCategory": "Completed", "customizationType": "system"}
+]

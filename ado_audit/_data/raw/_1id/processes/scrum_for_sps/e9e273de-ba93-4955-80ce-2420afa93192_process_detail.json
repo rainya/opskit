@@ -1,0 +1,10 @@
+{
+  "typeId": "e9e273de-ba93-4955-80ce-2420afa93192",
+  "name": "Scrum for SPS",
+  "referenceName": "Inherited.e9e273deba93495580ce2420afa93192",
+  "description": "Process with the customization required for SPS project",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

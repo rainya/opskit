@@ -1,0 +1,9 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,fc6906cd-50ce-4d2f-a7a0-0b2ab20d52f4,Project Matterhorn,Microsoft.EpicCategory,Epics,4,1000
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,fc6906cd-50ce-4d2f-a7a0-0b2ab20d52f4,Project Matterhorn,Microsoft.FeatureCategory,Features,3,1000
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,fc6906cd-50ce-4d2f-a7a0-0b2ab20d52f4,Project Matterhorn,Microsoft.RequirementCategory,Backlog items,2,1000
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,fc6906cd-50ce-4d2f-a7a0-0b2ab20d52f4,Project Matterhorn,Microsoft.TaskCategory,Tasks,1,1000
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,50957d69-de24-4d02-af89-d6fadf0edc94,Technical Integrations Team,Microsoft.EpicCategory,Epics,4,1000
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,50957d69-de24-4d02-af89-d6fadf0edc94,Technical Integrations Team,Microsoft.FeatureCategory,Features,3,1000
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,50957d69-de24-4d02-af89-d6fadf0edc94,Technical Integrations Team,Microsoft.RequirementCategory,Backlog items,2,1000
+253d1e83-eec3-4691-9c82-1bf5034b67ad,Technical Integrations,50957d69-de24-4d02-af89-d6fadf0edc94,Technical Integrations Team,Microsoft.TaskCategory,Tasks,1,1000

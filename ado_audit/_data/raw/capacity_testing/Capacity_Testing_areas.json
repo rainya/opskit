@@ -1,0 +1,108 @@
+{
+  "id": 413,
+  "identifier": "01d1cbae-0393-4ffa-99ab-2114373f325a",
+  "name": "Capacity Testing",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 442,
+      "identifier": "072319ec-db01-4f43-8bd0-8ec99e671c74",
+      "name": "Identity Manager",
+      "structureType": "area",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 5888,
+          "identifier": "eac4dfa3-5be7-42aa-9c77-cabd651ee1ab",
+          "name": "MigrationAndDataImportTests",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Capacity Testing\\Area\\Identity Manager\\MigrationAndDataImportTests",
+          "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager/MigrationAndDataImportTests"
+        },
+        {
+          "id": 5889,
+          "identifier": "2e2952f9-1b2f-4006-a817-d6f216b51c49",
+          "name": "ITShopTests",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Capacity Testing\\Area\\Identity Manager\\ITShopTests",
+          "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager/ITShopTests"
+        },
+        {
+          "id": 5890,
+          "identifier": "8848a71a-afd3-4f32-bdf4-2c1479370d72",
+          "name": "RolesAndEntitlementsTests",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Capacity Testing\\Area\\Identity Manager\\RolesAndEntitlementsTests",
+          "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager/RolesAndEntitlementsTests"
+        },
+        {
+          "id": 5891,
+          "identifier": "224c9449-4888-429f-bcaf-b7b964a34b54",
+          "name": "SynchronizationTests",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Capacity Testing\\Area\\Identity Manager\\SynchronizationTests",
+          "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager/SynchronizationTests"
+        },
+        {
+          "id": 5892,
+          "identifier": "be0d4c5d-3a03-4df2-9f6f-00dab57b856d",
+          "name": "WebLoadTests",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Capacity Testing\\Area\\Identity Manager\\WebLoadTests",
+          "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager/WebLoadTests"
+        },
+        {
+          "id": 5893,
+          "identifier": "b153ba41-0cbd-4cb6-8bdd-3751dd95367f",
+          "name": "Jenkins",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Capacity Testing\\Area\\Identity Manager\\Jenkins",
+          "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager/Jenkins"
+        },
+        {
+          "id": 5918,
+          "identifier": "57f488f0-4d68-401d-9623-cb288023e8b5",
+          "name": "BirthRightsTests",
+          "structureType": "area",
+          "hasChildren": false,
+          "path": "\\Capacity Testing\\Area\\Identity Manager\\BirthRightsTests",
+          "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager/BirthRightsTests"
+        }
+      ],
+      "path": "\\Capacity Testing\\Area\\Identity Manager",
+      "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Identity%20Manager"
+    },
+    {
+      "id": 2883,
+      "identifier": "cb74db99-6a8e-4125-8609-59d2acb9ccf4",
+      "name": "Password Manager",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Capacity Testing\\Area\\Password Manager",
+      "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Password%20Manager"
+    },
+    {
+      "id": 2884,
+      "identifier": "bea45b1d-a6ea-4758-9bb0-c1f5f10e1ffe",
+      "name": "Active Roles",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Capacity Testing\\Area\\Active Roles",
+      "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas/Active%20Roles"
+    }
+  ],
+  "path": "\\Capacity Testing\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/bb307e8c-0b48-431a-9793-987a51373fe2/_apis/wit/classificationNodes/Areas"
+}

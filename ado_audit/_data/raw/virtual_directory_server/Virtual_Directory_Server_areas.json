@@ -1,0 +1,79 @@
+{
+  "id": 584,
+  "identifier": "a38d0339-f852-4955-95b5-d3f5dd74b1c7",
+  "name": "Virtual Directory Server",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 585,
+      "identifier": "5e461e80-737e-4146-8e3a-d4caa539b3c7",
+      "name": "dsproxy",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Virtual Directory Server\\Area\\dsproxy",
+      "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas/dsproxy"
+    },
+    {
+      "id": 586,
+      "identifier": "352c562a-f6fc-425e-8b67-752ff063e746",
+      "name": "dsgui",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Virtual Directory Server\\Area\\dsgui",
+      "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas/dsgui"
+    },
+    {
+      "id": 587,
+      "identifier": "3d0f4c90-e914-4c66-b937-d18f9bb147ea",
+      "name": "documentation",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Virtual Directory Server\\Area\\documentation",
+      "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas/documentation"
+    },
+    {
+      "id": 588,
+      "identifier": "b08be2f8-98f7-4921-9e19-fafebe9f8104",
+      "name": "extensions",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Virtual Directory Server\\Area\\extensions",
+      "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas/extensions"
+    },
+    {
+      "id": 589,
+      "identifier": "9072fd21-cf9e-4504-ada8-f73caf13ef07",
+      "name": "general",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Virtual Directory Server\\Area\\general",
+      "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas/general"
+    },
+    {
+      "id": 590,
+      "identifier": "1b01738c-320b-464b-bf53-e21c3f8bfa44",
+      "name": "other",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Virtual Directory Server\\Area\\other",
+      "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas/other"
+    },
+    {
+      "id": 591,
+      "identifier": "4c182bc8-2d19-4749-9fef-5d8caa44b412",
+      "name": "ldapbrowser",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\Virtual Directory Server\\Area\\ldapbrowser",
+      "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas/ldapbrowser"
+    }
+  ],
+  "path": "\\Virtual Directory Server\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/50f8d0c0-98e7-4b4a-858b-57740ed84a97/_apis/wit/classificationNodes/Areas"
+}

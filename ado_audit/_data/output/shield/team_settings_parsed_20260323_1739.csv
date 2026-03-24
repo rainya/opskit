@@ -1,0 +1,2 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Future,,,True,True,False

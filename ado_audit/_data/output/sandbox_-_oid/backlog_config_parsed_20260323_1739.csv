@@ -1,0 +1,6 @@
+Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Initiatives,Portfolio,Initiative,Initiative,1000
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Epics,Portfolio,Epic,Epic,1000
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Features,Portfolio,Feature,Feature,1000
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Backlog items,Requirement,Product Backlog Item,Product Backlog Item,1000
+1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,Tasks,Task,Task,Task,1000

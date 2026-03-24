@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "0b3cf1d0-8873-4f42-babf-be5c7abc2d5e",
+    "name": "Technical Integrations",
+    "path": "",
+    "url": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "5c2d307b-1d0f-4d6b-b6c6-637bbb3ea81a",
+    "name": "Q4",
+    "path": "\\Q4",
+    "url": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/_apis/wit/classificationNodes/Iterations/Q4"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/50957d69-de24-4d02-af89-d6fadf0edc94/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/50957d69-de24-4d02-af89-d6fadf0edc94/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/253d1e83-eec3-4691-9c82-1bf5034b67ad"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/253d1e83-eec3-4691-9c82-1bf5034b67ad/teams/50957d69-de24-4d02-af89-d6fadf0edc94"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/50957d69-de24-4d02-af89-d6fadf0edc94/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/50957d69-de24-4d02-af89-d6fadf0edc94/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/253d1e83-eec3-4691-9c82-1bf5034b67ad/_apis/wit/classificationNodes/Iterations/Q4"
+      }
+    ]
+  }
+}

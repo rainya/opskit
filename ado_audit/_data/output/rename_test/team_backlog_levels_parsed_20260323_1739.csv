@@ -1,0 +1,11 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,a4827850-b501-4547-9c90-c167ac51543f,Rename Test Team,Microsoft.FeatureCategory,Features,3,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,a4827850-b501-4547-9c90-c167ac51543f,Rename Test Team,Microsoft.EpicCategory,Epics,4,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,a4827850-b501-4547-9c90-c167ac51543f,Rename Test Team,Custom.5eee85c3-0de8-4db4-a61d-a5170a57af42,Initiatives,5,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,a4827850-b501-4547-9c90-c167ac51543f,Rename Test Team,Microsoft.RequirementCategory,Stories,2,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,a4827850-b501-4547-9c90-c167ac51543f,Rename Test Team,Microsoft.TaskCategory,Tasks,1,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,be506261-e8eb-455c-888f-08bbbc2688ca,SRE,Microsoft.FeatureCategory,Features,3,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,be506261-e8eb-455c-888f-08bbbc2688ca,SRE,Microsoft.EpicCategory,Epics,4,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,be506261-e8eb-455c-888f-08bbbc2688ca,SRE,Custom.5eee85c3-0de8-4db4-a61d-a5170a57af42,Initiatives,5,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,be506261-e8eb-455c-888f-08bbbc2688ca,SRE,Microsoft.RequirementCategory,Stories,2,1000
+05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,be506261-e8eb-455c-888f-08bbbc2688ca,SRE,Microsoft.TaskCategory,Tasks,1,1000

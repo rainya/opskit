@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "d16e54bc-4376-4535-9206-2ea930648af9",
+    "name": "Log Management",
+    "path": "",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": false,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "f4e147bd-ae83-4acb-9994-32bf2312227d",
+    "name": "SSB-25.11.27",
+    "path": "\\SSB\\SSB-25Q4\\SSB-25.11.27",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/SSB/SSB-25Q4/SSB-25.11.27"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/9b448c04-af95-41e8-9809-a480c919da25/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/9b448c04-af95-41e8-9809-a480c919da25/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d/teams/9b448c04-af95-41e8-9809-a480c919da25"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/9b448c04-af95-41e8-9809-a480c919da25/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/9b448c04-af95-41e8-9809-a480c919da25/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/SSB/SSB-25Q4/SSB-25.11.27"
+      }
+    ]
+  }
+}

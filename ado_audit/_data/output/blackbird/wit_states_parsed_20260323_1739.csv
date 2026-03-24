@@ -1,0 +1,69 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Task,To Do,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Task,In Progress,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Task,Done,Completed,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Task,Removed,Removed,4
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,New,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Approved,Proposed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Committed,InProgress,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Implementing,InProgress,4
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Ready for Test,InProgress,5
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Testing on DevTest,InProgress,6
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Tested on DevTest,InProgress,7
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Tested on Stage,InProgress,8
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Done,Completed,9
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Bug,Removed,Removed,10
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Code Review Request,Requested,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Code Review Request,Closed,Completed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Code Review Response,Requested,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Code Review Response,Accepted,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Code Review Response,Closed,Completed,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Epic,New,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Epic,In Progress,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Epic,Done,Completed,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Epic,Removed,Removed,4
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,New,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,In Progress,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Prioritized,InProgress,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Grooming,InProgress,4
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Awaiting Architecture Review,InProgress,5
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Reviewed,InProgress,6
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Implementing,InProgress,7
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Completed,InProgress,8
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Done,Completed,9
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feature,Removed,Removed,10
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feedback Request,Active,InProgress,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feedback Request,Closed,Completed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feedback Request,Removed,Removed,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feedback Response,Active,InProgress,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Feedback Response,Closed,Completed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Impediment,Open,InProgress,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Impediment,Closed,Completed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,New,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Approved,Proposed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Committed,InProgress,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Implementing,InProgress,4
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Ready for Test,InProgress,5
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Testing on DevTest,InProgress,6
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Tested on DevTest,InProgress,7
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Tested on Stage,InProgress,8
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Done,Completed,9
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Product Backlog Item,Removed,Removed,10
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Shared Steps,Active,InProgress,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Shared Steps,Closed,Completed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Shared Parameter,Active,InProgress,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Shared Parameter,Inactive,Completed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Case,Design,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Case,Ready,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Case,Closed,Completed,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Plan,Active,InProgress,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Plan,Inactive,Completed,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Suite,In Planning,InProgress,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Suite,In Progress,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Test Suite,Completed,Completed,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,User Story,New,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,User Story,Committed,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,User Story,Done,Completed,3
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Initiative,New,Proposed,1
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Initiative,Committed,InProgress,2
+3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,Initiative,Done,Completed,3

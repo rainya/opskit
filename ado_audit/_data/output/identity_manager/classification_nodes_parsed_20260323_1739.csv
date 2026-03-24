@@ -1,0 +1,749 @@
+Project ID,Project Name,Node Type,Path,Depth,Node ID,Start Date,Finish Date
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager,1,144,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Modules,2,329,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Modules\EPIC Module,3,5901,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Modules\PAIRING,3,5902,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Modules\SNOW2.0,3,6515,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Modules\DGE,3,6704,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Modules\Documenation,3,12616,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core,2,2856,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\QBM,3,7278,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\QER,3,7279,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\AAD,3,7280,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\ADS,3,7287,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\CAP,3,7288,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\ATT,3,7289,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\TSB,3,7290,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\CPL,3,7291,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\DPR,3,7292,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\SIM,3,7293,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\UNX,3,7294,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\SAP,3,7295,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\SBW,3,7296,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\SAC,3,7297,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\RMB,3,7298,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\RMS,3,7299,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\O3E,3,7300,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\O3T,3,7301,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\AOB,3,7302,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\EX0,3,7303,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\LDP,3,7304,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\OLG,3,7534,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\RPS,3,7711,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\NDO,3,7713,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\O3S,3,8116,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\PAG,3,8125,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\MFR,3,8279,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\ARS,3,8280,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\EBS,3,8281,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\CSM,3,9063,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\UCI,3,9064,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\Documentation,3,9263,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\SP0,3,9271,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\Build,3,9301,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\GAP,3,9316,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\TST,3,9340,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\MDK,3,9341,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\PEV,3,9342,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\VPR,3,9343,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\OIC,3,9373,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\HDB,3,9374,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\POL,3,9378,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\HDS,3,9379,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\EXH,3,9380,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\SHR,3,9382,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\ISM,3,9383,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\Web,3,9471,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\QAM,3,9668,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\IM Core Security BL,3,10310,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Core\IQC,3,10445,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web,2,2863,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX,3,6768,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Angular libraries,4,6769,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Apps,4,6778,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Apps\Portal,5,6779,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Apps\Password Reset Portal,5,6780,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Apps\Operations Support Portal,5,6781,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Apps\Server Administration,5,9066,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Apps\Manager,5,9957,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\API libraries,4,6783,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\API Server,4,6784,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\API Compiler,4,6798,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation,4,9741,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories,5,12617,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Helpdesk,6,12618,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Authentication,6,12619,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\IT Shop Configuration,6,12620,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Entitlements,6,12621,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Role Management,6,12622,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Application Governance,6,12623,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Reporting,6,12624,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Identity Data,6,12625,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\IT Shop,6,12626,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Attestation,6,12627,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Compliance,6,12628,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Configuration,6,12629,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Company Policies,6,12630,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Operations,6,12631,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Device Management,6,12632,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Target System Teams,6,12633,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IMX\Test Automation\User Stories\Target System Azure AD,6,12634,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Composition API,3,6797,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Tools,3,6799,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Tools\Web Installer,4,6646,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Tools\ImxClient,4,6801,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Tools\StsSetup,4,6802,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Tools\VSCode Extension,4,6803,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology,3,6804,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Runtime,4,6762,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Apps,4,6763,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Apps\Password Reset Portal,5,6764,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Apps\UCI Provisioning Portal,5,6765,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Apps\Portal,5,6766,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Apps\User Registration,5,6767,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Apps\CertAccess,5,6792,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\API Designer,4,6800,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Legacy Web Technology\Web Designer,4,6805,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Documentation,3,6813,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\Index,3,6814,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Web\IM Web Security BL,3,10311,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager (M),2,6820,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Modules (M),2,10887,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Internal,2,10908,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Internal\OneIM Germany,3,6754,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Internal\OneIM OSP,3,7569,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Internal\PasswordCaptureAgent,3,9176,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Internal\OneIM Feed Contributors,3,9375,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Internal\IMX Test Automation,3,9454,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Internal\OneIM Hungary,3,9470,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Area,Identity Manager\Identity Manager Collaboration Requests,2,11201,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager,1,136,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web,2,5313,2017-01-01T00:00:00Z,2030-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018,3,5613,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 1 (2.1.),4,5614,2018-01-02T00:00:00Z,2018-01-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 2 (16.1.),4,5615,2018-01-16T00:00:00Z,2018-01-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 3 (30.1.),4,5616,2018-01-30T00:00:00Z,2018-02-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 4 (13.2.),4,5617,2018-02-13T00:00:00Z,2018-02-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 5 (27.2.),4,5618,2018-02-27T00:00:00Z,2018-03-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 6 (13.3.),4,5619,2018-03-13T00:00:00Z,2018-03-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 7 (27.3.),4,5620,2018-03-27T00:00:00Z,2018-04-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 8 (10.4.),4,5621,2018-04-10T00:00:00Z,2018-04-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 9 (24.4.),4,5622,2018-04-24T00:00:00Z,2018-05-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 10 (8.5.),4,5623,2018-05-08T00:00:00Z,2018-05-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 11 (22.5.),4,5624,2018-05-22T00:00:00Z,2018-06-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 12 (5.6.),4,5625,2018-06-05T00:00:00Z,2018-06-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 13 (19.6.),4,5626,2018-06-19T00:00:00Z,2018-07-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 14 (3.7.),4,5627,2018-07-03T00:00:00Z,2018-07-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 15 (17.7.),4,5628,2018-07-17T00:00:00Z,2018-07-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 16 (31.7.),4,5629,2018-07-31T00:00:00Z,2018-08-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 17 (14.8.),4,5630,2018-08-14T00:00:00Z,2018-08-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 18 (28.8.),4,5631,2018-08-28T00:00:00Z,2018-09-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 19 (11.9.),4,5632,2018-09-11T00:00:00Z,2018-09-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 20 (25.9.),4,5633,2018-09-25T00:00:00Z,2018-10-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 21 (9.10.),4,5634,2018-10-09T00:00:00Z,2018-10-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 22 (23.10.),4,5635,2018-10-23T00:00:00Z,2018-11-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 23 (6.11.),4,5636,2018-11-06T00:00:00Z,2018-11-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 24 (20.11.),4,5637,2018-11-20T00:00:00Z,2018-12-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 25 (4.12.),4,5638,2018-12-04T00:00:00Z,2018-12-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2018\2018 Sprint 26 (18.12),4,5639,2018-12-18T00:00:00Z,2018-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017,3,5640,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 1,4,5641,2017-01-21T00:00:00Z,2017-02-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 2,4,5642,2017-02-08T00:00:00Z,2017-02-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 4,4,5643,2017-03-08T00:00:00Z,2017-03-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 5,4,5644,2017-03-21T00:00:00Z,2017-04-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 6,4,5645,2017-04-04T00:00:00Z,2017-04-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 7,4,5646,2017-04-18T00:00:00Z,2017-05-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 8,4,5647,2017-05-02T00:00:00Z,2017-05-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 9,4,5648,2017-05-16T00:00:00Z,2017-05-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 10,4,5649,2017-05-30T00:00:00Z,2017-06-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 11,4,5650,2017-06-13T00:00:00Z,2017-06-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 12,4,5651,2017-06-27T00:00:00Z,2017-07-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 13,4,5652,2017-07-11T00:00:00Z,2017-07-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 14,4,5653,2017-07-25T00:00:00Z,2017-08-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 15,4,5654,2017-08-08T00:00:00Z,2017-08-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 16,4,5655,2017-08-22T00:00:00Z,2017-09-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 17 (5.9.),4,5656,2017-09-05T00:00:00Z,2017-09-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 18 (19.9.),4,5657,2017-09-19T00:00:00Z,2017-10-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 19 (3.10.),4,5658,2017-10-03T00:00:00Z,2017-10-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 20 (17.10.),4,5659,2017-10-17T00:00:00Z,2017-10-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 21 (31.10.),4,5660,2017-10-31T00:00:00Z,2017-11-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 22 (14.11.),4,5661,2017-11-14T00:00:00Z,2017-11-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 23 (28.11.),4,5662,2017-11-28T00:00:00Z,2017-12-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2017\2017 Sprint 24 (12.12.),4,5663,2017-12-12T00:00:00Z,2018-01-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019,3,5664,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 1 (2.1.),4,5665,2019-01-02T00:00:00Z,2019-01-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 2 (15.1.),4,5666,2019-01-15T00:00:00Z,2019-01-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 3 (28.1.),4,5667,2019-01-29T00:00:00Z,2019-02-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 4 (12.2.),4,5668,2019-02-12T00:00:00Z,2019-02-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 5 (26.2.),4,5669,2019-02-26T00:00:00Z,2019-03-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 6 (12.3.),4,5670,2019-03-12T00:00:00Z,2019-03-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 7 (26.3.),4,5671,2019-03-26T00:00:00Z,2019-04-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 8 (8.4.),4,5672,2019-04-08T00:00:00Z,2019-04-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 9 (24.4.),4,5673,2019-04-23T00:00:00Z,2019-05-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 10 (7.5.),4,5674,2019-05-07T00:00:00Z,2019-05-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 11 (21.5.),4,5675,2019-05-21T00:00:00Z,2019-06-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 12 (4.6.),4,5676,2019-06-04T00:00:00Z,2019-06-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 13 (18.6.),4,5677,2019-06-18T00:00:00Z,2019-07-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 14 (2.7.),4,5678,2019-07-02T00:00:00Z,2019-07-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 15 (16.7.),4,5679,2019-07-16T00:00:00Z,2019-07-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 16 (30.7.),4,5680,2019-07-30T00:00:00Z,2019-08-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\2019 Sprint 17 (13.8.),4,5681,2019-08-13T00:00:00Z,2019-08-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 18 (27.8.),4,5682,2019-08-27T00:00:00Z,2019-09-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 19 (10.9.),4,5683,2019-09-10T00:00:00Z,2019-09-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 20 (24.9.),4,5684,2019-09-24T00:00:00Z,2019-10-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 21 (8.10.),4,5685,2019-10-08T00:00:00Z,2019-10-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 22 (22.10.),4,5686,2019-10-22T00:00:00Z,2019-11-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 23 (5.11.),4,5687,2019-11-05T00:00:00Z,2019-11-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 24 (19.11.),4,5688,2019-11-19T00:00:00Z,2019-12-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2019\Sprint 25 (3.12.),4,5689,2019-12-03T00:00:00Z,2019-12-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020,3,5719,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 1,4,5720,2019-12-17T00:00:00Z,2020-01-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 2 (14.1.),4,5743,2020-01-14T00:00:00Z,2020-01-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 3 (28.1.),4,5749,2020-01-28T00:00:00Z,2020-02-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 4 (11.2.),4,5781,2020-02-11T00:00:00Z,2020-02-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 5 (25.2.),4,5782,2020-02-25T00:00:00Z,2020-03-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 6 (10.3.),4,5783,2020-03-10T00:00:00Z,2020-03-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 7 (24.3.),4,5831,2020-03-24T00:00:00Z,2020-04-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 8 (8.4.),4,5838,2020-04-08T00:00:00Z,2020-04-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 9 (22.4.),4,5844,2020-04-22T00:00:00Z,2020-05-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 10 (6.5.),4,5860,2020-05-06T00:00:00Z,2020-05-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 11 (20.5.),4,5878,2020-05-20T00:00:00Z,2020-06-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 12 (3.6.),4,5911,2020-06-03T00:00:00Z,2020-06-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 13 (17.6.),4,5912,2020-06-17T00:00:00Z,2020-06-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 14,4,6266,2020-07-01T00:00:00Z,2020-07-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 15 (15.7.),4,6267,2020-07-15T00:00:00Z,2020-07-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 16 (29.7.),4,6299,2020-07-29T00:00:00Z,2020-08-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 17 (12.8.),4,6309,2020-08-12T00:00:00Z,2020-08-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 18 (26.8.),4,6311,2020-08-26T00:00:00Z,2020-09-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 19 (9.9.),4,6322,2020-09-09T00:00:00Z,2020-09-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 20 (23.9.),4,6328,2020-09-23T00:00:00Z,2020-10-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 21 (7.10.),4,6340,2020-10-07T00:00:00Z,2020-10-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 22 (21.10),4,6350,2020-10-21T00:00:00Z,2020-11-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 23 (4.11.),4,6354,2020-11-04T00:00:00Z,2020-11-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 24 (18.11.),4,6357,2020-11-18T00:00:00Z,2020-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 25 (2.12.),4,6379,2020-12-02T00:00:00Z,2020-12-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2020\Sprint 26 (16.12.),4,6479,2020-12-16T00:00:00Z,2021-01-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021,3,6501,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 1 (13.01.),4,6502,2021-01-13T00:00:00Z,2021-01-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 2 (27.1.),4,6534,2021-01-27T00:00:00Z,2021-02-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 3 (10.2.),4,6545,2021-02-10T00:00:00Z,2021-02-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 4 (24.2.),4,6556,2021-02-24T00:00:00Z,2021-03-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 5 (10.3.),4,6557,2021-03-10T00:00:00Z,2021-03-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 6 (24.3.),4,6558,2021-03-24T00:00:00Z,2021-04-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 7 (7.4.),4,6559,2021-04-07T00:00:00Z,2021-04-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 8 (21.4.),4,6560,2021-04-21T00:00:00Z,2021-05-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 9 (5.5.),4,6561,2021-05-05T00:00:00Z,2021-05-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 10 (19.5.),4,6706,2021-05-19T00:00:00Z,2021-06-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 11 (2.6.),4,6707,2021-06-02T00:00:00Z,2021-06-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 12 (16.6.),4,6734,2021-06-16T00:00:00Z,2021-06-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 13 (30.6.),4,6819,2021-06-30T00:00:00Z,2021-07-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 14 (14.7.),4,6824,2021-07-14T00:00:00Z,2021-07-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 15 (28.7.),4,6847,2021-07-28T00:00:00Z,2021-08-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 16 (11.8.),4,6848,2021-08-11T00:00:00Z,2021-08-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 17 (25.8.),4,6869,2021-08-25T00:00:00Z,2021-09-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 18 (8.9.),4,6870,2021-09-08T00:00:00Z,2021-09-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 19 (22.9.),4,6882,2021-09-22T00:00:00Z,2021-10-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 20 (6.10.),4,6902,2021-10-06T00:00:00Z,2021-10-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 21 (20.10.),4,6945,2021-10-20T00:00:00Z,2021-11-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 22 (3.11.),4,6954,2021-11-03T00:00:00Z,2021-11-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 23 (17.11.),4,6964,2021-11-17T00:00:00Z,2021-11-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 24 (1.12.),4,6969,2021-12-01T00:00:00Z,2021-12-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2021\Sprint 25 (15.12.),4,6971,2021-12-15T00:00:00Z,2022-01-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\Test Backlog,3,6875,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022,3,6972,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 01 (05.01.),4,6973,2022-01-05T00:00:00Z,2022-01-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 02 (19.01.),4,7045,2022-01-19T00:00:00Z,2022-02-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 03 (02.02.),4,7083,2022-02-02T00:00:00Z,2022-02-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 04 (16.02.),4,7098,2022-02-16T00:00:00Z,2022-03-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 05 (02.03.),4,7105,2022-03-02T00:00:00Z,2022-03-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 06 (16.03.),4,7107,2022-03-16T00:00:00Z,2022-03-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 07 (30.03.),4,7108,2022-03-30T00:00:00Z,2022-04-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 08 (13.04.),4,7110,2022-04-13T00:00:00Z,2022-04-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 09 (27.04.),4,7124,2022-04-27T00:00:00Z,2022-05-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 10 (11.05.),4,7131,2022-05-11T00:00:00Z,2022-05-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 11 (25.05.),4,7132,2022-05-25T00:00:00Z,2022-06-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 12 (08.06.),4,7150,2022-06-08T00:00:00Z,2022-06-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 13 (22.06.),4,7255,2022-06-22T00:00:00Z,2022-07-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 14 (06.07.),4,7256,2022-07-06T00:00:00Z,2022-07-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 15 (20.07.),4,7257,2022-07-20T00:00:00Z,2022-08-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 16 (03.08.),4,7305,2022-08-03T00:00:00Z,2022-08-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 17 (17.08.),4,7512,2022-08-17T00:00:00Z,2022-08-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 18 (31.08.),4,7523,2022-08-31T00:00:00Z,2022-09-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 19 (14.09.),4,7553,2022-09-14T00:00:00Z,2022-09-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 20 (28.09.),4,7707,2022-09-28T00:00:00Z,2022-10-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 21 (12.10.),4,7731,2022-10-12T00:00:00Z,2022-10-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 22 (26.10.),4,8128,2022-10-26T00:00:00Z,2022-11-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 23 (09.11.),4,8285,2022-11-09T00:00:00Z,2022-11-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 24 (23.11.),4,8341,2022-11-23T00:00:00Z,2022-12-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2022\Sprint 25 (7.12.),4,8979,2022-12-07T00:00:00Z,2023-01-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\Known Issues,3,8318,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023,3,8980,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 01 (4.1.),4,8981,2023-01-04T00:00:00Z,2023-01-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 02 (18.1.),4,9065,2023-01-18T00:00:00Z,2023-01-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 03 (1.2.),4,9149,2023-02-01T00:00:00Z,2023-02-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 04 (15.02.),4,9183,2023-02-15T00:00:00Z,2023-02-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 05 (01.03.),4,9204,2023-03-01T00:00:00Z,2023-03-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 06 (15.03.),4,9211,2023-03-15T00:00:00Z,2023-03-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 07 (29.03.),4,9228,2023-03-29T00:00:00Z,2023-04-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 08 (17.04.),4,9230,2023-04-17T00:00:00Z,2023-05-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 09 (08.05.),4,9232,2023-05-08T00:00:00Z,2023-05-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 10 (24.05.),4,9233,2023-05-24T00:00:00Z,2023-06-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 11 (7.6.),4,9270,2023-06-07T00:00:00Z,2023-06-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 12 (21.6.),4,9279,2023-06-21T00:00:00Z,2023-07-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 13 (5.7.),4,9292,2023-07-05T00:00:00Z,2023-07-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 14 (19.7.),4,9321,2023-07-19T00:00:00Z,2023-08-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 15 (2.8.),4,9336,2023-08-02T00:00:00Z,2023-08-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 16 (16.8.),4,9338,2023-08-16T00:00:00Z,2023-08-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 17 (30.8.),4,9377,2023-08-30T00:00:00Z,2023-09-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 18 (13.9.),4,9393,2023-09-13T00:00:00Z,2023-09-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 19 (27.09.),4,9405,2023-09-27T00:00:00Z,2023-10-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 20 (11.10.),4,9406,2023-10-11T00:00:00Z,2023-10-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 21 (25.10.),4,9414,2023-10-25T00:00:00Z,2023-11-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 22 (08.11.),4,9415,2023-11-08T00:00:00Z,2023-11-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 23 (22.11.),4,9416,2023-11-22T00:00:00Z,2023-12-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 24 (06.12.),4,9417,2023-12-06T00:00:00Z,2023-12-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2023\Sprint 25 (20.12.),4,9418,2023-12-20T00:00:00Z,2024-01-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024,3,9419,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-01 (03.01.),4,9420,2024-01-03T00:00:00Z,2024-01-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-02 (17.01.),4,9421,2024-01-17T00:00:00Z,2024-01-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-03 (31.01.),4,9422,2024-01-31T00:00:00Z,2024-02-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-04 (14.02.),4,9423,2024-02-14T00:00:00Z,2024-02-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-05 (28.02.),4,9424,2024-02-28T00:00:00Z,2024-03-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-06 (13.03.),4,9425,2024-03-13T00:00:00Z,2024-03-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-07 (27.03.),4,9426,2024-03-27T00:00:00Z,2024-04-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-08 (10.04.),4,9427,2024-04-10T00:00:00Z,2024-04-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-09 (24.04.),4,9428,2024-04-24T00:00:00Z,2024-05-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-10 (08.05.),4,9429,2024-05-08T00:00:00Z,2024-05-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-11 (22.05.),4,9430,2024-05-22T00:00:00Z,2024-06-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-12 (05.06.),4,9431,2024-06-05T00:00:00Z,2024-06-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-13 (19.06.),4,9432,2024-06-19T00:00:00Z,2024-07-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-14 (03.07.),4,9433,2024-07-03T00:00:00Z,2024-07-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-15 (17.07.),4,9434,2024-07-17T00:00:00Z,2024-07-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-16 (31.07.),4,9435,2024-07-31T00:00:00Z,2024-08-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-17 (14.08.),4,9436,2024-08-14T00:00:00Z,2024-08-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-18 (28.08.),4,9437,2024-08-28T00:00:00Z,2024-09-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-19 (11.09.),4,9438,2024-09-11T00:00:00Z,2024-09-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-20 (25.09.),4,9439,2024-09-25T00:00:00Z,2024-10-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-21 (09.10.),4,9440,2024-10-09T00:00:00Z,2024-10-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-22 (23.10.),4,9441,2024-10-23T00:00:00Z,2024-11-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-23 (06.11.),4,9442,2024-11-06T00:00:00Z,2024-11-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-24 (20.11.),4,9443,2024-11-20T00:00:00Z,2024-12-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-25 (04.12.),4,9444,2024-12-04T00:00:00Z,2024-12-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2024\Sprint 2024-26 (18.12.),4,9445,2024-12-18T00:00:00Z,2024-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025,3,9945,2025-01-01T00:00:00Z,2025-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1,4,10905,2025-01-01T00:00:00Z,2025-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1\Sprint 2025-01 (01.01.),5,9946,2025-01-01T00:00:00Z,2025-01-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1\Sprint 2025-02 (15.01.),5,9949,2025-01-15T00:00:00Z,2025-01-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1\Sprint 2025-03 (29.01.),5,9963,2025-01-29T00:00:00Z,2025-02-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1\Sprint 2025-04 (12.2.),5,10085,2025-02-12T00:00:00Z,2025-02-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1\Sprint 2025-05 (26.2.),5,10194,2025-02-26T00:00:00Z,2025-03-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1\Sprint 2025-06 (12.03.),5,10236,2025-03-12T00:00:00Z,2025-03-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q1\Sprint 2025-07 (26.03.),5,10238,2025-03-26T00:00:00Z,2025-04-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q2,4,10906,2025-04-01T00:00:00Z,2025-06-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q2\Sprint 2025-08 (09.04.),5,10271,2025-04-09T00:00:00Z,2025-04-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q2\Sprint 2025-09 (23.04.),5,10306,2025-04-23T00:00:00Z,2025-05-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q2\Sprint 2025-10 (07.05.),5,10318,2025-05-07T00:00:00Z,2025-05-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q2\Sprint 2025-11 (21.05.),5,10327,2025-05-21T00:00:00Z,2025-06-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q2\Sprint 2025-12 (04.06.),5,10333,2025-06-04T00:00:00Z,2025-06-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q2\Sprint 2025-13 (18.06.),5,10334,2025-06-18T00:00:00Z,2025-07-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3,4,10907,2025-07-01T00:00:00Z,2025-09-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3\Sprint 2025-14 (02.07.),5,10335,2025-07-02T00:00:00Z,2025-07-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3\Sprint 2025-15 (16.07.),5,10336,2025-07-16T00:00:00Z,2025-07-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3\Sprint 2025-16 (30.07.),5,10477,2025-07-30T00:00:00Z,2025-08-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3\Sprint 2025-17 (13.08.),5,10478,2025-08-13T00:00:00Z,2025-08-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3\Sprint 2025-18 (27.08.),5,10479,2025-08-27T00:00:00Z,2025-09-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3\Sprint 2025-19 (10.09.),5,10910,2025-09-10T00:00:00Z,2025-09-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q3\Sprint 2025-20 (24.09.),5,10911,2025-09-24T00:00:00Z,2025-10-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q4,4,11092,2025-10-01T00:00:00Z,2025-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q4\Sprint 2025-21 (08.10.),5,11093,2025-10-08T00:00:00Z,2025-10-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q4\Sprint 2025-22 (22.10.),5,11096,2025-10-22T00:00:00Z,2025-11-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q4\Sprint 2025-23 (5.11.),5,11138,2025-11-05T00:00:00Z,2025-11-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q4\Sprint 2025-24 (19.11.),5,11181,2025-11-19T00:00:00Z,2025-12-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q4\Sprint 2025-25 (3.12.),5,11182,2025-12-03T00:00:00Z,2025-12-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2025\2025-Q4\Sprint 2025-26 (17.12.),5,11226,2025-12-17T00:00:00Z,2025-12-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026,3,11229,2026-01-01T00:00:00Z,2026-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q1,4,11230,2026-01-01T00:00:00Z,2026-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q1\Sprint 2026-01 (01-07),5,11231,2026-01-07T00:00:00Z,2026-01-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q1\Sprint 2026-02 (01-21),5,11232,2026-01-21T00:00:00Z,2026-02-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q1\Sprint 2026-03 (02-04),5,11291,2026-02-04T00:00:00Z,2026-02-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q1\Sprint 2026-04 (02-18),5,12602,2026-02-18T00:00:00Z,2026-03-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q1\Sprint 2026-05 (03-04),5,12606,2026-03-04T00:00:00Z,2026-03-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q1\Sprint 2026-06 (03-18),5,12650,2026-03-18T00:00:00Z,2026-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q2,4,12651,2026-04-01T00:00:00Z,2026-06-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Web\2026\2026-Q2\Sprint 2026-07 (04-01),5,12652,2026-04-01T00:00:00Z,2026-04-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules,2,5314,2019-10-07T00:00:00Z,2030-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 99,3,2645,2019-10-07T00:00:00Z,2019-10-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 100,3,2646,2019-10-21T00:00:00Z,2019-11-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 101,3,2647,2019-11-04T00:00:00Z,2019-11-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 102,3,2648,2019-11-18T00:00:00Z,2019-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 103,3,2649,2019-12-02T00:00:00Z,2019-12-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 104,3,2650,2019-12-16T00:00:00Z,2019-12-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 105,3,2651,2019-12-30T00:00:00Z,2020-01-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 106,3,2652,2020-01-13T00:00:00Z,2020-01-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 107,3,2653,2020-01-27T00:00:00Z,2020-02-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 108,3,2654,2020-02-10T00:00:00Z,2020-02-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 109,3,2655,2020-02-24T00:00:00Z,2020-03-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 110,3,2656,2020-03-09T00:00:00Z,2020-03-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 111,3,2657,2020-03-23T00:00:00Z,2020-04-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 112,3,2658,2020-04-06T00:00:00Z,2020-04-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 113,3,2659,2020-04-20T00:00:00Z,2020-05-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 114,3,2660,2020-05-04T00:00:00Z,2020-05-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 115,3,2661,2020-05-18T00:00:00Z,2020-05-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 116,3,2662,2020-06-01T00:00:00Z,2020-06-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 117,3,2663,2020-06-15T00:00:00Z,2020-06-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 118,3,2664,2020-06-29T00:00:00Z,2020-07-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 119,3,2665,2020-07-13T00:00:00Z,2020-07-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 120,3,2666,2020-07-27T00:00:00Z,2020-08-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 121,3,2667,2020-08-10T00:00:00Z,2020-08-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 122,3,2668,2020-08-24T00:00:00Z,2020-09-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 123,3,2669,2020-09-07T00:00:00Z,2020-09-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 124,3,2670,2020-09-21T00:00:00Z,2020-10-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 125,3,2671,2020-10-05T00:00:00Z,2020-10-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 126,3,2672,2020-10-19T00:00:00Z,2020-11-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 127,3,2673,2020-11-02T00:00:00Z,2020-11-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 128,3,2674,2020-11-16T00:00:00Z,2020-11-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 129,3,2675,2020-11-30T00:00:00Z,2020-12-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 130,3,2676,2020-12-14T00:00:00Z,2020-12-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 131,3,6500,2020-12-28T00:00:00Z,2021-01-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 132,3,6520,2021-01-11T00:00:00Z,2021-01-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Spring 133,3,6521,2021-01-25T00:00:00Z,2021-02-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 134,3,6522,2021-02-08T00:00:00Z,2021-02-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 135,3,6599,2021-02-22T00:00:00Z,2021-03-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 136,3,6601,2021-03-08T00:00:00Z,2021-03-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 137,3,6602,2021-03-22T00:00:00Z,2021-04-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 138,3,6603,2021-04-05T00:00:00Z,2021-04-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 139,3,6604,2021-04-19T00:00:00Z,2021-04-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 140,3,6605,2021-05-03T00:00:00Z,2021-05-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 141,3,6744,2021-05-17T00:00:00Z,2021-05-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 142,3,6745,2021-05-31T00:00:00Z,2021-06-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 143,3,6746,2021-06-14T00:00:00Z,2021-06-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 144,3,6747,2021-06-28T00:00:00Z,2021-07-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 145,3,6748,2021-07-12T00:00:00Z,2021-07-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 146,3,6749,2021-07-26T00:00:00Z,2021-08-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 147,3,6750,2021-08-09T00:00:00Z,2021-08-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 148,3,6751,2021-08-23T00:00:00Z,2021-09-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 149,3,6752,2021-09-06T00:00:00Z,2021-09-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 150,3,6753,2021-09-20T00:00:00Z,2021-10-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 151,3,6904,2021-10-04T00:00:00Z,2021-10-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 152,3,6905,2021-10-18T00:00:00Z,2021-10-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 153,3,6906,2021-11-01T00:00:00Z,2021-11-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 154,3,6907,2021-11-15T00:00:00Z,2021-11-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 155,3,6908,2021-11-29T00:00:00Z,2021-12-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 156,3,6909,2021-12-13T00:00:00Z,2021-12-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 157,3,6910,2021-12-27T00:00:00Z,2022-01-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprinit 158,3,6911,2022-01-10T00:00:00Z,2022-01-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 159,3,6912,2022-01-24T00:00:00Z,2022-02-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 160,3,6913,2022-02-07T00:00:00Z,2022-02-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 161,3,7099,2022-02-21T00:00:00Z,2022-03-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 162,3,7100,2022-03-07T00:00:00Z,2022-03-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 163,3,7101,2022-03-21T00:00:00Z,2022-04-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 164,3,7102,2022-04-04T00:00:00Z,2022-04-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 165,3,7103,2022-04-18T00:00:00Z,2022-04-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 166,3,7127,2022-05-02T00:00:00Z,2022-05-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 167,3,7128,2022-05-16T00:00:00Z,2022-05-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 168,3,7129,2022-05-30T00:00:00Z,2022-06-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 169,3,7130,2022-06-13T00:00:00Z,2022-06-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 170,3,7144,2022-06-27T00:00:00Z,2022-07-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 171,3,7145,2022-07-11T00:00:00Z,2022-07-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 172,3,7146,2022-07-25T00:00:00Z,2022-08-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 173,3,7147,2022-08-08T00:00:00Z,2022-08-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 174,3,7148,2022-08-22T00:00:00Z,2022-09-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 175,3,7149,2022-09-05T00:00:00Z,2022-09-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 176,3,7658,2022-09-19T00:00:00Z,2022-09-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 177,3,7659,2022-10-03T00:00:00Z,2022-10-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 178,3,7660,2022-10-17T00:00:00Z,2022-10-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 179,3,7661,2022-10-31T00:00:00Z,2022-11-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 180,3,7662,2022-11-14T00:00:00Z,2022-11-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 181,3,7663,2022-11-28T00:00:00Z,2022-12-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 182,3,7664,2022-12-12T00:00:00Z,2022-12-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 183,3,7665,2022-12-26T00:00:00Z,2023-01-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 184,3,7666,2023-01-09T00:00:00Z,2023-01-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 185,3,7667,2023-01-23T00:00:00Z,2023-02-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 186,3,9184,2023-02-06T00:00:00Z,2023-02-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 187,3,9185,2023-02-20T00:00:00Z,2023-03-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 188,3,9207,2023-03-06T00:00:00Z,2023-03-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 189,3,9208,2023-03-20T00:00:00Z,2023-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Spring 190,3,9209,2023-04-03T00:00:00Z,2023-04-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 191,3,9210,2023-04-17T00:00:00Z,2023-04-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 192,3,9224,2023-05-01T00:00:00Z,2023-05-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 193,3,9225,2023-05-15T00:00:00Z,2023-05-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 194,3,9226,2023-05-29T00:00:00Z,2023-06-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 195,3,9227,2023-06-12T00:00:00Z,2023-06-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 196,3,9297,2023-06-26T00:00:00Z,2023-07-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 197,3,9298,2023-07-10T00:00:00Z,2023-07-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 198,3,9299,2023-07-24T00:00:00Z,2023-08-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 199,3,9300,2023-08-07T00:00:00Z,2023-08-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 200,3,9356,2023-08-21T00:00:00Z,2023-09-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 201,3,9357,2023-09-04T00:00:00Z,2023-09-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 202,3,9358,2023-09-18T00:00:00Z,2023-09-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 203,3,9359,2023-10-02T00:00:00Z,2023-10-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 204,3,9360,2023-10-16T00:00:00Z,2023-10-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 205,3,9361,2023-10-30T00:00:00Z,2023-11-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 206,3,9362,2023-11-13T00:00:00Z,2023-11-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 207,3,9363,2023-11-27T00:00:00Z,2023-12-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 208,3,9364,2023-12-11T00:00:00Z,2023-12-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 209,3,9365,2023-12-25T00:00:00Z,2024-01-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 210,3,9366,2024-01-08T00:00:00Z,2024-01-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 211,3,9367,2024-01-22T00:00:00Z,2024-02-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 212,3,9644,2024-02-05T00:00:00Z,2024-02-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 213,3,9645,2024-02-19T00:00:00Z,2024-03-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 214,3,9646,2024-03-04T00:00:00Z,2024-03-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 215,3,9647,2024-03-18T00:00:00Z,2024-03-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 216,3,9648,2024-04-01T00:00:00Z,2024-04-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 217,3,9649,2024-04-15T00:00:00Z,2024-04-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 218,3,9650,2024-04-29T00:00:00Z,2024-05-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 219,3,9651,2024-05-13T00:00:00Z,2024-05-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 220,3,9652,2024-05-27T00:00:00Z,2024-06-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 221,3,9653,2024-06-10T00:00:00Z,2024-06-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 222,3,9654,2024-06-24T00:00:00Z,2024-07-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 223,3,9804,2024-07-08T00:00:00Z,2024-07-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 224,3,9805,2024-07-22T00:00:00Z,2024-08-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 225,3,9836,2024-08-05T00:00:00Z,2024-08-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 226,3,9837,2024-08-19T00:00:00Z,2024-08-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 227,3,9838,2024-09-02T00:00:00Z,2024-09-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 228,3,9844,2024-09-16T00:00:00Z,2024-09-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 229,3,9845,2024-09-30T00:00:00Z,2024-10-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 230,3,9846,2024-10-14T00:00:00Z,2024-10-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 231,3,9895,2024-10-28T00:00:00Z,2024-11-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 232,3,9896,2024-11-11T00:00:00Z,2024-11-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 233,3,9897,2024-11-25T00:00:00Z,2024-12-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 234,3,9898,2024-12-09T00:00:00Z,2024-12-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 235,3,9899,2024-12-23T00:00:00Z,2025-01-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 236,3,9900,2025-01-06T00:00:00Z,2025-01-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 237,3,9912,2025-01-20T00:00:00Z,2025-01-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 238,3,9913,2025-02-03T00:00:00Z,2025-02-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 239,3,9914,2025-02-17T00:00:00Z,2025-02-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 240,3,9915,2025-03-03T00:00:00Z,2025-03-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 241,3,10251,2025-03-17T00:00:00Z,2025-03-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 242,3,10252,2025-03-31T00:00:00Z,2025-04-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 243,3,10253,2025-04-14T00:00:00Z,2025-04-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 244,3,10254,2025-04-28T00:00:00Z,2025-05-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 245,3,10255,2025-05-12T00:00:00Z,2025-05-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 246,3,10256,2025-05-26T00:00:00Z,2025-06-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 247,3,10257,2025-06-09T00:00:00Z,2025-06-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 248,3,10258,2025-06-23T00:00:00Z,2025-07-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 249,3,10259,2025-07-07T00:00:00Z,2025-07-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 250,3,10260,2025-07-21T00:00:00Z,2025-08-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 251,3,10813,2025-08-04T00:00:00Z,2025-08-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 252,3,10814,2025-08-18T00:00:00Z,2025-08-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 253,3,10815,2025-09-01T00:00:00Z,2025-09-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 254,3,10816,2025-09-15T00:00:00Z,2025-09-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 255,3,10817,2025-09-29T00:00:00Z,2025-10-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 256,3,10818,2025-10-13T00:00:00Z,2025-10-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 257,3,10819,2025-10-27T00:00:00Z,2025-11-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 258,3,10820,2025-11-10T00:00:00Z,2025-11-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 259,3,10821,2025-11-24T00:00:00Z,2025-12-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 260,3,10822,2025-12-08T00:00:00Z,2025-12-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 261,3,10823,2025-12-22T00:00:00Z,2026-01-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 262,3,11233,2026-01-05T00:00:00Z,2026-01-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 263,3,11288,2026-01-19T00:00:00Z,2026-01-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 264,3,12231,2026-02-02T00:00:00Z,2026-02-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 265,3,12232,2026-02-16T00:00:00Z,2026-02-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 266,3,12233,2026-03-02T00:00:00Z,2026-03-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 267,3,12234,2026-03-16T00:00:00Z,2026-03-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 268,3,12235,2026-03-30T00:00:00Z,2026-04-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 269,3,12236,2026-04-13T00:00:00Z,2026-04-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 270,3,12237,2026-04-27T00:00:00Z,2026-05-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 271,3,12238,2026-05-11T00:00:00Z,2026-05-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 272,3,12239,2026-05-25T00:00:00Z,2026-06-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 273,3,12240,2026-06-08T00:00:00Z,2026-06-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 274,3,12241,2026-06-22T00:00:00Z,2026-07-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 275,3,12242,2026-07-06T00:00:00Z,2026-07-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 276,3,12243,2026-07-20T00:00:00Z,2026-07-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 277,3,12244,2026-08-03T00:00:00Z,2026-08-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 278,3,12245,2026-08-17T00:00:00Z,2026-08-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 279,3,12246,2026-08-31T00:00:00Z,2026-09-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 280,3,12247,2026-09-14T00:00:00Z,2026-09-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 281,3,12248,2026-09-28T00:00:00Z,2026-10-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 282,3,12249,2026-10-12T00:00:00Z,2026-10-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 283,3,12250,2026-10-26T00:00:00Z,2026-11-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 284,3,12251,2026-11-09T00:00:00Z,2026-11-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 285,3,12252,2026-11-23T00:00:00Z,2026-12-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 286,3,12253,2026-12-07T00:00:00Z,2026-12-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 287,3,12254,2026-12-21T00:00:00Z,2027-01-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 288,3,12255,2027-01-04T00:00:00Z,2027-01-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 289,3,12256,2027-01-18T00:00:00Z,2027-01-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 290,3,12257,2027-02-01T00:00:00Z,2027-02-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Connector Modules\Sprint 291,3,12258,2027-02-15T00:00:00Z,2027-02-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases,2,5700,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\7.0,3,5607,2014-01-01T00:00:00Z,2016-01-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\6.1.2,3,5608,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\6.1.2\2017 Sprint 3,4,5609,2017-02-22T00:00:00Z,2017-03-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\Later version,3,5610,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\7.1.1,3,5611,2016-09-19T00:00:00Z,2017-01-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\Legacy (7.1 und vorher),3,5612,2015-07-29T00:00:00Z,2015-07-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\7.1.2,3,5691,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\6.1.1,3,5701,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Releases\7.1,3,5702,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core,2,7282,2017-01-01T00:00:00Z,2030-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Later,3,9286,2026-11-04T00:00:00Z,2027-11-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\2025,3,10889,2025-10-01T00:00:00Z,2025-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\2025\2025-Q4,4,10890,2025-10-01T00:00:00Z,2025-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\2026,3,10891,2026-01-01T00:00:00Z,2026-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\2026\2026-Q1,4,10892,2026-01-01T00:00:00Z,2026-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\2026\2026-Q2,4,10893,2026-04-01T00:00:00Z,2026-06-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\2026\2026-Q3,4,10894,2026-07-01T00:00:00Z,2026-09-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\2026\2026-Q4,4,10895,2026-10-01T00:00:00Z,2026-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version,3,10896,2030-01-01T00:00:00Z,2030-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.2.2,4,9281,2022-05-01T00:00:00Z,2024-05-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.0 LTS CU3,4,9282,2023-05-01T00:00:00Z,2023-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.1.2,4,9283,2023-04-01T00:00:00Z,2023-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.2.0,4,9284,2022-10-01T00:00:00Z,2023-10-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.1.6,4,9285,2021-10-01T00:00:00Z,2023-07-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.2.1,4,9317,2023-10-01T00:00:00Z,2024-05-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.3.0,4,9318,2023-10-01T00:00:00Z,2024-10-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.0 LTS CU1,4,9370,2022-08-01T00:00:00Z,2022-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.0 LTS CU2,4,9371,2022-12-01T00:00:00Z,2023-05-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.0 LTS CU4,4,9462,2023-11-01T00:00:00Z,2024-07-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\10.0.0 LTS,4,9465,2025-11-01T00:00:00Z,2026-11-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.1.3,4,9466,2023-11-01T00:00:00Z,2024-10-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.2.0,4,9474,2020-12-01T00:00:00Z,2022-08-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.1.0,4,9475,2022-07-01T00:00:00Z,2023-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.0 LTS CU0,4,9476,2022-01-01T00:00:00Z,2022-08-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.2.1,4,9477,2022-01-12T00:00:00Z,2022-08-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.1.5,4,9478,2021-01-01T00:00:00Z,2021-10-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.1.1,4,9479,2022-07-31T00:00:00Z,2023-07-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.1.0,4,9480,2020-12-01T00:00:00Z,2021-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.1.1,4,9481,2020-12-01T00:00:00Z,2021-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.1.2,4,9482,2020-12-01T00:00:00Z,2021-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.1.3,4,9483,2020-12-01T00:00:00Z,2021-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\8.1.4,4,9484,2020-12-01T00:00:00Z,2021-12-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.2.2,4,9725,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.1.4,4,9726,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.3.1,4,9809,2024-11-05T00:00:00Z,2028-11-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.0 LTS CU5,4,9966,2025-08-01T00:00:00Z,2026-02-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.2.3,4,10280,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\9.3.2,4,10339,2025-05-01T00:00:00Z,2026-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\10.2.0,4,10504,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\10.1.0,4,10505,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\10.1.1,4,10917,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Core\Semantic Version\10.0 LTS CU1,4,11254,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M),2,7714,2018-01-01T00:00:00Z,2030-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\2025,3,10897,2025-01-01T00:00:00Z,2025-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\2025\2025-Q4,4,10900,2025-01-10T00:00:00Z,2025-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\2026,3,10898,2026-01-01T00:00:00Z,2026-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\2026\2026-Q1,4,10901,2026-01-01T00:00:00Z,2026-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\2026\2026-Q2,4,10902,2026-04-01T00:00:00Z,2026-06-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\2026\2026-Q3,4,10903,2026-07-01T00:00:00Z,2026-09-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\2026\2026-Q4,4,10904,2026-10-01T00:00:00Z,2026-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Identity Manager (M)\Later,3,10899,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP,2,7717,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 100,3,7657,2022-09-19T00:00:00Z,2022-09-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 101,3,7718,2022-10-03T00:00:00Z,2022-10-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 102,3,7719,2022-10-17T00:00:00Z,2022-10-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 103,3,7720,2022-10-31T00:00:00Z,2022-11-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 104,3,7721,2022-11-14T00:00:00Z,2022-11-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 105,3,7722,2022-11-28T00:00:00Z,2022-12-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 106,3,9006,2022-12-12T00:00:00Z,2022-12-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 107,3,9007,2022-12-26T00:00:00Z,2023-01-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 108,3,9008,2023-01-09T00:00:00Z,2023-01-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 109,3,9009,2023-01-23T00:00:00Z,2023-02-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 110,3,9010,2023-02-06T00:00:00Z,2023-02-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 111,3,9011,2023-02-20T00:00:00Z,2023-03-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 112,3,9012,2023-03-06T00:00:00Z,2023-03-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 113,3,9013,2023-03-20T00:00:00Z,2023-03-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 114,3,9014,2023-04-03T00:00:00Z,2023-04-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 115,3,9015,2023-04-17T00:00:00Z,2023-04-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 116,3,9018,2023-05-01T00:00:00Z,2023-05-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\OSP\Sprint 117,3,9019,2023-05-15T00:00:00Z,2023-05-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Known Issues,2,9248,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive,2,10888,,
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 01,3,138,2016-01-04T00:00:00Z,2016-01-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 02,3,139,2016-01-18T00:00:00Z,2016-01-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 03,3,140,2016-02-01T00:00:00Z,2016-02-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 04,3,141,2016-02-15T00:00:00Z,2016-02-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 05,3,142,2016-02-29T00:00:00Z,2016-03-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 06,3,143,2016-03-14T00:00:00Z,2016-03-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 07,3,160,2016-03-28T00:00:00Z,2016-04-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 08,3,161,2016-04-11T00:00:00Z,2016-04-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 09,3,162,2016-04-25T00:00:00Z,2016-05-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 10,3,163,2016-05-09T00:00:00Z,2016-05-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 11,3,164,2016-05-23T00:00:00Z,2016-06-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 12,3,165,2016-06-06T00:00:00Z,2016-06-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 13,3,166,2016-06-20T00:00:00Z,2016-07-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 14,3,167,2016-07-04T00:00:00Z,2016-07-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 15,3,168,2016-07-18T00:00:00Z,2016-07-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 16,3,169,2016-08-01T00:00:00Z,2016-08-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 17,3,170,2016-08-15T00:00:00Z,2016-08-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 18,3,171,2016-08-29T00:00:00Z,2016-09-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 19,3,172,2016-09-12T00:00:00Z,2016-09-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 20,3,173,2016-09-26T00:00:00Z,2016-10-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 21,3,210,2016-10-10T00:00:00Z,2016-10-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 22,3,211,2016-10-24T00:00:00Z,2016-11-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 23,3,212,2016-11-07T00:00:00Z,2016-11-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 24,3,213,2016-11-21T00:00:00Z,2016-12-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 25,3,214,2016-12-05T00:00:00Z,2016-12-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 26,3,215,2016-12-19T00:00:00Z,2016-12-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 27,3,216,2017-01-02T00:00:00Z,2017-01-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 28,3,217,2017-01-16T00:00:00Z,2017-01-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 29,3,218,2017-01-30T00:00:00Z,2017-02-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 30,3,219,2017-02-13T00:00:00Z,2017-02-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 31,3,220,2017-02-27T00:00:00Z,2017-03-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 32,3,221,2017-03-13T00:00:00Z,2017-03-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 33,3,253,2017-03-27T00:00:00Z,2017-04-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 34,3,254,2017-04-10T00:00:00Z,2017-04-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 35,3,255,2017-04-24T00:00:00Z,2017-05-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 36,3,256,2017-05-08T00:00:00Z,2017-05-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 37,3,257,2017-05-22T00:00:00Z,2017-06-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 38,3,258,2017-06-05T00:00:00Z,2017-06-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 39,3,259,2017-06-19T00:00:00Z,2017-07-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 40,3,260,2017-07-03T00:00:00Z,2017-07-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 41,3,261,2017-07-17T00:00:00Z,2017-07-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 42,3,262,2017-07-31T00:00:00Z,2017-08-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 43,3,263,2017-08-14T00:00:00Z,2017-08-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 44,3,264,2017-08-28T00:00:00Z,2017-09-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 45,3,265,2017-09-11T00:00:00Z,2017-09-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 46,3,266,2017-09-25T00:00:00Z,2017-10-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 47,3,267,2017-10-09T00:00:00Z,2017-10-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 48,3,268,2017-10-23T00:00:00Z,2017-11-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 49,3,269,2017-11-06T00:00:00Z,2017-11-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 50,3,270,2017-11-20T00:00:00Z,2017-12-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 51,3,271,2017-12-04T00:00:00Z,2017-12-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 52,3,272,2017-12-18T00:00:00Z,2017-12-31T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 53,3,273,2018-01-01T00:00:00Z,2018-01-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 54,3,274,2018-01-15T00:00:00Z,2018-01-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 55,3,275,2018-01-29T00:00:00Z,2018-02-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 56,3,276,2018-02-12T00:00:00Z,2018-02-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 57,3,361,2018-02-26T00:00:00Z,2018-03-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 58,3,362,2018-03-12T00:00:00Z,2018-03-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 59,3,363,2018-03-26T00:00:00Z,2018-04-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 60,3,364,2018-04-09T00:00:00Z,2018-04-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 61,3,365,2018-04-23T00:00:00Z,2018-05-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 62,3,366,2018-05-07T00:00:00Z,2018-05-20T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 63,3,367,2018-05-21T00:00:00Z,2018-06-03T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 64,3,368,2018-06-04T00:00:00Z,2018-06-17T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 65,3,369,2018-06-18T00:00:00Z,2018-07-01T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 66,3,370,2018-07-02T00:00:00Z,2018-07-15T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 67,3,371,2018-07-16T00:00:00Z,2018-07-29T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 68,3,372,2018-07-30T00:00:00Z,2018-08-12T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 69,3,373,2018-08-13T00:00:00Z,2018-08-26T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 70,3,374,2018-08-27T00:00:00Z,2018-09-09T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 71,3,375,2018-09-10T00:00:00Z,2018-09-23T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 72,3,376,2018-09-24T00:00:00Z,2018-10-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 73,3,377,2018-10-08T00:00:00Z,2018-10-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 74,3,378,2018-10-22T00:00:00Z,2018-11-04T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 75,3,379,2018-11-05T00:00:00Z,2018-11-18T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 76,3,380,2018-11-19T00:00:00Z,2018-12-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 77,3,381,2018-12-03T00:00:00Z,2018-12-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 78,3,382,2018-12-17T00:00:00Z,2018-12-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 79,3,383,2018-12-31T00:00:00Z,2019-01-13T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 80,3,384,2019-01-14T00:00:00Z,2019-01-27T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 81,3,2627,2019-01-28T00:00:00Z,2019-02-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 82,3,2628,2019-02-11T00:00:00Z,2019-02-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 83,3,2629,2019-02-25T00:00:00Z,2019-03-10T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 84,3,2630,2019-03-11T00:00:00Z,2019-03-24T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 85,3,2631,2019-03-25T00:00:00Z,2019-04-07T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 86,3,2632,2019-04-08T00:00:00Z,2019-04-21T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 87,3,2633,2019-04-22T00:00:00Z,2019-05-05T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 88,3,2634,2019-05-06T00:00:00Z,2019-05-19T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 89,3,2635,2019-05-20T00:00:00Z,2019-06-02T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 90,3,2636,2019-06-03T00:00:00Z,2019-06-16T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 91,3,2637,2019-06-17T00:00:00Z,2019-06-30T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 92,3,2638,2019-07-01T00:00:00Z,2019-07-14T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 93,3,2639,2019-07-15T00:00:00Z,2019-07-28T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 94,3,2640,2019-07-29T00:00:00Z,2019-08-11T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 95,3,2641,2019-08-12T00:00:00Z,2019-08-25T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 96,3,2642,2019-08-26T00:00:00Z,2019-09-08T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 97,3,2643,2019-09-09T00:00:00Z,2019-09-22T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 98,3,2644,2019-09-23T00:00:00Z,2019-10-06T00:00:00Z
+36120c88-f17e-4f1d-b34d-6e98e30c1fe9,Identity Manager,Iteration,Identity Manager\Archive\Sprint 136,3,6600,2021-03-07T00:00:00Z,2021-03-20T00:00:00Z

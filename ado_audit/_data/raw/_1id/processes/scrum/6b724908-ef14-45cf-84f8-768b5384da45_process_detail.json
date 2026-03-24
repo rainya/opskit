@@ -1,0 +1,10 @@
+{
+  "typeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "name": "Scrum",
+  "referenceName": null,
+  "description": "This template is for teams who follow the Scrum framework.",
+  "parentProcessTypeId": "00000000-0000-0000-0000-000000000000",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "system"
+}

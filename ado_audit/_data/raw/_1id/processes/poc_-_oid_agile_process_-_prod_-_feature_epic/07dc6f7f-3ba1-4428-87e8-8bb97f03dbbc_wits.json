@@ -1,0 +1,145 @@
+[
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.TestCase",
+    "name": "Test Case",
+    "description": "Server-side data for a set of steps to be tested.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.TestCase",
+    "customization": "inherited",
+    "color": "004B50",
+    "icon": "icon_test_case",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.TestCase"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.Bug",
+    "name": "Bug",
+    "description": "Describes a divergence between required and actual behavior, and tracks the work done to correct the defect and verify the correction.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Bug",
+    "customization": "inherited",
+    "color": "CC293D",
+    "icon": "icon_insect",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Bug"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.UserStory",
+    "name": "User Story",
+    "description": "Tracks an activity the user will be able to perform with the product",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.UserStory",
+    "customization": "inherited",
+    "color": "0098C7",
+    "icon": "icon_book",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.UserStory"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.Epic",
+    "name": "Epic",
+    "description": "Epics help teams effectively manage and refine their product backlog",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic",
+    "customization": "inherited",
+    "color": "666666",
+    "icon": "icon_crown",
+    "isDisabled": true,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Epic"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.TestPlan",
+    "name": "Test Plan",
+    "description": "Tracks test activities for a specific milestone or release.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.TestPlan",
+    "customization": "inherited",
+    "color": "004B50",
+    "icon": "icon_test_plan",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.TestPlan"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.TestSuite",
+    "name": "Test Suite",
+    "description": "Tracks test activites for a specific feature, requirement, or user story.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.TestSuite",
+    "customization": "inherited",
+    "color": "004B50",
+    "icon": "icon_test_suite",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.TestSuite"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.OIDEpic",
+    "name": "OID Epic",
+    "description": "POC custom WIT: Culmination of work -- over weeks, months, or quarters -- needed to create new customer value in the product. Unit of commitment at the product portfolio level (product roadmap.) Replaces the default \"ADO Feature\" backlog level.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.OIDEpic",
+    "customization": "custom",
+    "color": "5c197b",
+    "icon": "icon_trophy",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.OIDFeature",
+    "name": "OID Feature",
+    "description": "POC default WIT: The product portfolio roadmap-level commit to customers for value delivery. Will link to a Customer Problem Definition (CDP). Replaces the default \"ADO Epic\" backlog level.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.OIDFeature",
+    "customization": "custom",
+    "color": "db552c",
+    "icon": "icon_crown",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange",
+    "name": "System Change",
+    "description": "Used to manage and track production changes. It includes several detailed fields to ensure thorough documentation and approval before implementation.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.SystemChange",
+    "customization": "custom",
+    "color": "7f1725",
+    "icon": "icon_gavel",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.Initiative",
+    "name": "Initiative",
+    "description": "POC default WIT: Initiatives are used to manage top-level Product Portfolio themes and cross-cutting Program work. Initiatives can have sub-initiatives and be the parent for Roadmap Features (custom WIT) and Feature Epics (relabeled default WIT).",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Initiative",
+    "customization": "custom",
+    "color": "0d60ab",
+    "icon": "icon_diamond",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.Task",
+    "name": "Task",
+    "description": "Tracks work that needs to be done.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Task",
+    "customization": "inherited",
+    "color": "A4880A",
+    "icon": "icon_clipboard",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Task"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.Feature",
+    "name": "Feature",
+    "description": "POC default WIT: Relabeled in ADO UI as \"Feature Epic\" to reflect classic agile definition of an EPIC as \"A larger body of work (multiple user stories) that can be delivered to DONE within a quarter.\"",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Feature",
+    "customization": "inherited",
+    "color": "666666",
+    "icon": "icon_trophy",
+    "isDisabled": true,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Feature"
+  },
+  {
+    "referenceName": "POC-OIDAgileProcess-Prod-FeatureEpic.Issue",
+    "name": "Issue",
+    "description": "Tracks an obstacle to progress.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Issue",
+    "customization": "inherited",
+    "color": "B4009E",
+    "icon": "icon_traffic_cone",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Issue"
+  }
+]

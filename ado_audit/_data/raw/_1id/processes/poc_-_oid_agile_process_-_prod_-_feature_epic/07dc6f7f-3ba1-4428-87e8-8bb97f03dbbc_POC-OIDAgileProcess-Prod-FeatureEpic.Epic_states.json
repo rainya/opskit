@@ -1,0 +1,75 @@
+[
+  {
+    "id": "7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "customizationType": "system"
+  },
+  {
+    "id": "036f4c71-6b49-4299-b727-7698aaabc032",
+    "name": "Waiting",
+    "color": "c9e7e7",
+    "stateCategory": "Proposed",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/036f4c71-6b49-4299-b727-7698aaabc032",
+    "customizationType": "custom"
+  },
+  {
+    "id": "2f7227d8-ddf3-4689-97b1-a4e26dadad98",
+    "name": "Ready",
+    "color": "7caf9a",
+    "stateCategory": "Proposed",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/2f7227d8-ddf3-4689-97b1-a4e26dadad98",
+    "customizationType": "custom"
+  },
+  {
+    "id": "277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "name": "Active",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/277237cd-0bc0-4ffb-bdc6-d358b154ba9e",
+    "customizationType": "system"
+  },
+  {
+    "id": "80b347ff-bf87-4a25-b9ea-291781e966f9",
+    "name": "Validating",
+    "color": "FF9D00",
+    "stateCategory": "Resolved",
+    "order": 6,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/80b347ff-bf87-4a25-b9ea-291781e966f9",
+    "customizationType": "custom"
+  },
+  {
+    "id": "9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "name": "Closed",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 7,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/9f479b88-4542-4f9d-8048-5d9c953b5082",
+    "customizationType": "system"
+  },
+  {
+    "id": "0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "name": "Removed",
+    "color": "ffffff",
+    "stateCategory": "Removed",
+    "order": 8,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "customizationType": "system"
+  },
+  {
+    "id": "f36cfea7-889a-448e-b5d1-fbc9b134ec82",
+    "name": "Resolved",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 9,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc/workItemTypes/POC-OIDAgileProcess-Prod-FeatureEpic.Epic/states/f36cfea7-889a-448e-b5d1-fbc9b134ec82",
+    "hidden": true,
+    "customizationType": "inherited"
+  }
+]

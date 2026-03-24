@@ -1,0 +1,92 @@
+[
+  {
+    "id": "7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "name": "New",
+    "color": "b2b2b2",
+    "stateCategory": "Proposed",
+    "order": 1,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/7b7e3e8c-e500-40b6-ad56-d59b8d64d757",
+    "customizationType": "system"
+  },
+  {
+    "id": "5fcb8472-3c27-43f5-af7d-f39c9e48f7c6",
+    "name": "In Progress",
+    "color": "007acc",
+    "stateCategory": "InProgress",
+    "order": 2,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/5fcb8472-3c27-43f5-af7d-f39c9e48f7c6",
+    "customizationType": "system"
+  },
+  {
+    "id": "51aebe67-5c35-4d60-be40-3613214f12fb",
+    "name": "Prioritized",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 3,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/51aebe67-5c35-4d60-be40-3613214f12fb",
+    "customizationType": "custom"
+  },
+  {
+    "id": "9e5a9d5c-becd-4367-a827-51e472508be5",
+    "name": "Grooming",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 4,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/9e5a9d5c-becd-4367-a827-51e472508be5",
+    "customizationType": "custom"
+  },
+  {
+    "id": "70f03c51-8f40-4dad-b35f-e58798072c2e",
+    "name": "Awaiting Architecture Review",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 5,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/70f03c51-8f40-4dad-b35f-e58798072c2e",
+    "customizationType": "custom"
+  },
+  {
+    "id": "e14ae81b-a504-42e5-8ddf-2051e270d041",
+    "name": "Reviewed",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 6,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/e14ae81b-a504-42e5-8ddf-2051e270d041",
+    "customizationType": "custom"
+  },
+  {
+    "id": "e36f02ad-af43-4673-9406-8374e1b3d642",
+    "name": "Implementing",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 7,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/e36f02ad-af43-4673-9406-8374e1b3d642",
+    "customizationType": "custom"
+  },
+  {
+    "id": "2d5dc8e1-a696-440f-8c78-53734cffccef",
+    "name": "Completed",
+    "color": "5688E0",
+    "stateCategory": "InProgress",
+    "order": 8,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/2d5dc8e1-a696-440f-8c78-53734cffccef",
+    "customizationType": "custom"
+  },
+  {
+    "id": "0c926c15-68f7-467f-96c9-a26a19e9d718",
+    "name": "Done",
+    "color": "339933",
+    "stateCategory": "Completed",
+    "order": 9,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/0c926c15-68f7-467f-96c9-a26a19e9d718",
+    "customizationType": "system"
+  },
+  {
+    "id": "0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "name": "Removed",
+    "color": "ffffff",
+    "stateCategory": "Removed",
+    "order": 10,
+    "url": "https://dev.azure.com/1id/_apis/work/processes/3ef63350-0eb1-4174-b9be-f048c5556977/workItemTypes/ScrumforARS.Feature/states/0293a2ce-2a42-4d0e-bbbf-d2237efa0db8",
+    "customizationType": "system"
+  }
+]

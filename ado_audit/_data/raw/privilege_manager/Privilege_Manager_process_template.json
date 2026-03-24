@@ -1,0 +1,37 @@
+{
+  "id": "d7842b0c-84f2-49a0-a442-c9738633e80e",
+  "name": "Privilege Manager",
+  "description": "Safeguard for Sudo\nPrivilege Manager for Unix",
+  "url": "https://dev.azure.com/1id/_apis/projects/d7842b0c-84f2-49a0-a442-c9738633e80e",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "Scrum for Privileged Manager",
+      "templateTypeId": "bc7f3edb-b7b1-49b7-b02d-0c7cac99f135"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Git",
+      "gitEnabled": "True",
+      "tfvcEnabled": "False"
+    }
+  },
+  "revision": 15333,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/d7842b0c-84f2-49a0-a442-c9738633e80e"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/Privilege Manager"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "4ef91d7b-7439-4185-9887-753f68eec5e8",
+    "name": "Privilege Manager Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/d7842b0c-84f2-49a0-a442-c9738633e80e/teams/4ef91d7b-7439-4185-9887-753f68eec5e8"
+  },
+  "lastUpdateTime": "2026-01-30T00:16:54.857Z"
+}

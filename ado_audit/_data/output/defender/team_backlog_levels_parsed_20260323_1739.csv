@@ -1,0 +1,16 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,f9b61bae-8d0e-4d4e-af44-85b7ed85778c,Defender AD FS Adapter Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,f9b61bae-8d0e-4d4e-af44-85b7ed85778c,Defender AD FS Adapter Team,Microsoft.EpicCategory,Epics,4,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,f9b61bae-8d0e-4d4e-af44-85b7ed85778c,Defender AD FS Adapter Team,Microsoft.FeatureCategory,Features,3,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,f9b61bae-8d0e-4d4e-af44-85b7ed85778c,Defender AD FS Adapter Team,Microsoft.RequirementCategory,Backlog items,2,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,f9b61bae-8d0e-4d4e-af44-85b7ed85778c,Defender AD FS Adapter Team,Microsoft.TaskCategory,Tasks,1,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,9625bf21-31b9-4648-b894-d94894a361ef,Defender Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,9625bf21-31b9-4648-b894-d94894a361ef,Defender Team,Microsoft.EpicCategory,Epics,4,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,9625bf21-31b9-4648-b894-d94894a361ef,Defender Team,Microsoft.FeatureCategory,Features,3,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,9625bf21-31b9-4648-b894-d94894a361ef,Defender Team,Microsoft.RequirementCategory,Backlog items,2,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,9625bf21-31b9-4648-b894-d94894a361ef,Defender Team,Microsoft.TaskCategory,Tasks,1,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,16b91818-4d55-47a7-a44c-5fa319703e00,TechComm,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,16b91818-4d55-47a7-a44c-5fa319703e00,TechComm,Microsoft.EpicCategory,Epics,4,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,16b91818-4d55-47a7-a44c-5fa319703e00,TechComm,Microsoft.FeatureCategory,Features,3,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,16b91818-4d55-47a7-a44c-5fa319703e00,TechComm,Microsoft.RequirementCategory,Backlog items,2,1000
+248abdcd-b303-4482-9547-34b7ce23ca6b,Defender,16b91818-4d55-47a7-a44c-5fa319703e00,TechComm,Microsoft.TaskCategory,Tasks,1,1000

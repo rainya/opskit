@@ -1,0 +1,195 @@
+{
+  "id": "a99e8f34-8dc4-4d3f-b24f-db542f9b18d8",
+  "url": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/a607cb41-916d-4f83-b90a-6732284ebeca/_apis/work/boards/a99e8f34-8dc4-4d3f-b24f-db542f9b18d8",
+  "name": "Backlog items",
+  "revision": 0,
+  "columns": [
+    {
+      "id": "2d99b7ce-7fc2-48bb-bca3-e6f6a1c23d8a",
+      "name": "New",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "New",
+        "Bug": "New"
+      },
+      "columnType": "incoming"
+    },
+    {
+      "id": "1e4138d1-2498-4225-8a42-bddb46ecde98",
+      "name": "Approved",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Approved",
+        "Bug": "Approved"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "93b59ba1-7d3b-4091-b536-a9613b930249",
+      "name": "Committed",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Committed",
+        "Bug": "Committed"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "6c4c73c8-62eb-4794-b77b-e084852b25ef",
+      "name": "Implementing",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Implementing",
+        "Bug": "Implementing"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "e8afb06a-ba58-4ac0-9a65-a0488b04af68",
+      "name": "Ready for Test",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Ready for Test",
+        "Bug": "Ready for Test"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "89776f72-e57e-4903-9785-e9e8fe847043",
+      "name": "Testing on DevTest",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Testing on DevTest",
+        "Bug": "Testing on DevTest"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "cfc7c91a-3f78-4973-94fd-5c9a4aab341b",
+      "name": "Tested on DevTest",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Tested on DevTest",
+        "Bug": "Tested on DevTest"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "bd092753-5de3-4081-88a4-c18e3e17cfaa",
+      "name": "Tested on Stage",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Tested on Stage",
+        "Bug": "Tested on Stage"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "b3b2b6d4-5eb1-4fd1-b03a-42c9c403134f",
+      "name": "Done",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "Done",
+        "Bug": "Done"
+      },
+      "columnType": "outgoing"
+    }
+  ],
+  "rows": [
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null
+    }
+  ],
+  "isValid": true,
+  "allowedMappings": {
+    "Incoming": {
+      "Bug": [
+        "New"
+      ],
+      "Product Backlog Item": [
+        "New"
+      ]
+    },
+    "InProgress": {
+      "Bug": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest",
+        "Tested on Stage"
+      ],
+      "Product Backlog Item": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest",
+        "Tested on Stage"
+      ]
+    },
+    "Outgoing": {
+      "Bug": [
+        "Done"
+      ],
+      "Product Backlog Item": [
+        "Done"
+      ]
+    }
+  },
+  "canEdit": true,
+  "fields": {
+    "columnField": {
+      "referenceName": "WEF_D3B211BDCC93435C9EFC712A406997AF_Kanban.Column",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_D3B211BDCC93435C9EFC712A406997AF_Kanban.Column"
+    },
+    "rowField": {
+      "referenceName": "WEF_D3B211BDCC93435C9EFC712A406997AF_Kanban.Lane",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_D3B211BDCC93435C9EFC712A406997AF_Kanban.Lane"
+    },
+    "doneField": {
+      "referenceName": "WEF_D3B211BDCC93435C9EFC712A406997AF_Kanban.Column.Done",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_D3B211BDCC93435C9EFC712A406997AF_Kanban.Column.Done"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/a607cb41-916d-4f83-b90a-6732284ebeca/_apis/work/boards/a99e8f34-8dc4-4d3f-b24f-db542f9b18d8"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/a607cb41-916d-4f83-b90a-6732284ebeca"
+    },
+    "charts": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/a607cb41-916d-4f83-b90a-6732284ebeca/_apis/work/boards/a99e8f34-8dc4-4d3f-b24f-db542f9b18d8/charts"
+    },
+    "columns": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/a607cb41-916d-4f83-b90a-6732284ebeca/_apis/work/boards/a99e8f34-8dc4-4d3f-b24f-db542f9b18d8/columns"
+    },
+    "rows": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/a607cb41-916d-4f83-b90a-6732284ebeca/_apis/work/boards/a99e8f34-8dc4-4d3f-b24f-db542f9b18d8/rows"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Process Type ID,Process Name,Parent Process Name,Is Custom Inherited,Is Default,WIT Count,Custom Field Count
+6b724908-ef14-45cf-84f8-768b5384da45,Scrum,,False,False,9,0
+adcc42ab-9882-485e-a3ed-7678f01f66bc,Agile,,False,False,9,0
+27450541-8e31-4150-9947-dc59f998fc01,CMMI,,False,False,12,0
+b8a3a935-7e91-48b8-a94c-606d37c3e9f2,Basic,,False,False,6,0
+0d92e0c1-bc33-46a9-b2be-2880c6a438ff,basic test,Basic,True,False,6,0
+49c5597c-0386-49e5-9492-ab95bd85fa97,Scrum for Safeguard,Scrum,True,False,9,0
+0b289b7d-273c-4f4e-a63c-6dbd90ce897a,Scrum for Privileged Manager for Windows,Scrum,True,False,9,0
+ffd6e878-87b2-4e58-87e1-9c75d4d0a307,Scrum for Log Management,Scrum,True,False,9,0
+82c9d6de-bfa5-49dc-91bb-a3c36573745a,Scrum for Technical Integration,Scrum,True,False,9,0
+c7b87898-c633-4f85-83de-d1326a62adda,OID Agile Process - Prod,Agile,True,False,11,0
+e7e99f8f-7f00-4d0f-a37b-8f953e7132c1,Scrum with Initiatives,Scrum,True,True,11,0
+d1e339bb-f11f-4e8a-a7be-4176929dd150,Scrum for Technical Communications,Scrum,True,False,9,0
+261d461f-1213-40b1-bab9-04e64e088e1c,Scrum for DBO,Scrum,True,False,9,0
+829e53b5-ed99-4569-a12f-c2ae7d44eb40,Scrum for Authentication Services,Scrum,True,False,9,0
+dc44c7fb-56a0-4f5e-b5dc-a2e1503e79ad,Agile for VDS,Agile,True,False,9,0
+e9e273de-ba93-4955-80ce-2420afa93192,Scrum for SPS,Scrum,True,False,9,0
+e398e2f1-3bf3-43a4-9ada-df839a107878,Agile for TFS,Agile,True,False,9,0
+bc7f3edb-b7b1-49b7-b02d-0c7cac99f135,Scrum for Privileged Manager,Scrum,True,False,9,0
+32435972-f5ce-40fd-a242-052139548f39,OID Agile Process - original,Agile,True,False,11,0
+07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc,POC - OID Agile Process - Prod - Feature Epic,Agile,True,False,13,0
+2cd40a1d-4451-4d54-8374-ac12935b89d4,OID Agile Process - Sandbox - Prod with Initiatives,Agile,True,False,10,0
+899cfc0a-679e-4af3-abe7-4b0596684bb4,Scrum for OIM,Scrum,True,False,10,0
+3ef63350-0eb1-4174-b9be-f048c5556977,Scrum for ARS,Scrum,True,False,10,0
+db9f7108-5d09-4ebd-81dd-4d26eb3928b1,Scrum for Global Enablement,Scrum,True,False,9,0
+286dbbbc-2cdb-4bb0-9bd5-0977bea409cf,OID Agile Process - Sandbox,Agile,True,False,10,0

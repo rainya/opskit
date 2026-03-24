@@ -1,0 +1,10 @@
+{
+  "id": "d7b91afd-e7d2-4ae0-8d0c-96ef0399403d",
+  "name": "Mainframe",
+  "description": "Workspace for development of Mainframe related products like zSeries, RACF, AS/400, etc. The products being developed by Accolite.",
+  "url": "https://dev.azure.com/1id/_apis/projects/d7b91afd-e7d2-4ae0-8d0c-96ef0399403d",
+  "state": "wellFormed",
+  "revision": 1243,
+  "visibility": "private",
+  "lastUpdateTime": "2023-06-13T13:25:58.84Z"
+}

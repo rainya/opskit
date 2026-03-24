@@ -1,0 +1,2524 @@
+{
+  "id": 1885,
+  "identifier": "49452162-cc26-46a6-95cd-37115350bf7c",
+  "name": "Privilege Manager",
+  "structureType": "iteration",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 5415,
+      "identifier": "8dd44f29-ef6c-4075-a96c-c5b5e1db45db",
+      "name": "Future",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\Privilege Manager\\Iteration\\Future",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/Future"
+    },
+    {
+      "id": 7195,
+      "identifier": "35eb5861-cdaf-4925-9e3f-152ff3420c5e",
+      "name": "2019",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 5295,
+          "identifier": "32ba469c-e7ac-47f3-b90e-c1b855035127",
+          "name": "2019.12 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-10-19T00:00:00Z",
+            "finishDate": "2019-11-01T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.12 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.12%20Sprint%201"
+        },
+        {
+          "id": 5297,
+          "identifier": "256f91ff-f572-4ec7-b00c-12f3af7735f7",
+          "name": "2019.12 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-11-04T00:00:00Z",
+            "finishDate": "2019-11-15T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.12 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.12%20Sprint%202"
+        },
+        {
+          "id": 5298,
+          "identifier": "f0321f9b-5c1c-4de8-9ba8-a37dbd2953e0",
+          "name": "2019.12 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-11-18T00:00:00Z",
+            "finishDate": "2019-11-29T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.12 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.12%20Sprint%203"
+        },
+        {
+          "id": 5299,
+          "identifier": "848ddfc7-c3e1-44d0-9fd8-d11fef0dcfc8",
+          "name": "2019.12 Sprint 4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-12-02T00:00:00Z",
+            "finishDate": "2019-12-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.12 Sprint 4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.12%20Sprint%204"
+        },
+        {
+          "id": 5300,
+          "identifier": "222040b7-275e-4352-ad20-a4e81482c7bc",
+          "name": "Bugs and Clean UP",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-12-16T00:00:00Z",
+            "finishDate": "2020-01-03T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\Bugs and Clean UP",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/Bugs%20and%20Clean%20UP"
+        },
+        {
+          "id": 5393,
+          "identifier": "1f27077a-f3e0-4036-aa14-5ece8b825236",
+          "name": "2019.10 Sprint 2 Bugs",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-09-02T00:00:00Z",
+            "finishDate": "2019-09-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.10 Sprint 2 Bugs",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.10%20Sprint%202%20Bugs"
+        },
+        {
+          "id": 5398,
+          "identifier": "398823ba-b137-4d60-97d1-adc24388e784",
+          "name": "2019.10 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-09-16T00:00:00Z",
+            "finishDate": "2019-09-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.10 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.10%20Sprint%203"
+        },
+        {
+          "id": 5399,
+          "identifier": "1fef1b0e-b700-47af-a748-ed2c15471b9f",
+          "name": "2019 Mar Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-02-04T00:00:00Z",
+            "finishDate": "2019-02-15T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019 Mar Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019%20Mar%20Sprint%203"
+        },
+        {
+          "id": 5401,
+          "identifier": "5233fe3a-945c-49fc-95c6-3140507b3df9",
+          "name": "2019.08 Sprint 4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-08-05T00:00:00Z",
+            "finishDate": "2019-08-16T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.08 Sprint 4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.08%20Sprint%204"
+        },
+        {
+          "id": 5402,
+          "identifier": "55abf480-b1c3-485a-a501-f5e52dc35a92",
+          "name": "2019.08 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-06-24T00:00:00Z",
+            "finishDate": "2019-07-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.08 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.08%20Sprint%201"
+        },
+        {
+          "id": 5403,
+          "identifier": "c16b656d-dadd-40f8-9c75-d70d004db353",
+          "name": "2019.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-04-29T00:00:00Z",
+            "finishDate": "2019-05-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.06%20Sprint%201"
+        },
+        {
+          "id": 5404,
+          "identifier": "a02cdfcf-238b-4300-9cd5-d7f5a0d069c9",
+          "name": "2019.03 Sprint 4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-02-18T00:00:00Z",
+            "finishDate": "2019-03-01T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.03 Sprint 4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.03%20Sprint%204"
+        },
+        {
+          "id": 5405,
+          "identifier": "3941cb61-f5f6-4115-960c-759bdad8a3d2",
+          "name": "2019.10 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-09-02T00:00:00Z",
+            "finishDate": "2019-09-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.10 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.10%20Sprint%202"
+        },
+        {
+          "id": 5406,
+          "identifier": "da0d22bd-22ea-4b60-a9cb-2a8eab7e931d",
+          "name": "2019.08 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-07-22T00:00:00Z",
+            "finishDate": "2019-08-02T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.08 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.08%20Sprint%203"
+        },
+        {
+          "id": 5407,
+          "identifier": "738297b6-2c9d-44a6-86eb-ac628ab1ea13",
+          "name": "2019.06 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-05-27T00:00:00Z",
+            "finishDate": "2019-06-07T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.06 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.06%20Sprint%203"
+        },
+        {
+          "id": 5409,
+          "identifier": "121b276a-b2bf-4103-aa97-c71a5309136b",
+          "name": "2019.04 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-03-04T00:00:00Z",
+            "finishDate": "2019-03-08T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.04 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.04%20Sprint%201"
+        },
+        {
+          "id": 5410,
+          "identifier": "4fc5c950-5a9b-4f51-a275-f7daf5e068c5",
+          "name": "2019.10 Sprint 4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-09-30T00:00:00Z",
+            "finishDate": "2019-10-11T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.10 Sprint 4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.10%20Sprint%204"
+        },
+        {
+          "id": 5412,
+          "identifier": "7715b8e7-b182-46eb-9a7e-45afac7337f7",
+          "name": "2019.10 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-08-19T00:00:00Z",
+            "finishDate": "2019-08-30T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.10 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.10%20Sprint%201"
+        },
+        {
+          "id": 5413,
+          "identifier": "708846cc-b8dc-4a85-ab2d-d871e8feccb4",
+          "name": "2019.04 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-03-18T00:00:00Z",
+            "finishDate": "2019-03-29T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.04 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.04%20Sprint%202"
+        },
+        {
+          "id": 5414,
+          "identifier": "e140d5c9-b8e2-46e6-afb1-f7185928a4b8",
+          "name": "2019.06 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-05-13T00:00:00Z",
+            "finishDate": "2019-05-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.06 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.06%20Sprint%202"
+        },
+        {
+          "id": 5417,
+          "identifier": "cad71e72-f714-46bc-8e21-68eefd76c139",
+          "name": "2019.06 Sprint 4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2019-06-10T00:00:00Z",
+            "finishDate": "2019-06-21T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2019\\2019.06 Sprint 4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019/2019.06%20Sprint%204"
+        }
+      ],
+      "attributes": {
+        "startDate": "2018-12-31T00:00:00Z",
+        "finishDate": "2020-01-03T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2019",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2019"
+    },
+    {
+      "id": 7196,
+      "identifier": "684be11a-55e6-4395-b43f-f49c5fe94fd3",
+      "name": "2020",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 5301,
+          "identifier": "f974a6f8-46f9-4935-9767-3a224ff1909d",
+          "name": "2020.03 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-01-06T00:00:00Z",
+            "finishDate": "2020-01-17T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.03 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.03%20Sprint%201"
+        },
+        {
+          "id": 5302,
+          "identifier": "be624fcc-e414-47f0-b654-872a0f97a524",
+          "name": "2020.03 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-01-20T00:00:00Z",
+            "finishDate": "2020-01-31T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.03 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.03%20Sprint%202"
+        },
+        {
+          "id": 5303,
+          "identifier": "ff61a993-7c40-4470-9d9a-ab3b51a6e904",
+          "name": "2020.03 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-02-03T00:00:00Z",
+            "finishDate": "2020-02-14T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.03 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.03%20Sprint%203"
+        },
+        {
+          "id": 5304,
+          "identifier": "4b921033-38ef-4448-8087-431de3086918",
+          "name": "2020.03 Sprint 4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-02-17T00:00:00Z",
+            "finishDate": "2020-02-28T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.03 Sprint 4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.03%20Sprint%204"
+        },
+        {
+          "id": 5797,
+          "identifier": "ad0df893-7123-44cb-8512-e24613e2915d",
+          "name": "2020.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-03-02T00:00:00Z",
+            "finishDate": "2020-03-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.06%20Sprint%201"
+        },
+        {
+          "id": 5798,
+          "identifier": "75f26ecb-413c-41ae-a74f-a37601dfbc9b",
+          "name": "2020.06 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-03-16T00:00:00Z",
+            "finishDate": "2020-03-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.06 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.06%20Sprint%202"
+        },
+        {
+          "id": 5799,
+          "identifier": "225aebce-46da-44ab-95cf-538a3e097a26",
+          "name": "2020.06 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-03-30T00:00:00Z",
+            "finishDate": "2020-04-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.06 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.06%20Sprint%203"
+        },
+        {
+          "id": 5800,
+          "identifier": "15ec021e-75ea-46b3-bed4-c07fbc54c612",
+          "name": "2020.06 Sprint 4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-04-13T00:00:00Z",
+            "finishDate": "2020-04-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.06 Sprint 4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.06%20Sprint%204"
+        },
+        {
+          "id": 5856,
+          "identifier": "0d1ad20c-d518-4ab4-b1fe-395cb17ff472",
+          "name": "2020.09 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-04-27T00:00:00Z",
+            "finishDate": "2020-05-08T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.09 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.09%20Sprint1"
+        },
+        {
+          "id": 5857,
+          "identifier": "05be31fa-a5d8-40b9-8095-a1a6ff8fa994",
+          "name": "2020.09 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-05-11T00:00:00Z",
+            "finishDate": "2020-05-22T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.09 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.09%20Sprint2"
+        },
+        {
+          "id": 5858,
+          "identifier": "0d25d967-cabd-4100-a517-31432c672d78",
+          "name": "2020.09 Sprint3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-05-25T00:00:00Z",
+            "finishDate": "2020-06-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.09 Sprint3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.09%20Sprint3"
+        },
+        {
+          "id": 5859,
+          "identifier": "17eef268-19ef-4a70-b6ac-1b0c3b790d98",
+          "name": "2020.09 Sprint4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-06-08T00:00:00Z",
+            "finishDate": "2020-06-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.09 Sprint4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.09%20Sprint4"
+        },
+        {
+          "id": 6284,
+          "identifier": "684cfc58-5e02-46a2-ab9d-76947def9725",
+          "name": "2020.10 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-06-22T00:00:00Z",
+            "finishDate": "2020-07-03T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.10 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.10%20Sprint1"
+        },
+        {
+          "id": 6285,
+          "identifier": "07f24df1-1c51-42c4-a3ca-48db4cbd4cfb",
+          "name": "2020.10 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-07-06T00:00:00Z",
+            "finishDate": "2020-07-17T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.10 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.10%20Sprint2"
+        },
+        {
+          "id": 6286,
+          "identifier": "bcb42c81-cbf5-454b-996f-532c92629fd3",
+          "name": "2020.10 Sprint3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-07-20T00:00:00Z",
+            "finishDate": "2020-07-31T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.10 Sprint3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.10%20Sprint3"
+        },
+        {
+          "id": 6287,
+          "identifier": "5f9e4b5b-31cf-47b5-8b7b-54c94a852020",
+          "name": "2020.10 Sprint4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-08-03T00:00:00Z",
+            "finishDate": "2020-08-14T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.10 Sprint4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.10%20Sprint4"
+        },
+        {
+          "id": 6318,
+          "identifier": "6a076cef-60c0-4349-9077-dce427059b8a",
+          "name": "2020.11 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-08-17T00:00:00Z",
+            "finishDate": "2020-08-28T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.11 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.11%20Sprint1"
+        },
+        {
+          "id": 6319,
+          "identifier": "68cb4551-21bd-4f52-8967-4d55abeef5fe",
+          "name": "2020.11 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-08-31T00:00:00Z",
+            "finishDate": "2020-09-11T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.11 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.11%20Sprint2"
+        },
+        {
+          "id": 6320,
+          "identifier": "4036a519-7c87-4d02-9c1f-992aaf12daec",
+          "name": "2020.11 Sprint3 - V7.0 Bug fixing, testing",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-09-14T00:00:00Z",
+            "finishDate": "2020-09-25T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.11 Sprint3 - V7.0 Bug fixing, testing",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.11%20Sprint3%20-%20V7.0%20Bug%20fixing,%20testing"
+        },
+        {
+          "id": 6321,
+          "identifier": "e61b939e-4e17-4381-8b34-04255b62c601",
+          "name": "2020.11 Sprint4",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2020-09-28T00:00:00Z",
+            "finishDate": "2020-10-09T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2020\\2020.11 Sprint4",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020/2020.11%20Sprint4"
+        }
+      ],
+      "attributes": {
+        "startDate": "2020-01-06T00:00:00Z",
+        "finishDate": "2021-01-01T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2020",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2020"
+    },
+    {
+      "id": 7197,
+      "identifier": "e3d15b59-6c0e-47a0-a533-fc3182c81052",
+      "name": "2021",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 6538,
+          "identifier": "5a700ae6-1819-49f9-86e2-7127e688c5a4",
+          "name": "2021.01 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-01-25T00:00:00Z",
+            "finishDate": "2021-02-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.01 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.01%20Sprint1"
+        },
+        {
+          "id": 6554,
+          "identifier": "61767dc0-c8e7-49ee-8d2f-3b57020b1270",
+          "name": "2021.02 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-02-08T00:00:00Z",
+            "finishDate": "2021-02-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.02 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.02%20Sprint1"
+        },
+        {
+          "id": 6555,
+          "identifier": "8ff081e7-0715-419f-aa7d-a95088f83394",
+          "name": "2021.02 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-02-22T00:00:00Z",
+            "finishDate": "2021-03-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.02 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.02%20Sprint2"
+        },
+        {
+          "id": 6641,
+          "identifier": "188196ba-6bb9-4983-a909-a07cdf67ff68",
+          "name": "2021.03 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-03-08T00:00:00Z",
+            "finishDate": "2021-03-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.03 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.03%20Sprint1"
+        },
+        {
+          "id": 6642,
+          "identifier": "76ad0fa1-b829-4eb9-a256-c6ed791bde83",
+          "name": "2021.03 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-03-22T00:00:00Z",
+            "finishDate": "2021-04-02T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.03 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.03%20Sprint2"
+        },
+        {
+          "id": 6643,
+          "identifier": "21dd136c-071c-4965-b3ab-ff0ceabd1847",
+          "name": "2021.04 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-04-05T00:00:00Z",
+            "finishDate": "2021-04-16T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.04 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.04%20Sprint1"
+        },
+        {
+          "id": 6644,
+          "identifier": "a5373eb8-d5bf-42b7-8be3-881509af62b9",
+          "name": "2021.04 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-04-19T00:00:00Z",
+            "finishDate": "2021-04-30T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.04 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.04%20Sprint2"
+        },
+        {
+          "id": 6674,
+          "identifier": "f9b48dda-d8e2-478f-b3eb-2934ea18d6a0",
+          "name": "2021.05 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-05-03T00:00:00Z",
+            "finishDate": "2021-05-14T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.05 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.05%20Sprint1"
+        },
+        {
+          "id": 6675,
+          "identifier": "be6f84be-86a9-470e-8340-0a3da3c25e8c",
+          "name": "2021.05 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-05-17T00:00:00Z",
+            "finishDate": "2021-05-28T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.05 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.05%20Sprint2"
+        },
+        {
+          "id": 6806,
+          "identifier": "712209e8-c24a-40a0-a752-2723e6f8488a",
+          "name": "2021.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-05-31T00:00:00Z",
+            "finishDate": "2021-06-11T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.06%20Sprint%201"
+        },
+        {
+          "id": 6807,
+          "identifier": "16882dfd-6372-4587-93fb-7ee243844661",
+          "name": "2021.06 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-05-31T00:00:00Z",
+            "finishDate": "2021-06-11T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.06 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.06%20Sprint1"
+        },
+        {
+          "id": 6808,
+          "identifier": "4e1b4409-f8bd-4ce9-9113-599dcfc862a4",
+          "name": "2021.06 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-06-14T00:00:00Z",
+            "finishDate": "2021-06-25T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.06 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.06%20Sprint2"
+        },
+        {
+          "id": 6830,
+          "identifier": "edb3ac65-c54e-418b-afc0-d7172d2f1d6a",
+          "name": "2021.07 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-06-28T00:00:00Z",
+            "finishDate": "2021-07-09T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.07 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.07%20Sprint1"
+        },
+        {
+          "id": 6831,
+          "identifier": "c39c9b0e-c813-46df-a632-73ede5fc6038",
+          "name": "2021.07 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-07-12T00:00:00Z",
+            "finishDate": "2021-07-23T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.07 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.07%20Sprint2"
+        },
+        {
+          "id": 6832,
+          "identifier": "e13e9888-420d-4101-8def-007beed2984d",
+          "name": "2021.07 Sprint3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-07-26T00:00:00Z",
+            "finishDate": "2021-08-06T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.07 Sprint3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.07%20Sprint3"
+        },
+        {
+          "id": 6833,
+          "identifier": "477d8f2a-91d7-4ca8-965a-799281d5ff67",
+          "name": "2021.08 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-08-09T00:00:00Z",
+            "finishDate": "2021-08-20T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.08 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.08%20Sprint1"
+        },
+        {
+          "id": 6834,
+          "identifier": "a3ef5f0a-2e25-46b1-b745-e2468dbfb261",
+          "name": "2021.08 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-08-23T00:00:00Z",
+            "finishDate": "2021-09-03T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.08 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.08%20Sprint2"
+        },
+        {
+          "id": 6880,
+          "identifier": "8c405bf1-ab53-49ac-9024-a1e57e54eab8",
+          "name": "2021.09 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-09-06T00:00:00Z",
+            "finishDate": "2021-09-17T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.09 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.09%20Sprint1"
+        },
+        {
+          "id": 6881,
+          "identifier": "e2428515-cc03-4d7f-8602-ccf6456e36c2",
+          "name": "2021.09 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-09-20T00:00:00Z",
+            "finishDate": "2021-10-01T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.09 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.09%20Sprint2"
+        },
+        {
+          "id": 6916,
+          "identifier": "841f2b98-d203-4e79-bc8b-d97ca9667d46",
+          "name": "2021.10 Sprint1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-10-04T00:00:00Z",
+            "finishDate": "2021-10-15T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.10 Sprint1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.10%20Sprint1"
+        },
+        {
+          "id": 6917,
+          "identifier": "11696745-2e5d-4522-9a10-4ceab28bf6d8",
+          "name": "2021.10 Sprint2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-10-18T00:00:00Z",
+            "finishDate": "2021-10-29T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.10 Sprint2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.10%20Sprint2"
+        },
+        {
+          "id": 6924,
+          "identifier": "b3fa0b06-a6cd-45a8-9855-419b1a9b4848",
+          "name": "2021.11 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-11-01T00:00:00Z",
+            "finishDate": "2021-11-12T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.11 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.11%20Sprint%201"
+        },
+        {
+          "id": 6925,
+          "identifier": "b87bc689-55fd-426a-b17d-7c39cecf7b3e",
+          "name": "2021.11 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-11-15T00:00:00Z",
+            "finishDate": "2021-11-26T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.11 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.11%20Sprint%202"
+        },
+        {
+          "id": 6926,
+          "identifier": "6ce119f4-64c0-4af2-bd91-3705c4f28b1c",
+          "name": "2021.12 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-11-29T00:00:00Z",
+            "finishDate": "2021-12-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.12 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.12%20Sprint%201"
+        },
+        {
+          "id": 6927,
+          "identifier": "939c6acc-4df8-41f3-8c28-7909fb930349",
+          "name": "2021.12 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-12-13T00:00:00Z",
+            "finishDate": "2021-12-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.12 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.12%20Sprint%202"
+        },
+        {
+          "id": 7046,
+          "identifier": "4a979575-76b7-4c98-ab69-540a1d6936ec",
+          "name": "2021.12 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2021-12-27T00:00:00Z",
+            "finishDate": "2022-01-07T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2021\\2021.12 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021/2021.12%20Sprint%203"
+        }
+      ],
+      "attributes": {
+        "startDate": "2021-01-04T00:00:00Z",
+        "finishDate": "2022-01-07T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2021",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2021"
+    },
+    {
+      "id": 7198,
+      "identifier": "2cbb19fd-3b41-489e-88b8-4468d5ce5156",
+      "name": "2022",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 7047,
+          "identifier": "48182f09-3282-4f04-8475-a574258c1ca1",
+          "name": "2022.01 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-01-10T00:00:00Z",
+            "finishDate": "2022-01-21T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.01 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.01%20Sprint%201"
+        },
+        {
+          "id": 7048,
+          "identifier": "f4d56868-b355-48f1-8d41-f2b763284acc",
+          "name": "2022.01 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-01-24T00:00:00Z",
+            "finishDate": "2022-02-04T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.01 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.01%20Sprint%202"
+        },
+        {
+          "id": 7094,
+          "identifier": "50b798c0-9763-468e-a134-8c5a5a5e0879",
+          "name": "2022.02 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-02-07T00:00:00Z",
+            "finishDate": "2022-02-18T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.02 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.02%20Sprint%201"
+        },
+        {
+          "id": 7095,
+          "identifier": "6fb5adee-9690-40b6-ad41-52504236a634",
+          "name": "2022.02 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-02-21T00:00:00Z",
+            "finishDate": "2022-03-04T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.02 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.02%20Sprint%202"
+        },
+        {
+          "id": 7096,
+          "identifier": "defbc326-4634-43dd-a53e-de9505e11003",
+          "name": "2022.03 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-03-07T00:00:00Z",
+            "finishDate": "2022-03-18T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.03 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.03%20Sprint%201"
+        },
+        {
+          "id": 7097,
+          "identifier": "da45ec3f-9130-455f-938c-c579e12beb37",
+          "name": "2022.03 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-03-21T00:00:00Z",
+            "finishDate": "2022-04-01T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.03 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.03%20Sprint%202"
+        },
+        {
+          "id": 7118,
+          "identifier": "9c4d2ced-7bca-4a96-b10a-13339a5f7596",
+          "name": "2022.04 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-04-04T00:00:00Z",
+            "finishDate": "2022-04-15T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.04 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.04%20Sprint%201"
+        },
+        {
+          "id": 7119,
+          "identifier": "8b2d5fad-733d-4ea3-a254-b8dd49e4ffe7",
+          "name": "2022.04 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-04-18T00:00:00Z",
+            "finishDate": "2022-04-29T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.04 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.04%20Sprint%202"
+        },
+        {
+          "id": 7120,
+          "identifier": "aa27ad4c-bad7-46c6-89bc-e2af6c9cef62",
+          "name": "2022.05 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-05-02T00:00:00Z",
+            "finishDate": "2022-05-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.05 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.05%20Sprint%201"
+        },
+        {
+          "id": 7121,
+          "identifier": "22f3f2bc-3b45-4e16-8a06-3cea07783b4d",
+          "name": "2022.05 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-05-16T00:00:00Z",
+            "finishDate": "2022-05-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.05 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.05%20Sprint%202"
+        },
+        {
+          "id": 7122,
+          "identifier": "97707dc9-7fec-41bc-9dbc-93cb2ad60f21",
+          "name": "2022.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-05-30T00:00:00Z",
+            "finishDate": "2022-06-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.06%20Sprint%201"
+        },
+        {
+          "id": 7123,
+          "identifier": "818302c6-a8ad-4e28-807c-484b32ab4644",
+          "name": "2022.06 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-06-13T00:00:00Z",
+            "finishDate": "2022-06-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.06 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.06%20Sprint%202"
+        },
+        {
+          "id": 7216,
+          "identifier": "cf9f3d3d-a215-490b-88ea-c9141cda8835",
+          "name": "2022.07 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-06-27T00:00:00Z",
+            "finishDate": "2022-07-08T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.07 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.07%20Sprint%201"
+        },
+        {
+          "id": 7217,
+          "identifier": "252be973-89ba-4082-8585-2ce5ce1f92a2",
+          "name": "2022.07 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-07-11T00:00:00Z",
+            "finishDate": "2022-07-22T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.07 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.07%20Sprint%202"
+        },
+        {
+          "id": 7218,
+          "identifier": "f10f5bb4-41fb-44b0-a6b9-c657608f07f6",
+          "name": "2022.08 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-07-25T00:00:00Z",
+            "finishDate": "2022-08-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.08 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.08%20Sprint%201"
+        },
+        {
+          "id": 7219,
+          "identifier": "9509a3fc-3f18-4e0b-9cdf-c26c48978c09",
+          "name": "2022.08 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-08-08T00:00:00Z",
+            "finishDate": "2022-08-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.08 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.08%20Sprint%202"
+        },
+        {
+          "id": 7220,
+          "identifier": "96079a14-53b0-402f-b1c5-ec34eccdd1b4",
+          "name": "2022.08 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-08-22T00:00:00Z",
+            "finishDate": "2022-09-02T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.08 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.08%20Sprint%203"
+        },
+        {
+          "id": 7221,
+          "identifier": "f5c6fe08-ac95-4229-80c7-02434593ade5",
+          "name": "2022.09 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-09-05T00:00:00Z",
+            "finishDate": "2022-09-16T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.09 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.09%20Sprint%201"
+        },
+        {
+          "id": 7222,
+          "identifier": "96176f12-4ae5-42cc-a482-321fd197d9e3",
+          "name": "2022.09 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-09-19T00:00:00Z",
+            "finishDate": "2022-09-30T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.09 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.09%20Sprint%202"
+        },
+        {
+          "id": 7223,
+          "identifier": "36cfa17e-5d15-401e-9245-fe157e28d174",
+          "name": "2022.10 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-10-03T00:00:00Z",
+            "finishDate": "2022-10-21T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.10 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.10%20Sprint%201"
+        },
+        {
+          "id": 7224,
+          "identifier": "d269288f-5e16-41b9-8ef0-f29406587a45",
+          "name": "2022.10 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-10-24T00:00:00Z",
+            "finishDate": "2022-11-04T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.10 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.10%20Sprint%202"
+        },
+        {
+          "id": 7225,
+          "identifier": "d84f7277-f62e-48ca-bd60-cfa1924de984",
+          "name": "2022.11 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-11-07T00:00:00Z",
+            "finishDate": "2022-11-18T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.11 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.11%20Sprint%201"
+        },
+        {
+          "id": 7226,
+          "identifier": "bf2fb08c-6a2f-4ee0-9eb7-c29e6bcc9490",
+          "name": "2022.11 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-11-21T00:00:00Z",
+            "finishDate": "2022-12-02T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.11 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.11%20Sprint%202"
+        },
+        {
+          "id": 7227,
+          "identifier": "4f36086d-7409-4622-9e93-a2a82c21c425",
+          "name": "2022.12 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-12-05T00:00:00Z",
+            "finishDate": "2022-12-16T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.12 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.12%20Sprint%201"
+        },
+        {
+          "id": 7228,
+          "identifier": "38b9102b-16ef-43ba-9a25-ef5213538bab",
+          "name": "2022.12 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2022-12-19T00:00:00Z",
+            "finishDate": "2022-12-30T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2022\\2022.12 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022/2022.12%20Sprint%202"
+        }
+      ],
+      "attributes": {
+        "startDate": "2022-01-10T00:00:00Z",
+        "finishDate": "2022-12-30T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2022",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2022"
+    },
+    {
+      "id": 7213,
+      "identifier": "0f030c36-f692-4127-ac55-f23f97787fa4",
+      "name": "2023",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 7230,
+          "identifier": "65f899fd-92e6-4d18-957b-f73cb2099009",
+          "name": "2023.01 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-01-02T00:00:00Z",
+            "finishDate": "2023-01-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.01 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.01%20Sprint%201"
+        },
+        {
+          "id": 7231,
+          "identifier": "a40dc93b-da81-4924-8719-3320391c496d",
+          "name": "2023.01 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-01-16T00:00:00Z",
+            "finishDate": "2023-01-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.01 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.01%20Sprint%202"
+        },
+        {
+          "id": 9122,
+          "identifier": "f798c616-af21-456e-b442-43263776c636",
+          "name": "2023.02 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-01-30T00:00:00Z",
+            "finishDate": "2023-02-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.02 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.02%20Sprint%201"
+        },
+        {
+          "id": 9123,
+          "identifier": "7824cb6c-c412-49de-98a4-cb7d3f789f28",
+          "name": "2023.02 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-02-13T00:00:00Z",
+            "finishDate": "2023-02-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.02 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.02%20Sprint%202"
+        },
+        {
+          "id": 9124,
+          "identifier": "8e6bab09-905b-48db-abd0-aee135395caa",
+          "name": "2023.03 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-02-27T00:00:00Z",
+            "finishDate": "2023-03-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.03 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.03%20Sprint%201"
+        },
+        {
+          "id": 9125,
+          "identifier": "0623ca8d-4db1-474d-a72d-00b5d9e50810",
+          "name": "2023.03 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-03-13T00:00:00Z",
+            "finishDate": "2023-03-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.03 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.03%20Sprint%202"
+        },
+        {
+          "id": 9126,
+          "identifier": "b082c190-512c-4624-b2bb-8d532b5afa30",
+          "name": "2023.03 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-03-27T00:00:00Z",
+            "finishDate": "2023-04-07T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.03 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.03%20Sprint%203"
+        },
+        {
+          "id": 9127,
+          "identifier": "7fb6cb15-066c-40b4-815a-20928dbe1b83",
+          "name": "2023.04 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-04-10T00:00:00Z",
+            "finishDate": "2023-04-21T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.04 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.04%20Sprint%201"
+        },
+        {
+          "id": 9128,
+          "identifier": "1c165acd-b1c7-4baa-82a6-653ff9fcf20b",
+          "name": "2023.04 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-04-24T00:00:00Z",
+            "finishDate": "2023-05-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.04 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.04%20Sprint%202"
+        },
+        {
+          "id": 9129,
+          "identifier": "d9404947-34f8-4cbc-af94-65521555531f",
+          "name": "2023.05 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-05-08T00:00:00Z",
+            "finishDate": "2023-05-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.05 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.05%20Sprint%201"
+        },
+        {
+          "id": 9130,
+          "identifier": "425f7fa4-a69d-4f20-8b77-279dcbf4fac9",
+          "name": "2023.05 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-05-22T00:00:00Z",
+            "finishDate": "2023-06-02T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.05 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.05%20Sprint%202"
+        },
+        {
+          "id": 9131,
+          "identifier": "e99741de-9012-4b6c-a0be-1f5908dfafb7",
+          "name": "2023.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-06-05T00:00:00Z",
+            "finishDate": "2023-06-16T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.06%20Sprint%201"
+        },
+        {
+          "id": 9132,
+          "identifier": "a85d5989-b858-46ef-ac94-29240ef2d6ef",
+          "name": "2023.06 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-06-19T00:00:00Z",
+            "finishDate": "2023-06-30T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.06 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.06%20Sprint%202"
+        },
+        {
+          "id": 9133,
+          "identifier": "d2d45160-8235-4968-a875-257ebf390c28",
+          "name": "2023.07 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-07-03T00:00:00Z",
+            "finishDate": "2023-07-14T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.07 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.07%20Sprint%201"
+        },
+        {
+          "id": 9134,
+          "identifier": "d32d1985-df92-45a9-9d94-17e59fea61a4",
+          "name": "2023.07 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-07-17T00:00:00Z",
+            "finishDate": "2023-07-28T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.07 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.07%20Sprint%202"
+        },
+        {
+          "id": 9135,
+          "identifier": "9a6ef16f-52eb-4fe3-a60f-bc10a584db7e",
+          "name": "2023.08 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-07-31T00:00:00Z",
+            "finishDate": "2023-08-11T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.08 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.08%20Sprint%201"
+        },
+        {
+          "id": 9136,
+          "identifier": "ab375959-70f1-4d0d-9cad-f03dba0c6180",
+          "name": "2023.08 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-08-14T00:00:00Z",
+            "finishDate": "2023-08-25T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.08 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.08%20Sprint%202"
+        },
+        {
+          "id": 9137,
+          "identifier": "174697c8-e668-4599-8cb8-9b0859c247e0",
+          "name": "2023.09 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-08-28T00:00:00Z",
+            "finishDate": "2023-09-08T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.09 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.09%20Sprint%201"
+        },
+        {
+          "id": 9138,
+          "identifier": "2eb65a1e-f78d-4b94-9fad-1466329eceec",
+          "name": "2023.09 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-09-11T00:00:00Z",
+            "finishDate": "2023-09-22T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.09 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.09%20Sprint%202"
+        },
+        {
+          "id": 9139,
+          "identifier": "779b7b3a-5ce7-46db-abd3-895701e6c7ec",
+          "name": "2023.09 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-09-25T00:00:00Z",
+            "finishDate": "2023-10-06T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.09 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.09%20Sprint%203"
+        },
+        {
+          "id": 9140,
+          "identifier": "1ab7e65d-9df5-4360-9f02-bec3e37fa655",
+          "name": "2023.10 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-10-09T00:00:00Z",
+            "finishDate": "2023-10-20T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.10 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.10%20Sprint%201"
+        },
+        {
+          "id": 9141,
+          "identifier": "47d848d8-f835-4a64-b7f1-9075c7e456ed",
+          "name": "2023.10 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-10-23T00:00:00Z",
+            "finishDate": "2023-11-03T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.10 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.10%20Sprint%202"
+        },
+        {
+          "id": 9142,
+          "identifier": "c6052a0e-060b-4a9d-a502-9e7278e34aca",
+          "name": "2023.11 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-11-06T00:00:00Z",
+            "finishDate": "2023-11-17T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.11 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.11%20Sprint%201"
+        },
+        {
+          "id": 9143,
+          "identifier": "9c80c396-523a-4b03-85a3-a611ee39f1c7",
+          "name": "2023.11 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-11-20T00:00:00Z",
+            "finishDate": "2023-12-01T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.11 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.11%20Sprint%202"
+        },
+        {
+          "id": 9144,
+          "identifier": "e361fce0-d2de-47fb-9210-bd72dc2ac44c",
+          "name": "2023.12 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-12-04T00:00:00Z",
+            "finishDate": "2023-12-15T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.12 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.12%20Sprint%201"
+        },
+        {
+          "id": 9145,
+          "identifier": "af190f42-257d-49d1-9394-d01d29e0dac5",
+          "name": "2023.12 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2023-12-18T00:00:00Z",
+            "finishDate": "2023-12-29T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2023\\2023.12 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023/2023.12%20Sprint%202"
+        }
+      ],
+      "attributes": {
+        "startDate": "2023-01-02T00:00:00Z",
+        "finishDate": "2023-12-29T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2023",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2023"
+    },
+    {
+      "id": 9146,
+      "identifier": "4db51098-1970-4805-9053-ecfd35dc0150",
+      "name": "2024",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 9147,
+          "identifier": "0d9c9a7c-82ba-4008-b26d-6f9cf8278ccc",
+          "name": "2024.01 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-01-01T00:00:00Z",
+            "finishDate": "2024-01-12T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.01 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.01%20Sprint%201"
+        },
+        {
+          "id": 9148,
+          "identifier": "02c22a77-e68d-4bfe-ab71-6e5d46b1efd5",
+          "name": "2024.01 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-01-15T00:00:00Z",
+            "finishDate": "2024-01-26T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.01 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.01%20Sprint%202"
+        },
+        {
+          "id": 9523,
+          "identifier": "8cb96e5f-110d-4aa2-8cde-3970f422b80c",
+          "name": "2024.02 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-01-29T00:00:00Z",
+            "finishDate": "2024-02-09T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.02 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.02%20Sprint%201"
+        },
+        {
+          "id": 9524,
+          "identifier": "b3c58c47-c25f-41f9-ae38-50bf2acd68f6",
+          "name": "2024.02 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-02-12T00:00:00Z",
+            "finishDate": "2024-02-23T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.02 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.02%20Sprint%202"
+        },
+        {
+          "id": 9525,
+          "identifier": "3defd863-4a09-4289-bada-38ca80389c99",
+          "name": "2024.03 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-02-26T00:00:00Z",
+            "finishDate": "2024-03-08T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.03 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.03%20Sprint%201"
+        },
+        {
+          "id": 9526,
+          "identifier": "3d388170-a028-4b40-8fb7-68544c755ad4",
+          "name": "2024.03 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-03-11T00:00:00Z",
+            "finishDate": "2024-03-22T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.03 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.03%20Sprint%202"
+        },
+        {
+          "id": 9527,
+          "identifier": "5a664a8c-34e8-43fd-ae77-a5cfb8085503",
+          "name": "2024.03 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-03-25T00:00:00Z",
+            "finishDate": "2024-04-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.03 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.03%20Sprint%203"
+        },
+        {
+          "id": 9528,
+          "identifier": "0ce8654b-2f27-45a9-959b-a098df58b0d0",
+          "name": "2024.04 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-04-08T00:00:00Z",
+            "finishDate": "2024-04-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.04 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.04%20Sprint%201"
+        },
+        {
+          "id": 9529,
+          "identifier": "262a2fae-caf3-4099-9890-6d7e63a487ff",
+          "name": "2024.04 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-04-22T00:00:00Z",
+            "finishDate": "2024-05-03T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.04 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.04%20Sprint%202"
+        },
+        {
+          "id": 9530,
+          "identifier": "352c56f5-06d0-4b05-8776-51ced7959073",
+          "name": "2024.05 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-05-06T00:00:00Z",
+            "finishDate": "2024-05-17T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.05 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.05%20Sprint%201"
+        },
+        {
+          "id": 9531,
+          "identifier": "b5898f0b-c8ee-45c2-a6c7-e788d7e9c962",
+          "name": "2024.05 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-05-20T00:00:00Z",
+            "finishDate": "2024-05-31T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.05 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.05%20Sprint%202"
+        },
+        {
+          "id": 9532,
+          "identifier": "7bf25cee-da0f-426c-ab47-eafee9ed79b9",
+          "name": "2024.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-06-03T00:00:00Z",
+            "finishDate": "2024-06-14T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.06%20Sprint%201"
+        },
+        {
+          "id": 9533,
+          "identifier": "97d4f24a-5762-49b8-bb7e-42be8f1627ff",
+          "name": "2024.06 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-06-17T00:00:00Z",
+            "finishDate": "2024-06-28T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.06 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.06%20Sprint%202"
+        },
+        {
+          "id": 9534,
+          "identifier": "3f243f0d-f3dc-49c6-be7e-7a3f22277ac2",
+          "name": "2024.07 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-07-01T00:00:00Z",
+            "finishDate": "2024-07-12T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.07 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.07%20Sprint%201"
+        },
+        {
+          "id": 9535,
+          "identifier": "b452f975-c766-429e-ab3d-832520d15498",
+          "name": "2024.07 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-07-15T00:00:00Z",
+            "finishDate": "2024-07-26T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.07 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.07%20Sprint%202"
+        },
+        {
+          "id": 9536,
+          "identifier": "3d0ead8f-18c3-4cbd-9261-81fccbe55dda",
+          "name": "2024.08 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-07-29T00:00:00Z",
+            "finishDate": "2024-08-09T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.08 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.08%20Sprint%201"
+        },
+        {
+          "id": 9537,
+          "identifier": "dce90ac3-4e7a-4368-9275-63c74382f092",
+          "name": "2024.08 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-08-12T00:00:00Z",
+            "finishDate": "2024-08-23T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.08 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.08%20Sprint%202"
+        },
+        {
+          "id": 9538,
+          "identifier": "80e79d21-9676-4c99-972d-2146121b2e13",
+          "name": "2024.08 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-08-26T00:00:00Z",
+            "finishDate": "2024-09-06T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.08 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.08%20Sprint%203"
+        },
+        {
+          "id": 9539,
+          "identifier": "960adf47-6101-43b1-b881-08b7e42bd721",
+          "name": "2024.09 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-09-09T00:00:00Z",
+            "finishDate": "2024-09-20T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.09 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.09%20Sprint%201"
+        },
+        {
+          "id": 9540,
+          "identifier": "2996db05-894d-4e90-ac0d-f12edb24896a",
+          "name": "2024.09 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-09-23T00:00:00Z",
+            "finishDate": "2024-10-04T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.09 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.09%20Sprint%202"
+        },
+        {
+          "id": 9541,
+          "identifier": "bbe6aba4-5be0-4b9d-a905-d65ba9661e96",
+          "name": "2024.10 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-10-07T00:00:00Z",
+            "finishDate": "2024-10-18T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.10 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.10%20Sprint%201"
+        },
+        {
+          "id": 9542,
+          "identifier": "0b8d44bf-4103-40f8-bd50-4ef69fb7dade",
+          "name": "2024.10 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-10-21T00:00:00Z",
+            "finishDate": "2024-11-01T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.10 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.10%20Sprint%202"
+        },
+        {
+          "id": 9543,
+          "identifier": "73df3864-4382-4f4b-b0eb-8e82aac22095",
+          "name": "2024.11 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-11-04T00:00:00Z",
+            "finishDate": "2024-11-15T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.11 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.11%20Sprint%201"
+        },
+        {
+          "id": 9544,
+          "identifier": "5f7a616d-9d4b-47f9-921b-5143deea99b9",
+          "name": "2024.11 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-11-18T00:00:00Z",
+            "finishDate": "2024-11-29T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.11 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.11%20Sprint%202"
+        },
+        {
+          "id": 9545,
+          "identifier": "807e65e9-c786-40ea-afe5-301104d85c5d",
+          "name": "2024.12 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-12-02T00:00:00Z",
+            "finishDate": "2024-12-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.12 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.12%20Sprint%201"
+        },
+        {
+          "id": 9546,
+          "identifier": "2ee4b86c-9fc4-4877-baa6-247aa6575a4b",
+          "name": "2024.12 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-12-16T00:00:00Z",
+            "finishDate": "2024-12-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2024\\2024.12 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024/2024.12%20Sprint%202"
+        }
+      ],
+      "attributes": {
+        "startDate": "2024-01-01T00:00:00Z",
+        "finishDate": "2024-12-27T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2024",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2024"
+    },
+    {
+      "id": 9547,
+      "identifier": "ddef5c03-9b17-46c1-af46-1a85624ec02c",
+      "name": "2025",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 9548,
+          "identifier": "87916267-1e55-4376-8ed1-ad33583c714b",
+          "name": "2025.01 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2024-12-30T00:00:00Z",
+            "finishDate": "2025-01-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.01 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.01%20Sprint%201"
+        },
+        {
+          "id": 9549,
+          "identifier": "1e4b96a9-49f3-422c-915c-b91de24b8c33",
+          "name": "2025.01 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-01-13T00:00:00Z",
+            "finishDate": "2025-01-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.01 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.01%20Sprint%202"
+        },
+        {
+          "id": 9550,
+          "identifier": "5d63429b-9c10-414b-ab17-ee41030b504f",
+          "name": "2025.01 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-01-27T00:00:00Z",
+            "finishDate": "2025-02-07T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.01 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.01%20Sprint%203"
+        },
+        {
+          "id": 9967,
+          "identifier": "b791b5d0-1290-4cc3-9651-917941e87f0f",
+          "name": "2025.02 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-02-10T00:00:00Z",
+            "finishDate": "2025-02-21T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.02 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.02%20Sprint%201"
+        },
+        {
+          "id": 9968,
+          "identifier": "425a3250-13b7-44e0-a44d-38947fca80b5",
+          "name": "2025.02 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-02-24T00:00:00Z",
+            "finishDate": "2025-03-07T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.02 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.02%20Sprint%202"
+        },
+        {
+          "id": 9969,
+          "identifier": "b19af23e-46bd-4588-b3df-926e54a1752c",
+          "name": "2025.03 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-03-10T00:00:00Z",
+            "finishDate": "2025-03-21T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.03 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.03%20Sprint%201"
+        },
+        {
+          "id": 9970,
+          "identifier": "ddeb8ad9-5d52-4bc4-adc8-e315e6aa4e55",
+          "name": "2025.03 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-03-24T00:00:00Z",
+            "finishDate": "2025-04-04T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.03 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.03%20Sprint%202"
+        },
+        {
+          "id": 9971,
+          "identifier": "b0681183-9397-4403-b6a1-11f6f73e5d59",
+          "name": "2025.04 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-04-07T00:00:00Z",
+            "finishDate": "2025-04-18T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.04 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.04%20Sprint%201"
+        },
+        {
+          "id": 9972,
+          "identifier": "5a3671bc-566e-408b-9bf3-416822176958",
+          "name": "2025.04 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-04-21T00:00:00Z",
+            "finishDate": "2025-05-02T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.04 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.04%20Sprint%202"
+        },
+        {
+          "id": 9973,
+          "identifier": "1d44326c-8827-440d-90dd-6122ca63d295",
+          "name": "2025.05 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-05-05T00:00:00Z",
+            "finishDate": "2025-05-16T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.05 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.05%20Sprint%201"
+        },
+        {
+          "id": 9974,
+          "identifier": "5667dfc0-52a4-481e-9ca4-ff8c3e4ef0f4",
+          "name": "2025.05 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-05-19T00:00:00Z",
+            "finishDate": "2025-05-30T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.05 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.05%20Sprint%202"
+        },
+        {
+          "id": 9975,
+          "identifier": "6094e307-c6b5-463b-a211-347217dd74cc",
+          "name": "2025.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-06-02T00:00:00Z",
+            "finishDate": "2025-06-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.06%20Sprint%201"
+        },
+        {
+          "id": 9976,
+          "identifier": "22101836-f1ca-46cd-9baf-d3702791e1da",
+          "name": "2025.06 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-06-16T00:00:00Z",
+            "finishDate": "2025-06-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.06 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.06%20Sprint%202"
+        },
+        {
+          "id": 9977,
+          "identifier": "a0a443f2-e59b-4891-baf4-0a57f4ef77eb",
+          "name": "2025.07 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-06-30T00:00:00Z",
+            "finishDate": "2025-07-11T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.07 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.07%20Sprint%201"
+        },
+        {
+          "id": 9978,
+          "identifier": "10cadfdb-8262-4997-978d-e49638d8f593",
+          "name": "2025.07 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-07-14T00:00:00Z",
+            "finishDate": "2025-07-25T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.07 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.07%20Sprint%202"
+        },
+        {
+          "id": 9979,
+          "identifier": "34793373-e06a-4373-b7a3-39ffd2857f68",
+          "name": "2025.07 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-07-28T00:00:00Z",
+            "finishDate": "2025-08-08T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.07 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.07%20Sprint%203"
+        },
+        {
+          "id": 9980,
+          "identifier": "6830a5ad-43a6-4645-8894-af5d26e384cc",
+          "name": "2025.08 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-08-11T00:00:00Z",
+            "finishDate": "2025-08-22T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.08 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.08%20Sprint%201"
+        },
+        {
+          "id": 9981,
+          "identifier": "7827f06f-0fd9-4947-9900-ddc98bae1793",
+          "name": "2025.08 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-08-25T00:00:00Z",
+            "finishDate": "2025-09-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.08 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.08%20Sprint%202"
+        },
+        {
+          "id": 9982,
+          "identifier": "0947a9ce-fec6-46f5-859a-c1ef5525a91c",
+          "name": "2025.09 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-09-08T00:00:00Z",
+            "finishDate": "2025-09-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.09 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.09%20Sprint%201"
+        },
+        {
+          "id": 9983,
+          "identifier": "4f883d18-bd51-420b-8228-20c210df8c57",
+          "name": "2025.09 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-09-22T00:00:00Z",
+            "finishDate": "2025-10-03T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.09 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.09%20Sprint%202"
+        },
+        {
+          "id": 9984,
+          "identifier": "9e55a1fa-c2ab-4848-8d83-efc3dac3e848",
+          "name": "2025.10 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-10-06T00:00:00Z",
+            "finishDate": "2025-10-17T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.10 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.10%20Sprint%201"
+        },
+        {
+          "id": 9985,
+          "identifier": "f0eb51a6-c801-42a0-b281-030273be235d",
+          "name": "2025.10 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-10-20T00:00:00Z",
+            "finishDate": "2025-10-31T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.10 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.10%20Sprint%202"
+        },
+        {
+          "id": 9986,
+          "identifier": "416b33ba-c958-4d69-b9d7-3ba8204d626c",
+          "name": "2025.11 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-11-03T00:00:00Z",
+            "finishDate": "2025-11-14T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.11 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.11%20Sprint%201"
+        },
+        {
+          "id": 9987,
+          "identifier": "e188300c-37ca-4cde-9ee0-032d6d426702",
+          "name": "2025.11 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-11-17T00:00:00Z",
+            "finishDate": "2025-11-28T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.11 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.11%20Sprint%202"
+        },
+        {
+          "id": 9988,
+          "identifier": "4e2201ef-9988-4d50-bfd9-131f83e59dfd",
+          "name": "2025.12 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-12-01T00:00:00Z",
+            "finishDate": "2025-12-12T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.12 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.12%20Sprint%201"
+        },
+        {
+          "id": 9989,
+          "identifier": "9f5af4a7-5c19-425a-8fe2-78f612a087d4",
+          "name": "2025.12 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-12-15T00:00:00Z",
+            "finishDate": "2025-12-26T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2025\\2025.12 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025/2025.12%20Sprint%202"
+        }
+      ],
+      "attributes": {
+        "startDate": "2024-12-30T00:00:00Z",
+        "finishDate": "2025-12-26T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2025",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2025"
+    },
+    {
+      "id": 9990,
+      "identifier": "a9f81596-4f65-45c0-81bf-846ebf88949b",
+      "name": "2026",
+      "structureType": "iteration",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 9991,
+          "identifier": "f093c54f-a7f9-42f4-8657-015510b3d771",
+          "name": "2026.01 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2025-12-29T00:00:00Z",
+            "finishDate": "2026-01-09T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.01 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.01%20Sprint%201"
+        },
+        {
+          "id": 9992,
+          "identifier": "0eb7e068-6955-4c77-a5ce-382f668b6b56",
+          "name": "2026.01 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-01-12T00:00:00Z",
+            "finishDate": "2026-01-23T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.01 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.01%20Sprint%202"
+        },
+        {
+          "id": 9993,
+          "identifier": "6a717647-d298-4260-9844-5cb59b3efdcd",
+          "name": "2026.01 Sprint 3",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-01-26T00:00:00Z",
+            "finishDate": "2026-02-06T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.01 Sprint 3",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.01%20Sprint%203"
+        },
+        {
+          "id": 12607,
+          "identifier": "48ce9b05-3c60-4fc3-82c7-b3aa1146932e",
+          "name": "2026.02 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-02-16T00:00:00Z",
+            "finishDate": "2026-02-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.02 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.02%20Sprint%201"
+        },
+        {
+          "id": 12608,
+          "identifier": "72cc002a-cba6-494c-9f07-f0f6f0528608",
+          "name": "2026.03 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-03-02T00:00:00Z",
+            "finishDate": "2026-03-13T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.03 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.03%20Sprint%201"
+        },
+        {
+          "id": 12659,
+          "identifier": "1425ad57-66d6-4d11-87ee-84bafc9bd139",
+          "name": "2026.03 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-03-16T00:00:00Z",
+            "finishDate": "2026-03-27T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.03 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.03%20Sprint%202"
+        },
+        {
+          "id": 12660,
+          "identifier": "4398fce3-f71f-463a-96b1-caf2321a5c80",
+          "name": "2026.04 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-03-30T00:00:00Z",
+            "finishDate": "2026-04-10T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.04 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.04%20Sprint%201"
+        },
+        {
+          "id": 12661,
+          "identifier": "343dee9e-ebb4-4a7f-a641-06740595d792",
+          "name": "2026.04 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-04-13T00:00:00Z",
+            "finishDate": "2026-04-24T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.04 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.04%20Sprint%202"
+        },
+        {
+          "id": 12662,
+          "identifier": "e4032d35-36b9-4c77-8233-3e2fe0599941",
+          "name": "2026.05 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-04-27T00:00:00Z",
+            "finishDate": "2026-05-08T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.05 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.05%20Sprint%201"
+        },
+        {
+          "id": 12663,
+          "identifier": "c72e2a92-80d5-40d9-8595-5fb0273bf7e0",
+          "name": "2026.05 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-05-11T00:00:00Z",
+            "finishDate": "2026-05-22T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.05 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.05%20Sprint%202"
+        },
+        {
+          "id": 12664,
+          "identifier": "67d23fbb-4351-4fd3-82f2-8799092ad3e5",
+          "name": "2026.06 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-05-25T00:00:00Z",
+            "finishDate": "2026-06-05T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.06 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.06%20Sprint%201"
+        },
+        {
+          "id": 12665,
+          "identifier": "9ed81abc-caa7-4110-81e6-6c3f1f9c82cb",
+          "name": "2026.06 Sprint 2",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-06-08T00:00:00Z",
+            "finishDate": "2026-06-19T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.06 Sprint 2",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.06%20Sprint%202"
+        },
+        {
+          "id": 12666,
+          "identifier": "1cfca985-61a1-4026-b367-7b45889523c2",
+          "name": "2026.07 Sprint 1",
+          "structureType": "iteration",
+          "hasChildren": false,
+          "attributes": {
+            "startDate": "2026-06-22T00:00:00Z",
+            "finishDate": "2026-07-03T00:00:00Z"
+          },
+          "path": "\\Privilege Manager\\Iteration\\2026\\2026.07 Sprint 1",
+          "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026/2026.07%20Sprint%201"
+        }
+      ],
+      "attributes": {
+        "startDate": "2025-12-29T00:00:00Z",
+        "finishDate": "2027-01-01T00:00:00Z"
+      },
+      "path": "\\Privilege Manager\\Iteration\\2026",
+      "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations/2026"
+    }
+  ],
+  "path": "\\Privilege Manager\\Iteration",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations"
+    }
+  },
+  "url": "https://dev.azure.com/1id/d7842b0c-84f2-49a0-a442-c9738633e80e/_apis/wit/classificationNodes/Iterations"
+}

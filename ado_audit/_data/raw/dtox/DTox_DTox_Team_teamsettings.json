@@ -1,0 +1,55 @@
+{
+  "backlogIteration": {
+    "id": "72defc4a-e355-4b52-ad7d-f04b32c1e577",
+    "name": "DTox",
+    "path": "",
+    "url": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff": false,
+    "Microsoft.EpicCategory": false,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "45fadc5b-a2c5-4bf8-ab02-63397ab4d2ea",
+    "name": "2020-015",
+    "path": "\\2020-015",
+    "url": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/_apis/wit/classificationNodes/Iterations/2020-015"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/teams/58a4f1d9-15a9-418c-a06f-804550c90acf"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/58a4f1d9-15a9-418c-a06f-804550c90acf/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/7e8eb1b9-d3ab-4504-9c89-0a8b4d98d7d6/_apis/wit/classificationNodes/Iterations/2020-015"
+      }
+    ]
+  }
+}

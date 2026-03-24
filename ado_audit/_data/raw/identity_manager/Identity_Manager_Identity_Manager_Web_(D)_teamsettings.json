@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "6fcb6259-7bfb-4e01-b1c4-99f465852ebe",
+    "name": "Web",
+    "path": "\\Web",
+    "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Iterations/Web"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "82ca29a1-8a1a-48f6-bdae-dd2c34ed7a5c",
+    "name": "Sprint 2026-06 (03-18)",
+    "path": "\\Web\\2026\\2026-Q1\\Sprint 2026-06 (03-18)",
+    "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Iterations/Web/2026/2026-Q1/Sprint%202026-06%20(03-18)"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/0ba2a2ff-7a80-4907-a278-ef5877f1918c/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/0ba2a2ff-7a80-4907-a278-ef5877f1918c/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/teams/0ba2a2ff-7a80-4907-a278-ef5877f1918c"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/0ba2a2ff-7a80-4907-a278-ef5877f1918c/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/0ba2a2ff-7a80-4907-a278-ef5877f1918c/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Iterations/Web"
+      },
+      {
+        "href": "https://dev.azure.com/1id/36120c88-f17e-4f1d-b34d-6e98e30c1fe9/_apis/wit/classificationNodes/Iterations/Web/2026/2026-Q1/Sprint%202026-06%20(03-18)"
+      }
+    ]
+  }
+}

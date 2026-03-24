@@ -1,0 +1,37 @@
+{
+  "id": "248abdcd-b303-4482-9547-34b7ce23ca6b",
+  "name": "Defender",
+  "description": "One Identity Defender development workspace",
+  "url": "https://dev.azure.com/1id/_apis/projects/248abdcd-b303-4482-9547-34b7ce23ca6b",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "Scrum with Initiatives",
+      "templateTypeId": "e7e99f8f-7f00-4d0f-a37b-8f953e7132c1"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Git",
+      "gitEnabled": "True",
+      "tfvcEnabled": "False"
+    }
+  },
+  "revision": 21402,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/248abdcd-b303-4482-9547-34b7ce23ca6b"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/Defender"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "9625bf21-31b9-4648-b894-d94894a361ef",
+    "name": "Defender Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/248abdcd-b303-4482-9547-34b7ce23ca6b/teams/9625bf21-31b9-4648-b894-d94894a361ef"
+  },
+  "lastUpdateTime": "2026-03-23T11:11:42.867Z"
+}

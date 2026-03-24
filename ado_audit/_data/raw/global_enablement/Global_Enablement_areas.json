@@ -1,0 +1,14 @@
+{
+  "id": 5207,
+  "identifier": "f9cb3572-3059-4e42-9b80-01559fc03a06",
+  "name": "Global Enablement",
+  "structureType": "area",
+  "hasChildren": false,
+  "path": "\\Global Enablement\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/06563b5a-8342-4b3e-9e7a-c43001706a81/_apis/wit/classificationNodes/Areas"
+}

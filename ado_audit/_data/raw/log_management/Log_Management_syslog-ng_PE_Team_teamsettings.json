@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "d16e54bc-4376-4535-9206-2ea930648af9",
+    "name": "Log Management",
+    "path": "",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": false,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "7ca67fa6-e46d-4d44-91e0-676a2284ad04",
+    "name": "Syslog-25.12.04",
+    "path": "\\SYSLOGDEV\\Syslog-25Q4\\Syslog-25.12.04",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/SYSLOGDEV/Syslog-25Q4/Syslog-25.12.04"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/6dc77ee6-af68-4026-9449-675a80d0b440/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/6dc77ee6-af68-4026-9449-675a80d0b440/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d/teams/6dc77ee6-af68-4026-9449-675a80d0b440"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/6dc77ee6-af68-4026-9449-675a80d0b440/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/6dc77ee6-af68-4026-9449-675a80d0b440/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/SYSLOGDEV/Syslog-25Q4/Syslog-25.12.04"
+      }
+    ]
+  }
+}

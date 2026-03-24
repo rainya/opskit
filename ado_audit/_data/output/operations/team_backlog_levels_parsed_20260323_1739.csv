@@ -1,0 +1,16 @@
+Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,72ecc153-9184-4bea-b4f3-bd42f29cc5c9,Engineering Metrics,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,72ecc153-9184-4bea-b4f3-bd42f29cc5c9,Engineering Metrics,Microsoft.EpicCategory,Epics,4,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,72ecc153-9184-4bea-b4f3-bd42f29cc5c9,Engineering Metrics,Microsoft.FeatureCategory,Features,3,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,72ecc153-9184-4bea-b4f3-bd42f29cc5c9,Engineering Metrics,Microsoft.RequirementCategory,Backlog items,2,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,72ecc153-9184-4bea-b4f3-bd42f29cc5c9,Engineering Metrics,Microsoft.TaskCategory,Tasks,1,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,c398253e-84bb-4a51-ac3a-3ddd8c105959,Operations Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,c398253e-84bb-4a51-ac3a-3ddd8c105959,Operations Team,Microsoft.EpicCategory,Epics,4,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,c398253e-84bb-4a51-ac3a-3ddd8c105959,Operations Team,Microsoft.FeatureCategory,Features,3,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,c398253e-84bb-4a51-ac3a-3ddd8c105959,Operations Team,Microsoft.RequirementCategory,Backlog items,2,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,c398253e-84bb-4a51-ac3a-3ddd8c105959,Operations Team,Microsoft.TaskCategory,Tasks,1,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,b79d8104-8c04-4f1f-a4c6-f1307d60588b,Security,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,b79d8104-8c04-4f1f-a4c6-f1307d60588b,Security,Microsoft.EpicCategory,Epics,4,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,b79d8104-8c04-4f1f-a4c6-f1307d60588b,Security,Microsoft.FeatureCategory,Features,3,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,b79d8104-8c04-4f1f-a4c6-f1307d60588b,Security,Microsoft.RequirementCategory,Backlog items,2,1000
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,b79d8104-8c04-4f1f-a4c6-f1307d60588b,Security,Microsoft.TaskCategory,Tasks,1,1000

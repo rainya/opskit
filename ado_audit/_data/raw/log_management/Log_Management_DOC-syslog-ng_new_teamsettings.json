@@ -1,0 +1,54 @@
+{
+  "backlogIteration": {
+    "id": "d16e54bc-4376-4535-9206-2ea930648af9",
+    "name": "Log Management",
+    "path": "",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": false,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "44832059-c727-47d8-a0fc-a00803d36199",
+    "name": "DOC-26-S06",
+    "path": "\\Documentation\\DOC-26-S06",
+    "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/Documentation/DOC-26-S06"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/de303be4-d7dc-423d-902b-41ec51aebdba/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/de303be4-d7dc-423d-902b-41ec51aebdba/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/68897d9b-7c56-465f-a3c3-169ca85cb20d/teams/de303be4-d7dc-423d-902b-41ec51aebdba"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/de303be4-d7dc-423d-902b-41ec51aebdba/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/de303be4-d7dc-423d-902b-41ec51aebdba/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/68897d9b-7c56-465f-a3c3-169ca85cb20d/_apis/wit/classificationNodes/Iterations/Documentation/DOC-26-S06"
+      }
+    ]
+  }
+}

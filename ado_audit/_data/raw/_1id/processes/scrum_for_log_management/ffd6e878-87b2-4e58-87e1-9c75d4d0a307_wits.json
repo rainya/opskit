@@ -1,0 +1,101 @@
+[
+  {
+    "referenceName": "ScrumforLogManagement.Feature",
+    "name": "Feature",
+    "description": "Tracks a feature that will be released with the product",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/ScrumforLogManagement.Feature",
+    "customization": "inherited",
+    "color": "773B93",
+    "icon": "icon_trophy",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Feature"
+  },
+  {
+    "referenceName": "ScrumforLogManagement.Task",
+    "name": "Task",
+    "description": "Tracks work that needs to be done.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/ScrumforLogManagement.Task",
+    "customization": "inherited",
+    "color": "F2CB1D",
+    "icon": "icon_clipboard",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Task"
+  },
+  {
+    "referenceName": "ScrumforLogManagement.Impediment",
+    "name": "Impediment",
+    "description": "Tracks an obstacle to progress.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/ScrumforLogManagement.Impediment",
+    "customization": "inherited",
+    "color": "B4009E",
+    "icon": "icon_traffic_cone",
+    "isDisabled": true,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Impediment"
+  },
+  {
+    "referenceName": "ScrumforLogManagement.Epic",
+    "name": "Epic",
+    "description": "Epics help teams effectively manage and groom their product backlog",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/ScrumforLogManagement.Epic",
+    "customization": "inherited",
+    "color": "FF7B00",
+    "icon": "icon_crown",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Epic"
+  },
+  {
+    "referenceName": "ScrumforLogManagement.ProductBacklogItem",
+    "name": "Product Backlog Item",
+    "description": "Tracks an activity the user will be able to perform with the product.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/ScrumforLogManagement.ProductBacklogItem",
+    "customization": "inherited",
+    "color": "009CCC",
+    "icon": "icon_list",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.ProductBacklogItem"
+  },
+  {
+    "referenceName": "ScrumforLogManagement.Bug",
+    "name": "Bug",
+    "description": "Describes a divergence between required and actual behavior, and tracks the work done to correct the defect and verify the correction.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/ScrumforLogManagement.Bug",
+    "customization": "inherited",
+    "color": "CC293D",
+    "icon": "icon_insect",
+    "isDisabled": false,
+    "inherits": "Microsoft.VSTS.WorkItemTypes.Bug"
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.TestCase",
+    "name": "Test Case",
+    "description": "Server-side data for a set of steps to be tested.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/Microsoft.VSTS.WorkItemTypes.TestCase",
+    "customization": "system",
+    "color": "004B50",
+    "icon": "icon_test_case",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.TestPlan",
+    "name": "Test Plan",
+    "description": "Tracks test activities for a specific milestone or release.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/Microsoft.VSTS.WorkItemTypes.TestPlan",
+    "customization": "system",
+    "color": "004B50",
+    "icon": "icon_test_plan",
+    "isDisabled": false,
+    "inherits": null
+  },
+  {
+    "referenceName": "Microsoft.VSTS.WorkItemTypes.TestSuite",
+    "name": "Test Suite",
+    "description": "Tracks test activites for a specific feature, requirement, or user story.",
+    "url": "https://dev.azure.com/1id/_apis/work/processes/ffd6e878-87b2-4e58-87e1-9c75d4d0a307/workItemTypes/Microsoft.VSTS.WorkItemTypes.TestSuite",
+    "customization": "system",
+    "color": "004B50",
+    "icon": "icon_test_suite",
+    "isDisabled": false,
+    "inherits": null
+  }
+]

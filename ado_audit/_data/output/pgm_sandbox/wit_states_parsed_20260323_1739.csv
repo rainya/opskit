@@ -1,0 +1,69 @@
+Project ID,Project Name,WIT Name,State Name,State Category,State Order
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Task,To Do,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Task,In Progress,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Task,Done,Completed,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Task,Removed,Removed,4
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,New,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Approved,Proposed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Committed,InProgress,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Implementing,InProgress,4
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Ready for Test,InProgress,5
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Testing on DevTest,InProgress,6
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Tested on DevTest,InProgress,7
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Tested on Stage,InProgress,8
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Done,Completed,9
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Bug,Removed,Removed,10
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Code Review Request,Requested,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Code Review Request,Closed,Completed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Code Review Response,Requested,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Code Review Response,Accepted,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Code Review Response,Closed,Completed,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Epic,New,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Epic,In Progress,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Epic,Done,Completed,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Epic,Removed,Removed,4
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,New,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,In Progress,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Prioritized,InProgress,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Grooming,InProgress,4
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Awaiting Architecture Review,InProgress,5
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Reviewed,InProgress,6
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Implementing,InProgress,7
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Completed,InProgress,8
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Done,Completed,9
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feature,Removed,Removed,10
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feedback Request,Active,InProgress,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feedback Request,Closed,Completed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feedback Request,Removed,Removed,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feedback Response,Active,InProgress,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Feedback Response,Closed,Completed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Impediment,Open,InProgress,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Impediment,Closed,Completed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,New,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Approved,Proposed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Committed,InProgress,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Implementing,InProgress,4
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Ready for Test,InProgress,5
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Testing on DevTest,InProgress,6
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Tested on DevTest,InProgress,7
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Tested on Stage,InProgress,8
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Done,Completed,9
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Product Backlog Item,Removed,Removed,10
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Shared Steps,Active,InProgress,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Shared Steps,Closed,Completed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Shared Parameter,Active,InProgress,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Shared Parameter,Inactive,Completed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Case,Design,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Case,Ready,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Case,Closed,Completed,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Plan,Active,InProgress,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Plan,Inactive,Completed,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Suite,In Planning,InProgress,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Suite,In Progress,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Test Suite,Completed,Completed,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,User Story,New,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,User Story,Committed,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,User Story,Done,Completed,3
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Initiative,New,Proposed,1
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Initiative,Committed,InProgress,2
+a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,Initiative,Done,Completed,3

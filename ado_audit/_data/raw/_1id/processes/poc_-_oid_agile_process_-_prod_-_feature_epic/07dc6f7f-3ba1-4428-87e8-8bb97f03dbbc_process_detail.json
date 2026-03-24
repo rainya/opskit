@@ -1,0 +1,10 @@
+{
+  "typeId": "07dc6f7f-3ba1-4428-87e8-8bb97f03dbbc",
+  "name": "POC - OID Agile Process - Prod - Feature Epic",
+  "referenceName": "Inherited.07dc6f7f3ba1442887e88bb97f03dbbc",
+  "description": "This Agile process is based on the OID Agile Process - Prod, OID's standard Azure DevOps baseline. It is specifically created to conduct a POC for adjusting ADO to adjust ADO's default Epic/Feature/User Story work item hierarchy to align with a Feature/Epic/User Story hierarchy while maintain out-of-the box ADO functionality.",
+  "parentProcessTypeId": "adcc42ab-9882-485e-a3ed-7678f01f66bc",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

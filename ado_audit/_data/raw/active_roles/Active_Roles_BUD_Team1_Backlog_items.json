@@ -1,0 +1,134 @@
+{
+  "id": "5a3bddd3-f248-4228-b009-ca8a81e3119b",
+  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/056730a2-5806-43ac-8251-8ad42b541145/_apis/work/boards/5a3bddd3-f248-4228-b009-ca8a81e3119b",
+  "name": "Backlog items",
+  "revision": 0,
+  "columns": [
+    {
+      "id": "9c499ca0-09e0-42d3-a457-ab1da9e94096",
+      "name": "New",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "New",
+        "Bug": "New"
+      },
+      "columnType": "incoming"
+    },
+    {
+      "id": "40d142e1-8134-42e4-af9b-9d661520062c",
+      "name": "Approved",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Approved",
+        "Bug": "Approved"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "4550fa1d-d225-47d7-889c-9ad959b9587c",
+      "name": "Committed",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Product Backlog Item": "Committed",
+        "Bug": "Committed"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "7bb4d175-efee-450c-b21e-f1ce11d50a44",
+      "name": "Done",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Product Backlog Item": "Done",
+        "Bug": "Done"
+      },
+      "columnType": "outgoing"
+    }
+  ],
+  "rows": [
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null
+    }
+  ],
+  "isValid": true,
+  "allowedMappings": {
+    "Incoming": {
+      "Bug": [
+        "New"
+      ],
+      "Product Backlog Item": [
+        "New"
+      ]
+    },
+    "InProgress": {
+      "Bug": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest"
+      ],
+      "Product Backlog Item": [
+        "Approved",
+        "Committed",
+        "New",
+        "Implementing",
+        "Ready for Test",
+        "Testing on DevTest",
+        "Tested on DevTest",
+        "Tested on Stage"
+      ]
+    },
+    "Outgoing": {
+      "Bug": [
+        "Done"
+      ],
+      "Product Backlog Item": [
+        "Done"
+      ]
+    }
+  },
+  "canEdit": true,
+  "fields": {
+    "columnField": {
+      "referenceName": "WEF_F0C7A5003BEA487D92263C996A782C72_Kanban.Column",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_F0C7A5003BEA487D92263C996A782C72_Kanban.Column"
+    },
+    "rowField": {
+      "referenceName": "WEF_F0C7A5003BEA487D92263C996A782C72_Kanban.Lane",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_F0C7A5003BEA487D92263C996A782C72_Kanban.Lane"
+    },
+    "doneField": {
+      "referenceName": "WEF_F0C7A5003BEA487D92263C996A782C72_Kanban.Column.Done",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_F0C7A5003BEA487D92263C996A782C72_Kanban.Column.Done"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/056730a2-5806-43ac-8251-8ad42b541145/_apis/work/boards/5a3bddd3-f248-4228-b009-ca8a81e3119b"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/teams/056730a2-5806-43ac-8251-8ad42b541145"
+    },
+    "charts": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/056730a2-5806-43ac-8251-8ad42b541145/_apis/work/boards/5a3bddd3-f248-4228-b009-ca8a81e3119b/charts"
+    },
+    "columns": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/056730a2-5806-43ac-8251-8ad42b541145/_apis/work/boards/5a3bddd3-f248-4228-b009-ca8a81e3119b/columns"
+    },
+    "rows": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/056730a2-5806-43ac-8251-8ad42b541145/_apis/work/boards/5a3bddd3-f248-4228-b009-ca8a81e3119b/rows"
+    }
+  }
+}

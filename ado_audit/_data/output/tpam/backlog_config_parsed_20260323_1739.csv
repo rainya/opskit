@@ -1,0 +1,6 @@
+Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
+1eb518b2-4cef-4257-802b-7f56201825ab,TPAM,Initiatives,Portfolio,Initiative,Initiative,1000
+1eb518b2-4cef-4257-802b-7f56201825ab,TPAM,Epics,Portfolio,Epic,Epic,1000
+1eb518b2-4cef-4257-802b-7f56201825ab,TPAM,Features,Portfolio,Feature,Feature,1000
+1eb518b2-4cef-4257-802b-7f56201825ab,TPAM,Backlog items,Requirement,Product Backlog Item,Product Backlog Item,1000
+1eb518b2-4cef-4257-802b-7f56201825ab,TPAM,Tasks,Task,Task,Task,1000

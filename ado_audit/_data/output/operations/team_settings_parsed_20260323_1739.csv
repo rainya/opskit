@@ -1,0 +1,4 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,72ecc153-9184-4bea-b4f3-bd42f29cc5c9,Engineering Metrics,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,c398253e-84bb-4a51-ac3a-3ddd8c105959,Operations Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\S85,@currentIteration,False,True,True,True
+a9113621-04e8-44df-a0d0-c624b9245634,Operations,b79d8104-8c04-4f1f-a4c6-f1307d60588b,Security,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,True,True,True,True

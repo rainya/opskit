@@ -1,0 +1,111 @@
+Project ID,Project Name,Node Type,Path,Depth,Node ID,Start Date,Finish Date
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Area,Safeguard Privileged Passwords,1,2922,,
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Area,Safeguard Privileged Passwords\Documentation,2,5317,,
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Area,Safeguard Privileged Passwords\Admins,2,5589,,
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Area,Safeguard Privileged Passwords\SPS Team,2,6965,,
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords,1,2914,,
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.12 Cadence Sprint 2 Bugs,2,2916,2019-11-19T00:00:00Z,2019-11-25T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.12 Cadence Print 3 Regression - Release,2,2917,2019-11-26T00:00:00Z,2019-12-11T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Bugs During Break and Clean up,2,2918,2019-12-12T00:00:00Z,2020-01-03T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Cadence Sprint 1 Development,2,2919,2020-01-06T00:00:00Z,2020-01-21T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Cadence Sprint 2 Bugs,2,2920,2020-01-22T00:00:00Z,2020-01-28T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Cadence Sprint 3 Development,2,2921,2020-01-29T00:00:00Z,2020-02-11T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.12 Cadence Sprint 1 Development,2,3023,2019-10-28T00:00:00Z,2019-11-18T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Cadence Sprint 4 Bugs,2,5308,2020-02-12T00:00:00Z,2020-02-18T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Cadence Sprint 5 Regression - Release,2,5309,2020-02-19T00:00:00Z,2020-03-03T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Mar 2019 Cadence - Sprint 1 Dev,2,5348,2019-01-09T00:00:00Z,2019-01-22T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Mar 2019 Cadence - Sprint 2 Bug,2,5349,2019-01-23T00:00:00Z,2019-01-29T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.02 Cadence - Sprint 3 Dev,2,5350,2019-01-30T00:00:00Z,2019-02-12T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.02 Cadence - Sprint 4 Bugs,2,5351,2019-02-13T00:00:00Z,2019-02-19T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\201902 Cadence - Sprint 5 Regression,2,5352,2019-02-20T00:00:00Z,2019-03-05T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.04 Cadence - Sprint 1 Development,2,5353,2019-03-06T00:00:00Z,2019-03-19T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.04 Cadence - Sprint 2 Bugs,2,5354,2019-03-20T00:00:00Z,2019-03-26T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.04 Cadence - Sprint 3 Development,2,5355,2019-03-27T00:00:00Z,2019-04-09T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.04 Cadence - Sprint 4 Bugs,2,5356,2019-04-10T00:00:00Z,2019-04-19T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.04 Cadence - Sprint 5 Regression,2,5357,2019-04-22T00:00:00Z,2019-05-09T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.06 Cadence Sprint 1 Development,2,5358,2019-05-10T00:00:00Z,2019-05-23T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.06 Cadence - Sprint 2 Bugs,2,5359,2019-05-24T00:00:00Z,2019-05-28T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.06 Cadence - Sprint 3 Development,2,5360,2019-05-30T00:00:00Z,2019-06-06T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.06 Cadence - Sprint 4 Bugs,2,5361,2019-06-07T00:00:00Z,2019-06-11T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.06 Cadence - Sprint 5 Regression,2,5362,2019-06-12T00:00:00Z,2019-07-09T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.08 Sprint 1 Development,2,5363,2019-07-10T00:00:00Z,2019-07-30T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.08 Sprint 2 Bug,2,5364,2019-07-31T00:00:00Z,2019-08-06T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.08 Sprint 3 Regression,2,5365,2019-08-07T00:00:00Z,2019-08-21T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.10 Sprint 1 Development,2,5366,2019-08-22T00:00:00Z,2019-09-03T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.10 Sprint 2 Bugs,2,5367,2019-09-04T00:00:00Z,2019-09-06T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.10 Sprint 3 Development,2,5368,2019-09-09T00:00:00Z,2019-09-20T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.10 Sprint 4 Bugs,2,5369,2019-09-23T00:00:00Z,2019-09-26T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2019.10 Sprint 5 Regression,2,5370,2019-09-27T00:00:00Z,2019-10-25T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Complete,2,5418,,
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Active_Hold,2,5601,2018-01-01T00:00:00Z,2018-12-31T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Sprint 4 Bugs,2,5697,2020-02-12T00:00:00Z,2020-02-18T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Cadence Sprint 5 Regression,2,5698,2020-02-19T00:00:00Z,2020-03-03T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.04 Cadence 6.0 Regression Continued,2,5784,2020-03-04T00:00:00Z,2020-03-17T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.03 Cadence Regression COntinued,2,5785,2020-03-18T00:00:00Z,2020-03-24T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.04  Sprint 1 Development,2,5786,2020-03-25T00:00:00Z,2020-04-07T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.04 Cadence Sprint 2 Bugs,2,5787,2020-04-08T00:00:00Z,2020-04-14T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\2020.04 Cadence Sprint 3 Development,2,5788,2020-04-15T00:00:00Z,2020-04-28T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.04 Sprint 4 Bugs,2,5842,2020-04-29T00:00:00Z,2020-05-05T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.04 Sprint 5 Regression,2,5843,2020-05-06T00:00:00Z,2020-05-19T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.09 Sprint 1 Development,2,5894,2020-05-20T00:00:00Z,2020-06-02T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.09 Sprint 2 Bugs,2,5895,2020-06-03T00:00:00Z,2020-06-09T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.09 Sprint 3 Develeopment,2,5896,2020-06-10T00:00:00Z,2020-06-30T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.09 Sprint 4 Bugs,2,5897,2020-07-01T00:00:00Z,2020-07-07T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.09 Sprint 5 Development,2,5898,2020-07-08T00:00:00Z,2020-07-27T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.09 Sprint 6 Bugs,2,5899,2020-07-28T00:00:00Z,2020-08-10T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.09 Sprint 7 Regression,2,5900,2020-08-12T00:00:00Z,2020-08-25T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.12 Sprint 1 Development,2,6312,2020-08-26T00:00:00Z,2020-09-15T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.12 Sprint 2 Bugs,2,6313,2020-09-16T00:00:00Z,2020-09-29T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.12 Sprint 3 Development,2,6314,2020-09-30T00:00:00Z,2020-10-16T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.12 Sprint 4 Bugs,2,6315,2020-10-19T00:00:00Z,2020-11-03T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2020.12 Sprint 5 Regression,2,6316,2020-11-04T00:00:00Z,2020-12-08T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2021.03,2,6377,2020-12-09T00:00:00Z,2021-03-01T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2021.06_6.10,2,6629,2021-03-02T00:00:00Z,2021-05-19T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2021.09_6.11,2,6630,2021-05-20T00:00:00Z,2021-08-19T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2021.12_6.12,2,6849,2021-08-20T00:00:00Z,2021-12-01T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2022.03_6.13,2,6970,2021-12-01T00:00:00Z,2022-02-23T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2022.06_7.0,2,7106,2022-02-28T00:00:00Z,2022-06-13T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2022.12 7.1_7.0.1,2,7253,2022-06-14T00:00:00Z,2022-11-14T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2023.03_7.2_7.0.2,2,7545,2022-11-14T00:00:00Z,2023-02-15T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2023.05_7.3_7.0.3,2,8993,2023-02-16T00:00:00Z,2023-05-10T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2023.08_7.4.0_7.0.4,2,9255,2023-05-11T00:00:00Z,2023-08-31T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2024.09_8.0_Sprint 1,2,9391,2024-03-21T00:00:00Z,2024-09-30T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2024.03_7.5_Sprint 2,2,9392,2023-12-03T00:00:00Z,2024-03-20T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2025.03_8.1_Sprint 1,2,9886,2024-10-01T00:00:00Z,2025-03-31T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2025_03_8.1_Sprint 1,2,9887,2024-10-03T00:00:00Z,2025-03-31T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation,2,10142,,
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S04,3,10143,2025-02-17T00:00:00Z,2025-02-28T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S05,3,10144,2025-03-03T00:00:00Z,2025-03-14T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S06,3,10145,2025-03-17T00:00:00Z,2025-03-28T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S07,3,10146,2025-03-31T00:00:00Z,2025-04-11T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S08,3,10147,2025-04-14T00:00:00Z,2025-04-25T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S09,3,10148,2025-04-28T00:00:00Z,2025-05-09T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S10,3,10149,2025-05-12T00:00:00Z,2025-05-23T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S11,3,10150,2025-05-26T00:00:00Z,2025-06-06T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S12,3,10151,2025-06-09T00:00:00Z,2025-06-20T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S13,3,10152,2025-06-23T00:00:00Z,2025-07-04T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S14,3,10153,2025-07-07T00:00:00Z,2025-07-18T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S15,3,10154,2025-07-21T00:00:00Z,2025-08-01T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S16,3,10155,2025-08-04T00:00:00Z,2025-08-15T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S17,3,10156,2025-08-18T00:00:00Z,2025-08-29T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S18,3,10157,2025-09-01T00:00:00Z,2025-09-12T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S19,3,10158,2025-09-15T00:00:00Z,2025-09-26T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S20,3,10159,2025-09-29T00:00:00Z,2025-10-10T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S21,3,10160,2025-10-13T00:00:00Z,2025-10-24T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S22,3,10161,2025-10-27T00:00:00Z,2025-11-07T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S23,3,10162,2025-11-10T00:00:00Z,2025-11-21T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S24,3,10163,2025-11-24T00:00:00Z,2025-12-05T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S25,3,10164,2025-12-08T00:00:00Z,2025-12-19T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-25-S26,3,10165,2025-12-22T00:00:00Z,2026-01-02T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S01,3,11257,2026-01-05T00:00:00Z,2026-01-16T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S02,3,11258,2026-01-19T00:00:00Z,2026-01-30T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S03,3,11310,2026-02-02T00:00:00Z,2026-02-13T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S04,3,11311,2026-02-16T00:00:00Z,2026-02-27T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S05,3,11312,2026-03-02T00:00:00Z,2026-03-13T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S06,3,11313,2026-03-16T00:00:00Z,2026-03-27T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S07,3,11314,2026-03-30T00:00:00Z,2026-04-10T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S08,3,11315,2026-04-13T00:00:00Z,2026-04-24T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Documentation\DOC-26-S09,3,11316,2026-04-27T00:00:00Z,2026-05-08T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2025_09_8.2_Sprint 1,2,10281,2025-04-01T00:00:00Z,2025-09-25T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2026_03_8.2.1_Sprint1,2,11166,2025-10-01T00:00:00Z,2026-03-16T00:00:00Z
+190431ef-1ebe-42d8-be88-778348564c8c,Safeguard Privileged Passwords,Iteration,Safeguard Privileged Passwords\Cadence 2026_04_9.0_Sprint1,2,11228,2026-03-17T00:00:00Z,2026-07-31T00:00:00Z

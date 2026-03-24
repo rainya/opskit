@@ -1,0 +1,55 @@
+{
+  "backlogIteration": {
+    "id": "6969371c-dc3e-40df-af0d-f9136e93b370",
+    "name": "Active Roles",
+    "path": "",
+    "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.FeatureCategory": true,
+    "Custom.262050fd-694d-444f-9018-e89a33a34f25": false,
+    "Microsoft.EpicCategory": false,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": {
+    "id": "b4613a0c-6848-46a8-afcf-b0915ef8dd50",
+    "name": "Sprint 201",
+    "path": "\\Sprint 201",
+    "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Iterations/Sprint%20201"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/1e1f1993-5bd2-4383-9417-ee32039b19b7/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/1e1f1993-5bd2-4383-9417-ee32039b19b7/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/teams/1e1f1993-5bd2-4383-9417-ee32039b19b7"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/1e1f1993-5bd2-4383-9417-ee32039b19b7/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/1e1f1993-5bd2-4383-9417-ee32039b19b7/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Iterations/Sprint%20201"
+      }
+    ]
+  }
+}

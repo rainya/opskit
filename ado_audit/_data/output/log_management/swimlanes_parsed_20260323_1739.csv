@@ -1,0 +1,36 @@
+Project ID,Project Name,Team ID,Team Name,Board ID,Board Name,Row ID,Row Name,Row Order,Is Default
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,DOC-syslog-ng_new_Backlog,9be239f3-c9d8-4d1d-b098-f08b2fdb618f,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,de303be4-d7dc-423d-902b-41ec51aebdba,DOC-syslog-ng new,57bb3da1-5034-4f72-bf3b-05fa6459de47,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,de303be4-d7dc-423d-902b-41ec51aebdba,DOC-syslog-ng new,a0b8d03f-e488-4cad-a62d-510605cb494a,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,DOC-syslog-ng_Open_Source_Edition_Backlog,2ddf687e-22c1-4e97-bb93-1bada44a7223,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,7bd62699-4653-42e2-9b75-50e9c0fd4177,DOC-syslog-ng Open Source Edition,2ac93ff5-9e07-4ff6-afd2-ffc4a109d950,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,7bd62699-4653-42e2-9b75-50e9c0fd4177,DOC-syslog-ng Open Source Edition,c03fcbe3-85f0-453f-b7a4-68081cd83377,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,DOC-syslog-ng_Premium_Edition_Backlog,2fac80cb-f951-4e4d-820c-c804bb66697a,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,ea45b3c0-36b9-4826-88a6-b90f258455de,DOC-syslog-ng Premium Edition,c9c99d7f-b626-4f17-96e5-e0cfea4c54ed,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,ea45b3c0-36b9-4826-88a6-b90f258455de,DOC-syslog-ng Premium Edition,a52b8d75-7634-4167-948b-11c9b6576c22,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,DOC-syslog-ng_Store_Box_Backlog,b652632a-082a-4e09-a9a4-6ebe2df927cb,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,8893f1b4-e8df-4085-b0b3-449cc5263332,DOC-syslog-ng Store Box,bb4b3f9c-b374-424f-8fc6-51fc95a6f79c,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,8893f1b4-e8df-4085-b0b3-449cc5263332,DOC-syslog-ng Store Box,fe12a43b-c244-494e-9c2c-3fbd80ff9c96,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,Documentation_Backlog,a199ebb1-04fd-4d4a-a034-531ecd44b6ec,Backlog items,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,072b0528-c489-4c41-bf3f-6765f59055d2,Documentation,468fa6c2-1f23-4cb1-9d1c-b0dc046f0c51,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,072b0528-c489-4c41-bf3f-6765f59055d2,Documentation,aa01932b-fc3d-4f13-9df6-663c237d0836,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,Log_Management_Team_Backlog,662f4796-0217-48b0-a27d-583240de8cb6,Backlog items,00000000-0000-0000-0000-000000000000,Development,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,Log_Management_Team_Backlog,662f4796-0217-48b0-a27d-583240de8cb6,Backlog items,27e01ad1-6508-4d93-b321-53b07378898b,DevEsc,2,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,Log_Management_Team_Backlog,662f4796-0217-48b0-a27d-583240de8cb6,Backlog items,0ed22b57-f85a-46b2-8c11-a9591f3e6ad0,QA/DevOps,3,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,Log_Management_Team_Backlog,662f4796-0217-48b0-a27d-583240de8cb6,Backlog items,6c093141-653e-450b-bc80-495417a55321,TW,4,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,9c6d8231-8438-410b-aa03-5528608c49f5,Log Management Team,cfa58a0c-0327-429f-9456-da032e6a0dfb,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,9c6d8231-8438-410b-aa03-5528608c49f5,Log Management Team,effe9ab4-22de-4a3e-b9da-5aeae6777b64,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,SSB_Team_Backlog,fbcf1ac8-0c6f-4f70-a3a6-72eedec199ac,Backlog items,00000000-0000-0000-0000-000000000000,Software Engineer,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,SSB_Team_Backlog,fbcf1ac8-0c6f-4f70-a3a6-72eedec199ac,Backlog items,6f699634-a8b4-4c50-9a37-a9d8b46a5cdb,DevOps,2,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,SSB_Team_Backlog,fbcf1ac8-0c6f-4f70-a3a6-72eedec199ac,Backlog items,270e94cb-cdc9-454a-b22b-249f25f0b8bf,Doc,3,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,9b448c04-af95-41e8-9809-a480c919da25,SSB Team,bf75e4a5-da43-4097-a0e2-b6e819859ee8,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,9b448c04-af95-41e8-9809-a480c919da25,SSB Team,760850ef-e6f2-44a2-82b5-59177edd00bd,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,syslog-ng_OSE_Team_Backlog,2eddbef4-3b37-4676-913d-27e34f96ce05,Backlog items,4b252b9e-1f36-41be-8383-d591ee5b3691,URGENT,1,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,syslog-ng_OSE_Team_Backlog,2eddbef4-3b37-4676-913d-27e34f96ce05,Backlog items,00000000-0000-0000-0000-000000000000,,2,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,7a8520b3-561c-4aa2-a286-1bd49d534acb,syslog-ng OSE Team,4d679887-ed5d-47fe-b7cf-eca990880e63,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,7a8520b3-561c-4aa2-a286-1bd49d534acb,syslog-ng OSE Team,a352775e-ed30-4967-9cf8-161a73c8a082,Features,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,syslog-ng_PE_Team_Backlog,9499c320-5049-4344-acf0-1db3a035fe5a,Backlog items,00000000-0000-0000-0000-000000000000,Software Engineer,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,syslog-ng_PE_Team_Backlog,9499c320-5049-4344-acf0-1db3a035fe5a,Backlog items,cc3509e5-42ee-466d-8188-3081b17f8f6d,DevOps,2,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,,syslog-ng_PE_Team_Backlog,9499c320-5049-4344-acf0-1db3a035fe5a,Backlog items,90c0e285-2cb2-48b5-9d5f-e89e34a392e5,Doc,3,False
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,6dc77ee6-af68-4026-9449-675a80d0b440,syslog-ng PE Team,07b3a618-e549-4a81-bab4-bb15698c8f69,Epics,00000000-0000-0000-0000-000000000000,,1,True
+68897d9b-7c56-465f-a3c3-169ca85cb20d,Log Management,6dc77ee6-af68-4026-9449-675a80d0b440,syslog-ng PE Team,52e01982-e89c-4cd7-a6a5-3b1cb3d05d7d,Features,00000000-0000-0000-0000-000000000000,,1,True

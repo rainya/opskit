@@ -1,0 +1,10 @@
+{
+  "id": "d8ec4489-4769-4dcb-b225-4f63e4cb18f8",
+  "name": "SBox-OID-Aha",
+  "description": "Sandbox for configuration validation between ADO and Aha! within OID's Engineering and Product organizations.",
+  "url": "https://dev.azure.com/1id/_apis/projects/d8ec4489-4769-4dcb-b225-4f63e4cb18f8",
+  "state": "wellFormed",
+  "revision": 15429,
+  "visibility": "private",
+  "lastUpdateTime": "2026-01-30T19:42:52.127Z"
+}

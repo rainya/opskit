@@ -1,0 +1,45 @@
+{
+  "backlogIteration": {
+    "id": "6969371c-dc3e-40df-af0d-f9136e93b370",
+    "name": "Active Roles",
+    "path": "",
+    "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.FeatureCategory": true,
+    "Custom.262050fd-694d-444f-9018-e89a33a34f25": false,
+    "Microsoft.EpicCategory": false,
+    "Microsoft.RequirementCategory": true
+  },
+  "defaultIteration": null,
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/f5a5ee70-17b3-4274-99c6-52849d165b90/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/f5a5ee70-17b3-4274-99c6-52849d165b90/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/teams/f5a5ee70-17b3-4274-99c6-52849d165b90"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/f5a5ee70-17b3-4274-99c6-52849d165b90/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/f5a5ee70-17b3-4274-99c6-52849d165b90/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": {
+      "href": "https://dev.azure.com/1id/e988dcfc-e57b-4c11-8116-ca1eef9be0d2/_apis/wit/classificationNodes/Iterations"
+    }
+  }
+}

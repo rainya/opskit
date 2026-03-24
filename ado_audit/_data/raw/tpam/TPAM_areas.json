@@ -1,0 +1,52 @@
+{
+  "id": 6533,
+  "identifier": "c0fc1757-37a7-4ec8-8eb6-ace5caf0703c",
+  "name": "TPAM",
+  "structureType": "area",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 6676,
+      "identifier": "d6091b2d-d482-416c-b1cb-a11488231f11",
+      "name": "2.5.923",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\TPAM\\Area\\2.5.923",
+      "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Areas/2.5.923"
+    },
+    {
+      "id": 6678,
+      "identifier": "1785ad8f-4c9c-45b9-8456-bfed367124bb",
+      "name": "2.5.950",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\TPAM\\Area\\2.5.950",
+      "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Areas/2.5.950"
+    },
+    {
+      "id": 6709,
+      "identifier": "ffb45aaf-0ca2-4583-a53d-b5a8c24efa6e",
+      "name": "950 Team",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\TPAM\\Area\\950 Team",
+      "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Areas/950%20Team"
+    },
+    {
+      "id": 6857,
+      "identifier": "31af7a2d-4df1-4b2b-9595-a7cf1cc8dc43",
+      "name": "TPAM Support",
+      "structureType": "area",
+      "hasChildren": false,
+      "path": "\\TPAM\\Area\\TPAM Support",
+      "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Areas/TPAM%20Support"
+    }
+  ],
+  "path": "\\TPAM\\Area",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Areas"
+    }
+  },
+  "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Areas"
+}

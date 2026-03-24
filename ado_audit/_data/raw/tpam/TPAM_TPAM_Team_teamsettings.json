@@ -1,0 +1,55 @@
+{
+  "backlogIteration": {
+    "id": "a4c6b595-4640-471b-b0a2-4908088632ea",
+    "name": "TPAM",
+    "path": "",
+    "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations"
+  },
+  "bugsBehavior": "asRequirements",
+  "workingDays": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "backlogVisibilities": {
+    "Microsoft.EpicCategory": true,
+    "Microsoft.FeatureCategory": true,
+    "Microsoft.RequirementCategory": true,
+    "Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff": false
+  },
+  "defaultIteration": {
+    "id": "6fa8de5a-fa84-4083-b3d8-779676344e77",
+    "name": "TPAM Support",
+    "path": "\\TPAM Support",
+    "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations/TPAM%20Support"
+  },
+  "defaultIterationMacro": "@currentIteration",
+  "url": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/dc09cbcf-95fe-46b2-8734-cda0c5687dd4/_apis/work/teamsettings",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/dc09cbcf-95fe-46b2-8734-cda0c5687dd4/_apis/work/teamsettings"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/1eb518b2-4cef-4257-802b-7f56201825ab"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/1eb518b2-4cef-4257-802b-7f56201825ab/teams/dc09cbcf-95fe-46b2-8734-cda0c5687dd4"
+    },
+    "teamIterations": {
+      "href": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/dc09cbcf-95fe-46b2-8734-cda0c5687dd4/_apis/work/teamsettings/iterations"
+    },
+    "teamFieldValues": {
+      "href": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/dc09cbcf-95fe-46b2-8734-cda0c5687dd4/_apis/work/teamsettings/teamfieldvalues"
+    },
+    "classificationNode": [
+      {
+        "href": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations"
+      },
+      {
+        "href": "https://dev.azure.com/1id/1eb518b2-4cef-4257-802b-7f56201825ab/_apis/wit/classificationNodes/Iterations/TPAM%20Support"
+      }
+    ]
+  }
+}

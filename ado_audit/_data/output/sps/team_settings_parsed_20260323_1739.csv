@@ -1,0 +1,14 @@
+Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,6f22775a-5b53-4c0d-b6ff-d95d0a6be1cc,A-Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\A-Team\26s06,@currentIteration,,True,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,e59a422c-6695-4c49-a0c4-27111599b5dd,Bug backlog,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,,False,False,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,60949543-7915-4809-a474-6f28bd7eb010,DevEsc,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,,False,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,3fc3fdef-98ee-4db6-81ea-a0ab68855fd7,Documentation bug backlog,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,,False,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,efdac06d-01f8-4dcb-9305-db3690a992d8,Documentation,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",\Documentation,\Documentation,,,False,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,518913f0-49bd-4a1b-bd32-aa111673f650,Feature backlog,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,,True,True,False
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,d2d9d2d6-dc71-4720-8643-9562dda6e902,Field Problems,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,,,True,False,False
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,15526d18-3294-4f43-a5a6-e54bd2215269,Rangers,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Rangers\26s06,@currentIteration,,False,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,42d22396-3118-4e07-b39a-f93c23bde377,RedMaster,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,,,False,False,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,36b981a3-63f6-445e-afd9-4f5f884f0aa5,SPS Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,,,True,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,b34c31ae-0a32-47b8-a46c-160510231e65,UX,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\zz Archive\Kanban iterations,@currentIteration,,False,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,27b980f2-a615-4efb-8729-fb274e9274d6,Virtual QA,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,,,False,True,True
+a1a8003e-d7eb-488b-b6b6-9f989b889636,SPS,f63de3ef-1df2-4c53-958a-e4122960a790,Watson,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Watson\26s03,@currentIteration,,False,True,True

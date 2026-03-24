@@ -1,0 +1,43 @@
+{
+  "id": 12225,
+  "identifier": "d31c1d72-2729-4ab4-baaf-63fe891018bd",
+  "name": "SBox-OID-Aha",
+  "structureType": "iteration",
+  "hasChildren": true,
+  "children": [
+    {
+      "id": 12227,
+      "identifier": "b1843a5a-095f-48f6-b209-05c849bc817a",
+      "name": "Iteration 1",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\SBox-OID-Aha\\Iteration\\Iteration 1",
+      "url": "https://dev.azure.com/1id/d8ec4489-4769-4dcb-b225-4f63e4cb18f8/_apis/wit/classificationNodes/Iterations/Iteration%201"
+    },
+    {
+      "id": 12228,
+      "identifier": "9b524f29-b8bc-4f3d-8177-e5aac23ac930",
+      "name": "Iteration 2",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\SBox-OID-Aha\\Iteration\\Iteration 2",
+      "url": "https://dev.azure.com/1id/d8ec4489-4769-4dcb-b225-4f63e4cb18f8/_apis/wit/classificationNodes/Iterations/Iteration%202"
+    },
+    {
+      "id": 12229,
+      "identifier": "502120ac-c3b8-426d-836a-ff55e759d583",
+      "name": "Iteration 3",
+      "structureType": "iteration",
+      "hasChildren": false,
+      "path": "\\SBox-OID-Aha\\Iteration\\Iteration 3",
+      "url": "https://dev.azure.com/1id/d8ec4489-4769-4dcb-b225-4f63e4cb18f8/_apis/wit/classificationNodes/Iterations/Iteration%203"
+    }
+  ],
+  "path": "\\SBox-OID-Aha\\Iteration",
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/d8ec4489-4769-4dcb-b225-4f63e4cb18f8/_apis/wit/classificationNodes/Iterations"
+    }
+  },
+  "url": "https://dev.azure.com/1id/d8ec4489-4769-4dcb-b225-4f63e4cb18f8/_apis/wit/classificationNodes/Iterations"
+}

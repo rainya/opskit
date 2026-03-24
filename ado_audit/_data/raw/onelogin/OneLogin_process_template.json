@@ -1,0 +1,37 @@
+{
+  "id": "5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8",
+  "name": "OneLogin",
+  "description": "Project for OneLogin work",
+  "url": "https://dev.azure.com/1id/_apis/projects/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8",
+  "state": "wellFormed",
+  "capabilities": {
+    "processTemplate": {
+      "templateName": "Scrum with Initiatives",
+      "templateTypeId": "e7e99f8f-7f00-4d0f-a37b-8f953e7132c1"
+    },
+    "versioncontrol": {
+      "sourceControlType": "Git",
+      "gitEnabled": "True",
+      "tfvcEnabled": "False"
+    }
+  },
+  "revision": 1292,
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/_apis/projects/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8"
+    },
+    "collection": {
+      "href": "https://dev.azure.com/1id/_apis/projectCollections/1a17aecc-befc-4727-832c-8b8c73d1e7c4"
+    },
+    "web": {
+      "href": "https://dev.azure.com/1id/OneLogin"
+    }
+  },
+  "visibility": "private",
+  "defaultTeam": {
+    "id": "c992b484-9e73-44d5-a5df-5f7ca93c511a",
+    "name": "Admin Team",
+    "url": "https://dev.azure.com/1id/_apis/projects/5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8/teams/c992b484-9e73-44d5-a5df-5f7ca93c511a"
+  },
+  "lastUpdateTime": "2024-07-28T17:58:45.387Z"
+}

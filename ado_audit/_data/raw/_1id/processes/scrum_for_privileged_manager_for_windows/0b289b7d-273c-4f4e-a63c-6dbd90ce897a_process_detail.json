@@ -1,0 +1,10 @@
+{
+  "typeId": "0b289b7d-273c-4f4e-a63c-6dbd90ce897a",
+  "name": "Scrum for Privileged Manager for Windows",
+  "referenceName": "Inherited.0b289b7d273c4f4ea63c6dbd90ce897a",
+  "description": "Process with customizations required for Privileged Manager for Windows",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

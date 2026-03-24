@@ -1,0 +1,10 @@
+{
+  "typeId": "db9f7108-5d09-4ebd-81dd-4d26eb3928b1",
+  "name": "Scrum for Global Enablement",
+  "referenceName": "Inherited.db9f71085d094ebd81dd4d26eb3928b1",
+  "description": "Scrum for Global Enablement project.",
+  "parentProcessTypeId": "6b724908-ef14-45cf-84f8-768b5384da45",
+  "isEnabled": true,
+  "isDefault": false,
+  "customizationType": "inherited"
+}

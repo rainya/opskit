@@ -1,0 +1,159 @@
+{
+  "id": "797fd1d4-9028-47a4-a77c-e89b46fea14d",
+  "url": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/57c7769a-7e35-4950-b96e-b45903bf2b4d/_apis/work/boards/797fd1d4-9028-47a4-a77c-e89b46fea14d",
+  "name": "Features",
+  "revision": 0,
+  "columns": [
+    {
+      "id": "7b13004b-b5dd-4beb-a7a3-eafc989a6a31",
+      "name": "New",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Feature": "New"
+      },
+      "columnType": "incoming"
+    },
+    {
+      "id": "7961e30d-c545-46e7-bac5-1a0560cf7ce3",
+      "name": "Prioritized",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "Prioritized"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "9fd04980-f95f-49c5-b170-0dd06210168e",
+      "name": "Grooming",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "Grooming"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "d367012f-e3e3-4c3b-9182-faf3b381adf7",
+      "name": "Awaiting Architecture Review",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "Awaiting Architecture Review"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "4226e6a5-c470-4e35-9714-2b0ef77d999a",
+      "name": "Reviewed",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "Reviewed"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "e74f7687-af8b-4d01-97a1-96e60e7c56cf",
+      "name": "Implementing",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "Implementing"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "4bebf7a1-b605-4047-a743-d75b6aabb285",
+      "name": "Complete",
+      "itemLimit": 5,
+      "stateMappings": {
+        "Feature": "Completed"
+      },
+      "isSplit": false,
+      "description": "",
+      "columnType": "inProgress"
+    },
+    {
+      "id": "08bd5d68-a0c1-46e9-8193-3b597505e548",
+      "name": "Done",
+      "itemLimit": 0,
+      "stateMappings": {
+        "Feature": "Done"
+      },
+      "columnType": "outgoing"
+    }
+  ],
+  "rows": [
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null
+    }
+  ],
+  "isValid": true,
+  "allowedMappings": {
+    "Incoming": {
+      "Feature": [
+        "New"
+      ]
+    },
+    "InProgress": {
+      "Feature": [
+        "In Progress",
+        "New",
+        "Prioritized",
+        "Grooming",
+        "Awaiting Architecture Review",
+        "Reviewed",
+        "Implementing",
+        "Completed"
+      ]
+    },
+    "Outgoing": {
+      "Feature": [
+        "Done"
+      ]
+    }
+  },
+  "canEdit": true,
+  "fields": {
+    "columnField": {
+      "referenceName": "WEF_B61456E609FD407185E445DFB35DA356_Kanban.Column",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_B61456E609FD407185E445DFB35DA356_Kanban.Column"
+    },
+    "rowField": {
+      "referenceName": "WEF_B61456E609FD407185E445DFB35DA356_Kanban.Lane",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_B61456E609FD407185E445DFB35DA356_Kanban.Lane"
+    },
+    "doneField": {
+      "referenceName": "WEF_B61456E609FD407185E445DFB35DA356_Kanban.Column.Done",
+      "url": "https://dev.azure.com/1id/_apis/wit/fields/WEF_B61456E609FD407185E445DFB35DA356_Kanban.Column.Done"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/57c7769a-7e35-4950-b96e-b45903bf2b4d/_apis/work/boards/797fd1d4-9028-47a4-a77c-e89b46fea14d"
+    },
+    "project": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea"
+    },
+    "team": {
+      "href": "https://dev.azure.com/1id/_apis/projects/0dc08af7-d2d0-4a86-b50c-0114295cfdea/teams/57c7769a-7e35-4950-b96e-b45903bf2b4d"
+    },
+    "charts": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/57c7769a-7e35-4950-b96e-b45903bf2b4d/_apis/work/boards/797fd1d4-9028-47a4-a77c-e89b46fea14d/charts"
+    },
+    "columns": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/57c7769a-7e35-4950-b96e-b45903bf2b4d/_apis/work/boards/797fd1d4-9028-47a4-a77c-e89b46fea14d/columns"
+    },
+    "rows": {
+      "href": "https://dev.azure.com/1id/0dc08af7-d2d0-4a86-b50c-0114295cfdea/57c7769a-7e35-4950-b96e-b45903bf2b4d/_apis/work/boards/797fd1d4-9028-47a4-a77c-e89b46fea14d/rows"
+    }
+  }
+}
