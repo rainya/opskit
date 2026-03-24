@@ -5,12 +5,8 @@ credentials.json
 *.key
 *.pem
 
-# Data and output
-*_data/raw/
-*_data/output/
-*_data/analysis/
-
-# Reference and backup directories
+# Data, backup, and reference directories
+ado_audit/_data/
 ado_audit/_backup/
 ado_audit/tests/
 
