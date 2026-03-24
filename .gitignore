@@ -1,0 +1,77 @@
+# Sensitive data
+ado_pat.txt
+.env
+credentials.json
+*.key
+*.pem
+
+# Data and output
+_data/raw/
+_data/output/
+_data/analysis/
+*.json
+*.csv
+
+# Reference and backup directories
+_backup
+tests/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Temporary files
+tmpclaude-*/
+*.tmp
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store

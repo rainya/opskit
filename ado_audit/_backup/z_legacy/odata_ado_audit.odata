@@ -1,0 +1,2 @@
+https://analytics.dev.azure.com/1id/_odata/v3.0-preview/WorkItems?
+$apply=filter(System.ChangedDate ge datetime'2025-04-08T14:44:40Z')/groupby((System.TeamProject,System.WorkItemType,System.State),aggregate($count as WI_Count))
