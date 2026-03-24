@@ -1,2 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,0c3669d7-2721-4974-a67e-0a5f791621de,Raven Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 1,@currentIteration,,False,True,True

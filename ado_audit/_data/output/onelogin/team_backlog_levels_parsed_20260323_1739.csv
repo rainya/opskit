@@ -1,6 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8,OneLogin,9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6,Technical Writers,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
-5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8,OneLogin,9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6,Technical Writers,Microsoft.EpicCategory,Epics,4,1000
-5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8,OneLogin,9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6,Technical Writers,Microsoft.FeatureCategory,Features,3,1000
-5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8,OneLogin,9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6,Technical Writers,Microsoft.RequirementCategory,Backlog items,2,1000
-5a22f4ee-a858-4a58-8fdb-b43b0f7a67b8,OneLogin,9e0a3bb0-91d7-4215-ae34-eded7b3cd6b6,Technical Writers,Microsoft.TaskCategory,Tasks,1,1000

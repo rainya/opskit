@@ -1,5 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,Microsoft.FeatureCategory,Features,3,1000
-907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,Microsoft.EpicCategory,Epics,4,1000
-907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,Microsoft.RequirementCategory,Backlog items,2,1000
-907bfa5b-1c8f-4f17-b772-8afc5b430e4d,Shield,24a94292-850c-4d42-b2ae-791606ab2dde,Shield Team,Microsoft.TaskCategory,Tasks,1,1000

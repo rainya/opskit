@@ -1,3 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,309a4d62-7557-4ecf-b955-f432f88297ac,Capacity Testing Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 197,@currentIteration,False,True,True,True
-bb307e8c-0b48-431a-9793-987a51373fe2,Capacity Testing,6d1242fb-db58-4f9c-9d47-02b999543e48,Identity Manager Testing,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 182,@currentIteration,False,True,True,True

@@ -1,6 +1,0 @@
-Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
-91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,Features,Portfolio,Feature,Feature,1000
-91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,Epics,Portfolio,Epic,Epic,1000
-91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,Initiatives,Portfolio,Initiative,Initiative,1000
-91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,Stories,Requirement,"System Change, User Story","System Change, User Story",1000
-91c39616-97bf-48ef-8cbb-72148c0a6192,SBox-OID-Migration,Tasks,Task,Task,Task,1000

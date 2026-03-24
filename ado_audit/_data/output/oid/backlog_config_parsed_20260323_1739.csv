@@ -1,6 +1,0 @@
-Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
-a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Features,Portfolio,Feature,Feature,1000
-a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Epics,Portfolio,Epic,Epic,1000
-a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Initiatives,Portfolio,Initiative,Initiative,1000
-a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Stories,Requirement,"System Change, User Story","System Change, User Story",1000
-a4c3e342-aef6-43ce-930a-fdf688dd1ed6,OID,Tasks,Task,Task,Task,1000

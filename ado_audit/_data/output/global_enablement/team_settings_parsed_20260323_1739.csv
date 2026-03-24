@@ -1,2 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 1,@currentIteration,,False,False,True

@@ -1,2 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-50f8d0c0-98e7-4b4a-858b-57740ed84a97,Virtual Directory Server,7ea543e8-958f-45da-b6aa-520064682048,Virtual Directory Server Team,asTasks,With Tasks,"monday, tuesday, wednesday, thursday, friday",,\Iteration 1,@currentIteration,,False,True,True

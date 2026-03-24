@@ -1,6 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,3c13016b-cb2d-4074-8415-977d700ff1f9,Sandbox - OID Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
-1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,3c13016b-cb2d-4074-8415-977d700ff1f9,Sandbox - OID Team,Microsoft.EpicCategory,Epics,4,1000
-1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,3c13016b-cb2d-4074-8415-977d700ff1f9,Sandbox - OID Team,Microsoft.FeatureCategory,Features,3,1000
-1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,3c13016b-cb2d-4074-8415-977d700ff1f9,Sandbox - OID Team,Microsoft.RequirementCategory,Backlog items,2,1000
-1a1ca370-f983-411b-877c-dc06f91b6e73,Sandbox - OID,3c13016b-cb2d-4074-8415-977d700ff1f9,Sandbox - OID Team,Microsoft.TaskCategory,Tasks,1,1000

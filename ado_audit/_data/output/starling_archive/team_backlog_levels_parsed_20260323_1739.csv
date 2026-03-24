@@ -1,6 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-2090d687-729d-49d5-a387-ba28cf754209,Starling Archive,0e67d1a1-45f1-439f-9af7-129d17670964,Starling Archive Team,Custom.9a8ce78b-8f90-4b68-ae73-2b20f4ef5cff,Initiatives,5,1000
-2090d687-729d-49d5-a387-ba28cf754209,Starling Archive,0e67d1a1-45f1-439f-9af7-129d17670964,Starling Archive Team,Microsoft.EpicCategory,Epics,4,1000
-2090d687-729d-49d5-a387-ba28cf754209,Starling Archive,0e67d1a1-45f1-439f-9af7-129d17670964,Starling Archive Team,Microsoft.FeatureCategory,Features,3,1000
-2090d687-729d-49d5-a387-ba28cf754209,Starling Archive,0e67d1a1-45f1-439f-9af7-129d17670964,Starling Archive Team,Microsoft.RequirementCategory,Backlog items,2,1000
-2090d687-729d-49d5-a387-ba28cf754209,Starling Archive,0e67d1a1-45f1-439f-9af7-129d17670964,Starling Archive Team,Microsoft.TaskCategory,Tasks,1,1000

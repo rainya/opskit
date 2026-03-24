@@ -1,5 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,Microsoft.EpicCategory,Epics,4,1000
-06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,Microsoft.FeatureCategory,Features,3,1000
-06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,Microsoft.RequirementCategory,Backlog items,2,1000
-06563b5a-8342-4b3e-9e7a-c43001706a81,Global Enablement,9738f89f-20ba-4b20-b743-91fb69160779,Global Enablement Team,Microsoft.TaskCategory,Tasks,1,1000

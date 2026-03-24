@@ -1,5 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,0c3669d7-2721-4974-a67e-0a5f791621de,Raven Team,Microsoft.FeatureCategory,Features,3,1000
-6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,0c3669d7-2721-4974-a67e-0a5f791621de,Raven Team,Microsoft.EpicCategory,Epics,4,1000
-6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,0c3669d7-2721-4974-a67e-0a5f791621de,Raven Team,Microsoft.RequirementCategory,Backlog items,2,1000
-6e0ac7dc-0580-45ee-83a0-ecbef007df35,Raven,0c3669d7-2721-4974-a67e-0a5f791621de,Raven Team,Microsoft.TaskCategory,Tasks,1,1000

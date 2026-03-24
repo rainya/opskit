@@ -1,2 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-3fd33410-c239-48f0-b75c-5e4d9ae493ac,Blackbird,871b651e-9377-471a-96af-02abc3b265df,Blackbird Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 1,@currentIteration,False,True,True,True

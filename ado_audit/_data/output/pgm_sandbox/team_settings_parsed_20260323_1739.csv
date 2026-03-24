@@ -1,3 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,a83b7196-0a9f-472a-89d7-4a0b69e97ec4,Identity Manager (M),asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True
-a5f118e8-f2a6-430e-9c05-8d9c709a2342,PgM Sandbox,4b0defa5-d3f3-41c8-8d8b-bde8d196e24a,PgM Sandbox Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 1,@currentIteration,False,False,True,True

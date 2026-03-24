@@ -1,5 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-c7aa2319-b458-4975-9827-191f86a39ad5,TechComm,022edf16-b018-42a3-ad46-f340b6429198,TechComm Team,Microsoft.EpicCategory,Epics,4,1000
-c7aa2319-b458-4975-9827-191f86a39ad5,TechComm,022edf16-b018-42a3-ad46-f340b6429198,TechComm Team,Microsoft.FeatureCategory,Features,3,1000
-c7aa2319-b458-4975-9827-191f86a39ad5,TechComm,022edf16-b018-42a3-ad46-f340b6429198,TechComm Team,Microsoft.RequirementCategory,Backlog items,2,1000
-c7aa2319-b458-4975-9827-191f86a39ad5,TechComm,022edf16-b018-42a3-ad46-f340b6429198,TechComm Team,Microsoft.TaskCategory,Tasks,1,1000

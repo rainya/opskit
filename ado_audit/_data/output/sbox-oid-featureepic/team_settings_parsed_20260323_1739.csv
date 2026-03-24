@@ -1,2 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,8d41c902-ce18-47fa-a406-4875d115f5ed,SBox-OID-FeatureEpic Team,asTasks,With Tasks,"monday, tuesday, wednesday, thursday, friday",,\Iteration 1,@currentIteration,True,False,False,True

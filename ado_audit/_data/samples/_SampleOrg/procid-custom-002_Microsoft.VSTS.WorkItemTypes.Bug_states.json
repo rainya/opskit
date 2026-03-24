@@ -1,6 +1,0 @@
-[
-  {"name": "New", "stateCategory": "Proposed", "customizationType": "inherited"},
-  {"name": "Active", "stateCategory": "InProgress", "customizationType": "inherited"},
-  {"name": "Testing", "stateCategory": "InProgress", "customizationType": "custom"},
-  {"name": "Closed", "stateCategory": "Completed", "customizationType": "inherited"}
-]

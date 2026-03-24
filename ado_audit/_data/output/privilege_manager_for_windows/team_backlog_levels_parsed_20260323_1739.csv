@@ -1,9 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Backlog ID,Backlog Level Name,Rank,Work Item Count Limit
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,569bb40a-1864-4cbb-a0c4-ac2332e48c93,Privilege Manager for Windows Team,Microsoft.EpicCategory,Epics,4,1000
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,569bb40a-1864-4cbb-a0c4-ac2332e48c93,Privilege Manager for Windows Team,Microsoft.FeatureCategory,Features,3,1000
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,569bb40a-1864-4cbb-a0c4-ac2332e48c93,Privilege Manager for Windows Team,Microsoft.RequirementCategory,Backlog items,2,1000
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,569bb40a-1864-4cbb-a0c4-ac2332e48c93,Privilege Manager for Windows Team,Microsoft.TaskCategory,Tasks,1,1000
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,80bb5811-a39f-4dd9-beca-b6567f0de764,Technical Writers,Microsoft.EpicCategory,Epics,4,1000
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,80bb5811-a39f-4dd9-beca-b6567f0de764,Technical Writers,Microsoft.FeatureCategory,Features,3,1000
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,80bb5811-a39f-4dd9-beca-b6567f0de764,Technical Writers,Microsoft.RequirementCategory,Backlog items,2,1000
-37db689c-f8ee-4fa2-820e-3eefa59af7ee,Privilege Manager for Windows,80bb5811-a39f-4dd9-beca-b6567f0de764,Technical Writers,Microsoft.TaskCategory,Tasks,1,1000

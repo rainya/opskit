@@ -1,8 +1,0 @@
-Project ID,Project Name,Backlog Level Name,Backlog Level Type,WIT Ref Names,WIT Display Names,Item Limit
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,ADO Epics,Portfolio,Epic,Epic,1000
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,ADO Features,Portfolio,Feature,Feature,1000
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,OID Features,Portfolio,OID Feature,OID Feature,1000
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,OID Initiatives,Portfolio,Initiative,Initiative,1000
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,OID Epics,Portfolio,OID Epic,OID Epic,1000
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,Stories,Requirement,"System Change, User Story","System Change, User Story",1000
-fdd8ef3b-b602-49f2-978f-e86458413170,SBox-OID-FeatureEpic,Tasks,Task,Task,Task,1000

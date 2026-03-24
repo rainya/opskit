@@ -1,3 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,a4827850-b501-4547-9c90-c167ac51543f,Rename Test Team,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,\Sprint 1,@currentIteration,False,False,True,True
-05a23854-c1cb-4d00-b640-03b432e5e9ac,Rename Test,be506261-e8eb-455c-888f-08bbbc2688ca,SRE,asRequirements,With Stories,"monday, tuesday, wednesday, thursday, friday",,,@currentIteration,False,False,True,True

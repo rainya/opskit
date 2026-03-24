@@ -1,2 +1,0 @@
-Project ID,Project Name,Team ID,Team Name,Bug Behavior,Bug Behavior Label,Working Days,Backlog Iteration Path,Default Iteration Path,Default Iteration Macro,Initiatives Visible,Epics Visible,Features Visible,Stories Visible
-d8ec4489-4769-4dcb-b225-4f63e4cb18f8,SBox-OID-Aha,acd9cd99-097b-48fd-b355-91b2f1aac709,SBox-OID-Aha Team,asTasks,With Tasks,"monday, tuesday, wednesday, thursday, friday",,\Iteration 1,@currentIteration,True,True,True,True
