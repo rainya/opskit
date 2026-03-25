@@ -13,6 +13,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from azure_devops.config import RAW_DATA_DIR, OUTPUT_DATA_DIR, CSV_TIMESTAMP_FORMAT
+from azure_devops.client import ORG
 
 
 class BaseParser(ABC):
@@ -77,6 +78,17 @@ class BaseParser(ABC):
         """
         pass
     
+    def get_org_output_filename(self):
+        """Return the org-level rollup filename prefix, or None to skip.
+
+        Override in subclasses to enable writing all project rows into a single
+        org-level CSV at output/_{ORG}/{filename}_{timestamp}.csv.
+
+        Returns:
+            str | None: Filename prefix, or None to skip org rollup
+        """
+        return None
+
     @abstractmethod
     def get_csv_fieldnames(self):
         """Return the CSV column names.
@@ -121,6 +133,7 @@ class BaseParser(ABC):
             return
         
         total_projects = 0
+        all_rows = []  # accumulated across all projects for org rollup
         file_pattern = self.get_file_pattern()
         
         for project_folder in project_folders:
@@ -157,6 +170,7 @@ class BaseParser(ABC):
             output_file = os.path.join(project_output_dir, output_filename)
             
             self.write_csv(rows, output_file)
+            all_rows.extend(rows)
             
             # Extract project name from first row if available
             project_name = rows[0].get("Project Name", project_folder) if rows else project_folder
@@ -164,3 +178,12 @@ class BaseParser(ABC):
             total_projects += 1
         
         print(f"\n[OK] Completed parsing {total_projects} project(s)")
+
+        # Write org-level rollup if the subclass opts in
+        org_filename_prefix = self.get_org_output_filename()
+        if org_filename_prefix and all_rows:
+            org_output_dir = os.path.join(self.output_dir, f"_{ORG}")
+            os.makedirs(org_output_dir, exist_ok=True)
+            org_output_file = os.path.join(org_output_dir, f"{org_filename_prefix}_{self.timestamp}.csv")
+            self.write_csv(all_rows, org_output_file)
+            print(f"[OK] Org rollup: {len(all_rows)} row(s) written to {org_output_file}")

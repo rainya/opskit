@@ -30,6 +30,9 @@ class ProcessTemplateParser(BaseParser):
     
     def get_csv_fieldnames(self):
         return ["Project ID", "Project Name", "Template Name", "Template Type ID", "Is Custom Inherited"]
+
+    def get_org_output_filename(self):
+        return "process_template_org_summary"
     
     def parse_project_data(self, project_folder, project_raw_dir, files):
         """Parse process template for a project."""
