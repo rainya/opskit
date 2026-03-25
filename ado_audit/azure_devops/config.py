@@ -5,6 +5,7 @@ values throughout the codebase. Values can be overridden via environment
 variables for different deployment contexts.
 """
 import os
+from pathlib import Path
 
 # API Configuration
 # API version keys used throughout the toolkit:
@@ -28,10 +29,13 @@ API_VERSIONS = {
 }
 
 # Directory Configuration
-RAW_DATA_DIR = os.getenv("DATA_RAW_DIR", "_data/raw")
-OUTPUT_DATA_DIR = os.getenv("DATA_OUTPUT_DIR", "_data/output")
-RAW_SAMPLES_DIR = os.getenv("DATA_SAMPLES_DIR", "_data/samples")
-ARCHIVE_OUTPUT_DIR = os.getenv("ARCHIVE_OUTPUT_DIR", "archive_output")
+# Anchor default paths to the toolkit root (ado_audit/) so behavior is
+# consistent regardless of the caller's current working directory.
+TOOLKIT_ROOT = Path(__file__).resolve().parent.parent
+RAW_DATA_DIR = os.getenv("DATA_RAW_DIR", str(TOOLKIT_ROOT / "_data" / "raw"))
+OUTPUT_DATA_DIR = os.getenv("DATA_OUTPUT_DIR", str(TOOLKIT_ROOT / "_data" / "output"))
+RAW_SAMPLES_DIR = os.getenv("DATA_SAMPLES_DIR", str(TOOLKIT_ROOT / "_data" / "samples"))
+ARCHIVE_OUTPUT_DIR = os.getenv("ARCHIVE_OUTPUT_DIR", str(TOOLKIT_ROOT / "archive_output"))
 
 # CSV Output Configuration
 CSV_TIMESTAMP_FORMAT = "%Y%m%d_%H%M"

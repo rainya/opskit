@@ -14,6 +14,7 @@ Examples (cmd.exe):
 import argparse
 import subprocess
 import sys
+from pathlib import Path
 from typing import List
 
 
@@ -68,7 +69,11 @@ ANALYZE_MAP = {
 
 def run_script(path: str, projects: List[str]) -> bool:
     """Run a script subprocess. Returns True on success, False on failure."""
-    cmd = [sys.executable, path]
+    script_path = Path(path)
+    if not script_path.is_absolute():
+        script_path = (Path(__file__).resolve().parent / script_path).resolve()
+
+    cmd = [sys.executable, str(script_path)]
     if projects:
         cmd += projects
     print(f"Running: {' '.join(cmd)}")
